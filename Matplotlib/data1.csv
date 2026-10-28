@@ -1,0 +1,501 @@
+OrderID,OrderDate,Product,Category,Region,Quantity,UnitPrice,DiscountPct,Sales,Profit,PaymentMethod
+ORD0213,2025-01-02,Storage Box,Home,North,2,7191,0.0,14382.0,3705.54,UPI
+ORD0261,2025-01-03,Desk Lamp,Home,Central,5,11780,0.0,58900.0,14536.26,Credit Card
+ORD0448,2025-01-03,Jeans,Clothing,North,7,4876,0.15,29012.2,9624.06,Net Banking
+ORD0031,2025-01-05,T-Shirt,Clothing,East,3,1176,0.15,2998.8,1119.65,Net Banking
+ORD0034,2025-01-05,Laptop,Electronics,South,3,36555,0.15,93215.25,35009.03,UPI
+ORD0099,2025-01-05,Monitor,Electronics,East,8,55380,0.0,443040.0,105390.58,Credit Card
+ORD0281,2025-01-05,T-Shirt,Clothing,North,7,4213,0.0,29491.0,8997.09,UPI
+ORD0482,2025-01-07,Phone,Electronics,North,7,51343,0.0,359401.0,129472.79,Net Banking
+ORD0409,2025-01-09,Notebook,Stationery,North,1,804,0.2,643.2,157.15,Debit Card
+ORD0192,2025-01-10,Planner,Stationery,Central,7,238,0.1,1499.4,404.02,Cash
+ORD0364,2025-01-10,Phone,Electronics,Central,4,46250,0.0,185000.0,56412.95,Debit Card
+ORD0153,2025-01-10,Jeans,Clothing,South,3,4623,0.0,13869.0,2595.56,Debit Card
+ORD0420,2025-01-10,Monitor,Electronics,Central,7,51210,0.15,304699.5,104150.89,Cash
+ORD0351,2025-01-11,Keyboard,Electronics,Central,3,43226,0.0,129678.0,45759.34,Debit Card
+ORD0080,2025-01-11,Backpack,Clothing,East,1,4154,0.2,3323.2,954.86,Credit Card
+ORD0379,2025-01-15,Bedsheet,Home,East,8,6988,0.0,55904.0,19092.12,UPI
+ORD0064,2025-01-15,Planner,Stationery,Central,3,846,0.05,2411.1,766.48,Debit Card
+ORD0318,2025-01-15,Backpack,Clothing,West,3,6938,0.15,17691.9,5790.28,UPI
+ORD0009,2025-01-17,Sneakers,Clothing,West,5,4946,0.05,23493.5,8368.67,Cash
+ORD0384,2025-01-19,Laptop,Electronics,East,5,59134,0.2,236536.0,51696.76,Debit Card
+ORD0093,2025-01-19,Phone,Electronics,North,5,15708,0.2,62832.0,13121.38,Cash
+ORD0342,2025-01-20,Blender,Home,West,7,10379,0.2,58122.4,17406.73,Debit Card
+ORD0425,2025-01-21,T-Shirt,Clothing,West,5,5040,0.15,21420.0,7879.24,Debit Card
+ORD0041,2025-01-23,Notebook,Stationery,North,4,710,0.05,2698.0,628.78,Debit Card
+ORD0157,2025-01-23,Planner,Stationery,North,5,837,0.0,4185.0,1324.8,Net Banking
+ORD0296,2025-01-23,Phone,Electronics,North,1,31717,0.0,31717.0,4461.06,Net Banking
+ORD0033,2025-01-23,Headphones,Electronics,West,3,42553,0.1,114893.1,29239.82,Net Banking
+ORD0070,2025-01-24,Monitor,Electronics,North,5,46505,0.1,209272.5,81453.82,Net Banking
+ORD0350,2025-01-26,Storage Box,Home,West,4,3876,0.2,12403.2,4440.11,Net Banking
+ORD0084,2025-01-27,Blender,Home,Central,3,4969,0.1,13416.3,5146.12,Credit Card
+ORD0331,2025-01-28,T-Shirt,Clothing,North,7,5723,0.15,34051.85,9394.96,UPI
+ORD0456,2025-01-28,Markers,Stationery,North,1,732,0.0,732.0,207.04,Net Banking
+ORD0385,2025-01-28,Bedsheet,Home,West,6,10404,0.2,49939.2,11128.94,UPI
+ORD0316,2025-01-30,File Folder,Stationery,South,6,193,0.0,1158.0,400.25,Debit Card
+ORD0223,2025-01-30,Markers,Stationery,West,3,238,0.05,678.3,153.29,Debit Card
+ORD0016,2025-01-30,Storage Box,Home,South,2,8212,0.15,13960.4,2655.96,Cash
+ORD0139,2025-02-01,Notebook,Stationery,West,6,691,0.0,4146.0,1692.64,Cash
+ORD0221,2025-02-01,Bedsheet,Home,East,8,5892,0.1,42422.4,7816.69,Cash
+ORD0193,2025-02-01,Storage Box,Home,South,4,5575,0.15,18955.0,5818.29,Cash
+ORD0022,2025-02-01,Planner,Stationery,South,2,579,0.1,1042.2,393.89,Debit Card
+ORD0354,2025-02-02,Jacket,Clothing,East,6,2439,0.2,11707.2,1572.79,Credit Card
+ORD0492,2025-02-02,Pen Set,Stationery,East,8,657,0.05,4993.2,1613.9,UPI
+ORD0247,2025-02-02,Bedsheet,Home,South,5,5161,0.0,25805.0,8042.45,Cash
+ORD0141,2025-02-03,T-Shirt,Clothing,East,7,6228,0.15,37056.6,5855.54,UPI
+ORD0311,2025-02-03,Bedsheet,Home,Central,3,5682,0.1,15341.4,6210.33,Cash
+ORD0046,2025-02-07,Markers,Stationery,North,4,536,0.1,1929.6,669.19,UPI
+ORD0321,2025-02-07,Sneakers,Clothing,West,2,2942,0.0,5884.0,1178.53,Cash
+ORD0097,2025-02-07,Planner,Stationery,South,5,286,0.1,1287.0,214.17,Cash
+ORD0374,2025-02-08,Headphones,Electronics,South,4,30733,0.0,122932.0,47950.53,UPI
+ORD0275,2025-02-08,Keyboard,Electronics,North,5,46328,0.05,220058.0,54005.17,Cash
+ORD0165,2025-02-08,Planner,Stationery,West,3,899,0.15,2292.45,496.48,UPI
+ORD0145,2025-02-09,T-Shirt,Clothing,South,1,6577,0.0,6577.0,1583.91,Credit Card
+ORD0495,2025-02-10,Notebook,Stationery,Central,6,843,0.2,4046.4,1628.72,Debit Card
+ORD0290,2025-02-10,Desk Lamp,Home,North,6,9858,0.2,47318.4,10205.79,Debit Card
+ORD0079,2025-02-11,Keyboard,Electronics,Central,6,40364,0.0,242184.0,31829.44,Net Banking
+ORD0116,2025-02-11,Backpack,Clothing,East,3,2552,0.2,6124.8,1496.84,Cash
+ORD0268,2025-02-12,Phone,Electronics,West,5,2942,0.05,13974.5,5164.1,Net Banking
+ORD0237,2025-02-12,Markers,Stationery,Central,6,73,0.0,438.0,156.18,Cash
+ORD0126,2025-02-13,Phone,Electronics,West,3,50242,0.0,150726.0,51001.03,Cash
+ORD0246,2025-02-13,Storage Box,Home,West,3,6487,0.05,18487.95,6094.75,Credit Card
+ORD0245,2025-02-15,Backpack,Clothing,West,2,6726,0.1,12106.8,5040.03,Cash
+ORD0319,2025-02-16,Phone,Electronics,South,4,2106,0.05,8002.8,1157.45,Credit Card
+ORD0480,2025-02-16,Chair,Home,West,8,5851,0.1,42127.2,5081.0,UPI
+ORD0104,2025-02-16,Notebook,Stationery,East,5,407,0.2,1628.0,317.94,Net Banking
+ORD0308,2025-02-16,Blender,Home,South,7,1052,0.05,6995.8,1217.08,UPI
+ORD0045,2025-02-17,Blender,Home,West,4,3512,0.0,14048.0,4868.3,Net Banking
+ORD0224,2025-02-17,Chair,Home,South,5,11287,0.0,56435.0,8911.87,Net Banking
+ORD0493,2025-02-19,Laptop,Electronics,North,3,12507,0.1,33768.9,12241.73,Net Banking
+ORD0386,2025-02-19,Chair,Home,North,6,10631,0.15,54218.1,14281.29,UPI
+ORD0462,2025-02-20,Chair,Home,East,4,4416,0.2,14131.2,5526.85,Debit Card
+ORD0415,2025-02-20,Storage Box,Home,North,8,5670,0.2,36288.0,8105.22,Debit Card
+ORD0469,2025-02-22,Laptop,Electronics,North,8,36742,0.1,264542.4,69523.11,UPI
+ORD0378,2025-02-23,File Folder,Stationery,East,8,478,0.0,3824.0,904.77,Net Banking
+ORD0257,2025-02-23,Sneakers,Clothing,South,2,3153,0.05,5990.7,1697.77,Net Banking
+ORD0454,2025-02-24,Laptop,Electronics,East,8,41027,0.0,328216.0,54351.53,Net Banking
+ORD0059,2025-02-25,Headphones,Electronics,South,7,26795,0.15,159430.25,33929.26,UPI
+ORD0040,2025-02-25,Planner,Stationery,South,6,148,0.1,799.2,120.0,Debit Card
+ORD0077,2025-02-28,Desk Lamp,Home,Central,5,2580,0.0,12900.0,2350.53,Net Banking
+ORD0103,2025-02-28,Notebook,Stationery,Central,3,771,0.2,1850.4,233.18,Debit Card
+ORD0271,2025-03-02,Desk Lamp,Home,South,6,11894,0.1,64227.6,23777.41,Credit Card
+ORD0186,2025-03-02,Chair,Home,Central,7,5805,0.0,40635.0,14640.08,Cash
+ORD0298,2025-03-03,Phone,Electronics,East,4,53513,0.0,214052.0,33585.32,Debit Card
+ORD0307,2025-03-03,Phone,Electronics,East,5,54958,0.0,274790.0,97686.13,Credit Card
+ORD0484,2025-03-04,Sneakers,Clothing,South,5,726,0.0,3630.0,464.7,Cash
+ORD0154,2025-03-04,Phone,Electronics,West,7,42674,0.0,298718.0,50481.46,Net Banking
+ORD0278,2025-03-05,Bedsheet,Home,East,8,7259,0.0,58072.0,9021.81,Credit Card
+ORD0166,2025-03-06,Phone,Electronics,West,6,24533,0.15,125118.3,46790.31,Debit Card
+ORD0174,2025-03-07,Desk Lamp,Home,South,7,1157,0.0,8099.0,2662.65,Debit Card
+ORD0120,2025-03-08,Monitor,Electronics,West,6,44709,0.2,214603.2,29542.5,UPI
+ORD0310,2025-03-08,Bedsheet,Home,North,6,10576,0.15,53937.6,13169.64,UPI
+ORD0102,2025-03-09,Backpack,Clothing,East,5,2405,0.1,10822.5,1404.6,Debit Card
+ORD0212,2025-03-09,Markers,Stationery,West,1,856,0.05,813.2,165.09,Debit Card
+ORD0430,2025-03-10,Monitor,Electronics,Central,3,4464,0.15,11383.2,1508.6,Net Banking
+ORD0267,2025-03-11,Bedsheet,Home,West,8,11468,0.2,73395.2,12332.78,Credit Card
+ORD0478,2025-03-11,T-Shirt,Clothing,East,8,2529,0.15,17197.2,4684.54,UPI
+ORD0152,2025-03-12,Headphones,Electronics,North,8,46417,0.1,334202.4,95387.9,UPI
+ORD0285,2025-03-13,Blender,Home,North,2,9316,0.2,14905.6,3543.39,Debit Card
+ORD0361,2025-03-15,Jeans,Clothing,North,2,5469,0.05,10391.1,2386.32,Cash
+ORD0432,2025-03-15,Storage Box,Home,South,5,11482,0.15,48798.5,11849.31,Cash
+ORD0197,2025-03-16,T-Shirt,Clothing,West,5,947,0.1,4261.5,951.2,Credit Card
+ORD0274,2025-03-16,Jeans,Clothing,West,7,5030,0.05,33449.5,7748.78,Cash
+ORD0337,2025-03-17,Keyboard,Electronics,West,3,62997,0.0,188991.0,72221.81,UPI
+ORD0355,2025-03-18,Chair,Home,West,7,5486,0.2,30721.6,12668.46,Debit Card
+ORD0479,2025-03-19,Monitor,Electronics,North,1,12985,0.0,12985.0,2667.65,Credit Card
+ORD0243,2025-03-20,Pen Set,Stationery,West,7,123,0.0,861.0,118.05,Debit Card
+ORD0004,2025-03-21,Blender,Home,North,2,6474,0.05,12300.6,2938.39,Cash
+ORD0474,2025-03-21,T-Shirt,Clothing,West,1,3117,0.1,2805.3,727.89,Cash
+ORD0411,2025-03-22,Desk Lamp,Home,East,7,9191,0.0,64337.0,21268.72,UPI
+ORD0346,2025-03-23,Headphones,Electronics,South,7,9689,0.0,67823.0,24563.52,UPI
+ORD0008,2025-03-25,Markers,Stationery,North,5,600,0.0,3000.0,643.85,Credit Card
+ORD0387,2025-03-26,Pen Set,Stationery,West,7,230,0.0,1610.0,617.88,Credit Card
+ORD0094,2025-03-27,T-Shirt,Clothing,South,1,2703,0.05,2567.85,746.72,Net Banking
+ORD0365,2025-03-27,Laptop,Electronics,East,5,62958,0.15,267571.5,64508.55,Cash
+ORD0266,2025-03-27,Planner,Stationery,North,3,664,0.0,1992.0,319.4,Cash
+ORD0075,2025-03-30,Phone,Electronics,South,1,27572,0.1,24814.8,8253.95,Debit Card
+ORD0323,2025-04-01,Monitor,Electronics,Central,7,56555,0.15,336502.25,109206.73,Credit Card
+ORD0434,2025-04-01,File Folder,Stationery,South,1,800,0.0,800.0,313.63,Net Banking
+ORD0216,2025-04-02,File Folder,Stationery,West,3,804,0.0,2412.0,305.0,Net Banking
+ORD0146,2025-04-03,Bedsheet,Home,Central,1,6218,0.0,6218.0,802.89,Debit Card
+ORD0124,2025-04-03,Storage Box,Home,Central,7,2574,0.0,18018.0,7071.57,Credit Card
+ORD0468,2025-04-05,Phone,Electronics,South,4,44186,0.2,141395.2,55989.75,Cash
+ORD0168,2025-04-06,File Folder,Stationery,South,7,298,0.05,1981.7,413.76,Net Banking
+ORD0162,2025-04-06,Markers,Stationery,North,6,850,0.0,5100.0,1029.57,Cash
+ORD0204,2025-04-06,Headphones,Electronics,West,5,38010,0.0,190050.0,44987.43,Cash
+ORD0458,2025-04-06,Jeans,Clothing,South,5,3110,0.0,15550.0,4204.24,Cash
+ORD0428,2025-04-06,Blender,Home,West,2,4023,0.05,7643.7,1558.73,Cash
+ORD0497,2025-04-08,Storage Box,Home,North,4,10495,0.2,33584.0,8481.89,Net Banking
+ORD0360,2025-04-10,Keyboard,Electronics,Central,5,27873,0.0,139365.0,44206.44,Cash
+ORD0414,2025-04-10,Phone,Electronics,North,1,56596,0.15,48106.6,19149.15,Debit Card
+ORD0453,2025-04-13,Desk Lamp,Home,East,5,4005,0.0,20025.0,3386.22,Credit Card
+ORD0372,2025-04-14,Sneakers,Clothing,West,5,4790,0.0,23950.0,5114.25,Debit Card
+ORD0198,2025-04-14,Backpack,Clothing,North,5,5343,0.15,22707.75,7907.19,Net Banking
+ORD0272,2025-04-16,Monitor,Electronics,East,6,35683,0.0,214098.0,69133.08,Debit Card
+ORD0286,2025-04-16,Bedsheet,Home,North,5,1144,0.0,5720.0,1553.17,Credit Card
+ORD0332,2025-04-16,Blender,Home,East,2,2142,0.1,3855.6,1074.62,UPI
+ORD0239,2025-04-17,Bedsheet,Home,West,2,2911,0.15,4948.7,839.32,Net Banking
+ORD0032,2025-04-18,Jeans,Clothing,West,5,2357,0.0,11785.0,4623.38,Debit Card
+ORD0413,2025-04-18,Jeans,Clothing,Central,7,4498,0.0,31486.0,11486.16,Debit Card
+ORD0367,2025-04-19,Monitor,Electronics,East,3,8871,0.0,26613.0,8181.96,Net Banking
+ORD0284,2025-04-22,Laptop,Electronics,West,3,50112,0.1,135302.4,42557.92,Debit Card
+ORD0270,2025-04-22,Notebook,Stationery,North,4,299,0.05,1136.2,183.31,Cash
+ORD0256,2025-04-24,Planner,Stationery,North,7,737,0.15,4385.15,1643.45,Cash
+ORD0199,2025-04-26,Chair,Home,South,2,5661,0.0,11322.0,2441.5,UPI
+ORD0096,2025-04-29,Planner,Stationery,Central,8,853,0.1,6141.6,919.01,Credit Card
+ORD0301,2025-04-30,T-Shirt,Clothing,North,6,3382,0.2,16233.6,3276.52,Credit Card
+ORD0373,2025-05-01,Laptop,Electronics,North,2,60233,0.1,108419.4,40685.1,Net Banking
+ORD0107,2025-05-01,Bedsheet,Home,South,8,11235,0.15,76398.0,22481.03,Cash
+ORD0336,2025-05-01,Planner,Stationery,Central,2,544,0.15,924.8,138.59,Net Banking
+ORD0024,2025-05-02,Bedsheet,Home,West,8,3752,0.0,30016.0,9194.14,Debit Card
+ORD0500,2025-05-04,Bedsheet,Home,East,5,7662,0.0,38310.0,7742.68,Net Banking
+ORD0404,2025-05-05,Headphones,Electronics,North,7,60826,0.15,361914.7,73398.95,Net Banking
+ORD0226,2025-05-05,Bedsheet,Home,East,4,5519,0.1,19868.4,5565.63,Debit Card
+ORD0219,2025-05-06,Keyboard,Electronics,East,8,16157,0.0,129256.0,48853.51,Credit Card
+ORD0049,2025-05-07,Backpack,Clothing,South,8,2549,0.0,20392.0,4199.46,Debit Card
+ORD0057,2025-05-07,Chair,Home,South,3,2318,0.0,6954.0,1744.13,Cash
+ORD0181,2025-05-07,Chair,Home,South,1,6543,0.0,6543.0,858.4,Debit Card
+ORD0195,2025-05-07,Backpack,Clothing,West,5,6617,0.2,26468.0,9470.69,Debit Card
+ORD0347,2025-05-08,Keyboard,Electronics,West,1,60964,0.05,57915.8,17924.62,Net Banking
+ORD0408,2025-05-09,Monitor,Electronics,West,4,60502,0.1,217807.2,50299.27,Debit Card
+ORD0129,2025-05-11,Jacket,Clothing,Central,2,6419,0.0,12838.0,4894.41,Credit Card
+ORD0449,2025-05-12,Sneakers,Clothing,West,7,6607,0.05,43936.55,5783.3,Cash
+ORD0437,2025-05-12,Chair,Home,South,1,8811,0.0,8811.0,2709.3,Debit Card
+ORD0356,2025-05-13,Markers,Stationery,East,7,755,0.15,4492.25,787.02,Credit Card
+ORD0358,2025-05-13,Blender,Home,East,2,6070,0.05,11533.0,3389.07,Debit Card
+ORD0359,2025-05-14,Sneakers,Clothing,North,2,5496,0.15,9343.2,1277.31,Cash
+ORD0206,2025-05-14,Pen Set,Stationery,North,8,339,0.15,2305.2,468.27,Debit Card
+ORD0227,2025-05-14,Backpack,Clothing,East,8,6876,0.1,49507.2,9481.19,Credit Card
+ORD0470,2025-05-15,Chair,Home,South,7,4007,0.05,26646.55,7648.94,Credit Card
+ORD0014,2025-05-15,Storage Box,Home,South,2,10494,0.2,16790.4,4494.81,Credit Card
+ORD0334,2025-05-15,Blender,Home,Central,1,11660,0.0,11660.0,2560.04,Cash
+ORD0424,2025-05-16,Jeans,Clothing,West,1,4542,0.05,4314.9,1309.88,UPI
+ORD0460,2025-05-19,Storage Box,Home,North,7,6490,0.2,36344.0,13633.93,Credit Card
+ORD0238,2025-05-19,Laptop,Electronics,East,5,59737,0.0,298685.0,109376.55,UPI
+ORD0244,2025-05-19,Phone,Electronics,North,2,13080,0.15,22236.0,5920.73,UPI
+ORD0279,2025-05-21,Headphones,Electronics,East,5,6201,0.0,31005.0,12540.4,Credit Card
+ORD0362,2025-05-21,Desk Lamp,Home,West,3,1692,0.1,4568.4,1050.52,Cash
+ORD0446,2025-05-22,Planner,Stationery,North,7,560,0.0,3920.0,779.78,UPI
+ORD0344,2025-05-24,Notebook,Stationery,West,4,483,0.05,1835.4,622.52,Net Banking
+ORD0148,2025-05-25,File Folder,Stationery,East,7,234,0.15,1392.3,526.96,UPI
+ORD0069,2025-05-25,Phone,Electronics,South,5,15708,0.0,78540.0,16304.47,Debit Card
+ORD0071,2025-05-26,Markers,Stationery,North,8,288,0.1,2073.6,799.94,Cash
+ORD0234,2025-05-27,Monitor,Electronics,South,7,53633,0.15,319116.35,119774.18,Net Banking
+ORD0169,2025-05-27,Pen Set,Stationery,North,2,206,0.2,329.6,94.42,Debit Card
+ORD0289,2025-05-27,Markers,Stationery,North,7,580,0.15,3451.0,1291.35,Debit Card
+ORD0395,2025-05-27,Jeans,Clothing,West,1,1971,0.15,1675.35,687.41,UPI
+ORD0121,2025-05-28,Jacket,Clothing,North,2,2042,0.2,3267.2,899.6,Debit Card
+ORD0078,2025-05-28,Notebook,Stationery,West,8,442,0.05,3359.2,906.51,Cash
+ORD0375,2025-05-29,Jacket,Clothing,South,7,1078,0.0,7546.0,3147.42,Credit Card
+ORD0088,2025-06-02,Pen Set,Stationery,West,8,370,0.15,2516.0,480.9,Cash
+ORD0236,2025-06-03,Laptop,Electronics,North,2,27360,0.1,49248.0,19855.1,Credit Card
+ORD0392,2025-06-03,Backpack,Clothing,South,4,5413,0.05,20569.4,4402.19,Credit Card
+ORD0475,2025-06-03,Keyboard,Electronics,West,5,39925,0.15,169681.25,52246.02,Net Banking
+ORD0074,2025-06-06,Monitor,Electronics,South,2,62901,0.05,119511.9,26516.29,Credit Card
+ORD0035,2025-06-07,T-Shirt,Clothing,Central,6,2344,0.0,14064.0,4414.64,Cash
+ORD0190,2025-06-07,Monitor,Electronics,North,8,18201,0.15,123766.8,30534.47,Net Banking
+ORD0137,2025-06-08,Markers,Stationery,North,1,108,0.2,86.4,13.89,Net Banking
+ORD0133,2025-06-08,Jeans,Clothing,Central,6,925,0.2,4440.0,1712.92,Credit Card
+ORD0282,2025-06-10,Jacket,Clothing,Central,3,5555,0.0,16665.0,6657.28,UPI
+ORD0026,2025-06-10,Laptop,Electronics,South,8,33754,0.15,229527.2,90885.1,UPI
+ORD0160,2025-06-11,Backpack,Clothing,South,7,4178,0.0,29246.0,5674.1,Debit Card
+ORD0455,2025-06-11,File Folder,Stationery,Central,5,553,0.05,2626.75,789.7,Credit Card
+ORD0029,2025-06-11,Laptop,Electronics,East,8,41508,0.15,282254.4,100497.73,Credit Card
+ORD0068,2025-06-11,Monitor,Electronics,Central,3,13352,0.05,38053.2,7710.51,Net Banking
+ORD0250,2025-06-13,Sneakers,Clothing,Central,4,2596,0.1,9345.6,2901.77,Credit Card
+ORD0089,2025-06-14,Desk Lamp,Home,West,7,6980,0.2,39088.0,10870.65,Cash
+ORD0113,2025-06-15,Phone,Electronics,North,5,4234,0.15,17994.5,6944.17,Cash
+ORD0063,2025-06-15,Chair,Home,West,5,7635,0.1,34357.5,8556.57,Debit Card
+ORD0485,2025-06-16,Phone,Electronics,North,5,39118,0.0,195590.0,81623.82,Net Banking
+ORD0299,2025-06-17,Monitor,Electronics,Central,8,1322,0.15,8989.6,1659.91,Credit Card
+ORD0376,2025-06-18,Sneakers,Clothing,West,5,3352,0.05,15922.0,5813.75,Cash
+ORD0382,2025-06-19,T-Shirt,Clothing,West,4,3401,0.0,13604.0,5391.96,Net Banking
+ORD0481,2025-06-19,Phone,Electronics,East,1,18265,0.1,16438.5,6008.58,Cash
+ORD0255,2025-06-19,Notebook,Stationery,Central,1,552,0.2,441.6,116.74,Net Banking
+ORD0240,2025-06-19,Pen Set,Stationery,North,2,130,0.1,234.0,81.98,Debit Card
+ORD0158,2025-06-20,Chair,Home,West,6,5796,0.0,34776.0,5942.69,Cash
+ORD0050,2025-06-21,Backpack,Clothing,South,2,2194,0.2,3510.4,1313.45,UPI
+ORD0177,2025-06-22,Laptop,Electronics,Central,2,3779,0.05,7180.1,1613.09,Cash
+ORD0320,2025-06-24,Blender,Home,Central,1,2670,0.0,2670.0,501.13,Debit Card
+ORD0259,2025-06-25,Phone,Electronics,West,4,34616,0.05,131540.8,33154.24,Credit Card
+ORD0328,2025-06-25,Bedsheet,Home,Central,3,1478,0.05,4212.3,1018.5,Cash
+ORD0180,2025-06-26,Pen Set,Stationery,East,6,356,0.0,2136.0,598.2,Cash
+ORD0134,2025-06-28,Jeans,Clothing,North,4,2396,0.0,9584.0,2293.26,Credit Card
+ORD0030,2025-06-28,Phone,Electronics,Central,6,19476,0.15,99327.6,20753.31,Net Banking
+ORD0039,2025-06-29,File Folder,Stationery,East,6,297,0.0,1782.0,438.06,UPI
+ORD0436,2025-06-29,Keyboard,Electronics,Central,3,17480,0.0,52440.0,17568.45,Cash
+ORD0161,2025-07-02,Headphones,Electronics,West,5,8957,0.2,35828.0,10321.29,Debit Card
+ORD0498,2025-07-03,Markers,Stationery,South,2,441,0.15,749.7,238.96,Net Banking
+ORD0418,2025-07-04,Blender,Home,North,8,7546,0.05,57349.6,15708.55,Credit Card
+ORD0463,2025-07-04,Backpack,Clothing,Central,5,3673,0.05,17446.75,2787.81,Credit Card
+ORD0109,2025-07-05,Headphones,Electronics,West,6,4768,0.0,28608.0,3870.57,UPI
+ORD0144,2025-07-05,Headphones,Electronics,South,5,12613,0.1,56758.5,20569.19,Credit Card
+ORD0439,2025-07-07,Sneakers,Clothing,Central,4,6720,0.1,24192.0,8863.56,Net Banking
+ORD0262,2025-07-07,Jeans,Clothing,East,8,5794,0.15,39399.2,5130.76,Net Banking
+ORD0172,2025-07-08,File Folder,Stationery,West,3,346,0.1,934.2,112.22,Net Banking
+ORD0295,2025-07-08,Blender,Home,Central,2,9652,0.0,19304.0,6784.94,UPI
+ORD0007,2025-07-09,Jeans,Clothing,Central,5,5608,0.15,23834.0,5470.06,Credit Card
+ORD0228,2025-07-09,Sneakers,Clothing,Central,1,6372,0.0,6372.0,2177.74,Net Banking
+ORD0167,2025-07-10,Notebook,Stationery,North,3,351,0.2,842.4,283.38,UPI
+ORD0405,2025-07-11,Markers,Stationery,North,1,358,0.15,304.3,120.29,Credit Card
+ORD0015,2025-07-11,Storage Box,Home,East,1,5560,0.0,5560.0,785.46,Credit Card
+ORD0125,2025-07-12,Markers,Stationery,Central,6,768,0.05,4377.6,818.39,Net Banking
+ORD0399,2025-07-13,Keyboard,Electronics,North,5,37277,0.15,158427.25,26329.93,Debit Card
+ORD0215,2025-07-15,Markers,Stationery,East,7,582,0.0,4074.0,912.33,UPI
+ORD0105,2025-07-15,T-Shirt,Clothing,South,4,5375,0.05,20425.0,2970.27,UPI
+ORD0314,2025-07-16,Bedsheet,Home,West,4,8864,0.15,30137.6,5471.36,Debit Card
+ORD0433,2025-07-17,Chair,Home,Central,1,8814,0.1,7932.6,1364.77,UPI
+ORD0326,2025-07-17,Markers,Stationery,North,3,417,0.05,1188.45,304.47,Cash
+ORD0339,2025-07-18,File Folder,Stationery,Central,6,499,0.0,2994.0,551.0,Net Banking
+ORD0397,2025-07-18,Planner,Stationery,East,1,665,0.1,598.5,102.35,Net Banking
+ORD0263,2025-07-18,File Folder,Stationery,East,2,662,0.0,1324.0,232.86,Net Banking
+ORD0265,2025-07-18,File Folder,Stationery,South,3,220,0.1,594.0,136.23,Net Banking
+ORD0442,2025-07-19,Laptop,Electronics,East,3,31711,0.0,95133.0,32447.24,UPI
+ORD0312,2025-07-22,Notebook,Stationery,East,7,392,0.0,2744.0,404.76,Debit Card
+ORD0151,2025-07-22,Jeans,Clothing,East,7,2139,0.05,14224.35,2002.11,Credit Card
+ORD0353,2025-07-23,Laptop,Electronics,North,6,37595,0.05,214291.5,70814.17,Cash
+ORD0422,2025-07-23,Backpack,Clothing,Central,1,6907,0.2,5525.6,2045.84,Credit Card
+ORD0348,2025-07-23,Laptop,Electronics,West,4,25209,0.0,100836.0,13294.61,Net Banking
+ORD0083,2025-07-26,Monitor,Electronics,West,8,27882,0.05,211903.2,49417.91,Cash
+ORD0466,2025-07-27,Laptop,Electronics,East,3,23319,0.2,55965.6,18613.77,Net Banking
+ORD0309,2025-07-27,File Folder,Stationery,North,4,853,0.0,3412.0,1308.72,Credit Card
+ORD0260,2025-07-27,Desk Lamp,Home,West,7,728,0.0,5096.0,1453.01,Cash
+ORD0021,2025-07-28,Chair,Home,North,2,7312,0.1,13161.6,3683.83,UPI
+ORD0438,2025-07-29,T-Shirt,Clothing,West,3,5095,0.05,14520.75,2374.24,Net Banking
+ORD0222,2025-07-29,Blender,Home,South,7,9063,0.0,63441.0,20921.51,Cash
+ORD0082,2025-07-30,Planner,Stationery,East,7,495,0.0,3465.0,1128.36,UPI
+ORD0173,2025-07-30,File Folder,Stationery,Central,2,105,0.1,189.0,52.97,Debit Card
+ORD0095,2025-07-30,Desk Lamp,Home,Central,3,10235,0.2,24564.0,8542.16,Credit Card
+ORD0303,2025-07-31,Sneakers,Clothing,North,2,4440,0.2,7104.0,1236.18,Net Banking
+ORD0451,2025-07-31,Backpack,Clothing,East,1,2333,0.0,2333.0,700.65,UPI
+ORD0051,2025-08-01,Planner,Stationery,Central,8,882,0.1,6350.4,1925.17,UPI
+ORD0209,2025-08-01,File Folder,Stationery,North,4,802,0.15,2726.8,431.0,Net Banking
+ORD0156,2025-08-02,Chair,Home,West,6,8868,0.15,45226.8,11476.5,Cash
+ORD0229,2025-08-02,Jeans,Clothing,East,4,3411,0.0,13644.0,3686.74,Debit Card
+ORD0003,2025-08-03,Bedsheet,Home,East,5,356,0.0,1780.0,374.79,Debit Card
+ORD0461,2025-08-04,Pen Set,Stationery,North,6,286,0.15,1458.6,236.95,Cash
+ORD0056,2025-08-04,T-Shirt,Clothing,North,8,726,0.0,5808.0,1306.55,UPI
+ORD0370,2025-08-04,Monitor,Electronics,North,5,41615,0.1,187267.5,31986.07,Net Banking
+ORD0394,2025-08-05,Monitor,Electronics,East,2,2456,0.2,3929.6,1583.7,Credit Card
+ORD0047,2025-08-06,Desk Lamp,Home,West,8,9382,0.0,75056.0,21245.46,Net Banking
+ORD0217,2025-08-06,Pen Set,Stationery,North,4,312,0.0,1248.0,173.19,UPI
+ORD0164,2025-08-07,Bedsheet,Home,East,6,943,0.15,4809.3,579.78,UPI
+ORD0131,2025-08-08,Markers,Stationery,Central,5,362,0.0,1810.0,325.08,Cash
+ORD0280,2025-08-08,Laptop,Electronics,West,1,14786,0.15,12568.1,4425.77,UPI
+ORD0118,2025-08-09,Pen Set,Stationery,West,7,455,0.2,2548.0,997.48,Debit Card
+ORD0242,2025-08-10,Storage Box,Home,North,7,10385,0.0,72695.0,14980.07,Debit Card
+ORD0062,2025-08-11,Storage Box,Home,Central,5,9067,0.1,40801.5,11805.0,Debit Card
+ORD0476,2025-08-12,Pen Set,Stationery,North,3,878,0.1,2370.6,838.77,Cash
+ORD0136,2025-08-14,Keyboard,Electronics,Central,8,42178,0.15,286810.4,115627.14,UPI
+ORD0101,2025-08-14,Monitor,Electronics,South,6,48795,0.05,278131.5,54445.84,Credit Card
+ORD0249,2025-08-14,Sneakers,Clothing,South,3,5241,0.0,15723.0,4344.22,Cash
+ORD0044,2025-08-15,Pen Set,Stationery,Central,8,116,0.05,881.6,233.95,Debit Card
+ORD0369,2025-08-16,Notebook,Stationery,North,5,240,0.2,960.0,205.71,Debit Card
+ORD0325,2025-08-17,Headphones,Electronics,North,4,17153,0.05,65181.4,11986.47,UPI
+ORD0423,2025-08-17,Desk Lamp,Home,South,3,8171,0.0,24513.0,4695.67,UPI
+ORD0210,2025-08-17,T-Shirt,Clothing,South,2,4440,0.15,7548.0,1954.95,Debit Card
+ORD0441,2025-08-17,Chair,Home,North,4,6812,0.15,23160.8,5461.14,Credit Card
+ORD0313,2025-08-17,Chair,Home,North,4,5085,0.15,17289.0,4776.79,Debit Card
+ORD0147,2025-08-18,Storage Box,Home,West,4,7934,0.2,25388.8,3449.35,Cash
+ORD0114,2025-08-18,Backpack,Clothing,Central,2,2114,0.0,4228.0,853.32,Debit Card
+ORD0383,2025-08-18,Keyboard,Electronics,West,8,21513,0.2,137683.2,57092.99,Cash
+ORD0253,2025-08-18,File Folder,Stationery,East,7,458,0.15,2725.1,1114.49,Net Banking
+ORD0306,2025-08-19,Planner,Stationery,West,7,818,0.0,5726.0,1628.62,Debit Card
+ORD0305,2025-08-20,Jeans,Clothing,North,2,1415,0.15,2405.5,931.67,Credit Card
+ORD0203,2025-08-21,Pen Set,Stationery,West,8,145,0.05,1102.0,409.12,Debit Card
+ORD0491,2025-08-21,Monitor,Electronics,South,7,48880,0.05,325052.0,60848.12,Debit Card
+ORD0025,2025-08-21,Sneakers,Clothing,Central,8,2730,0.0,21840.0,5378.01,UPI
+ORD0377,2025-08-22,Sneakers,Clothing,North,8,5615,0.0,44920.0,17342.85,Credit Card
+ORD0388,2025-08-23,Blender,Home,West,2,7040,0.2,11264.0,2741.17,Cash
+ORD0115,2025-08-23,Laptop,Electronics,West,8,56328,0.0,450624.0,122984.01,UPI
+ORD0038,2025-08-24,Jacket,Clothing,North,4,5706,0.1,20541.6,6604.56,Debit Card
+ORD0457,2025-08-24,T-Shirt,Clothing,Central,1,3408,0.0,3408.0,1098.63,Debit Card
+ORD0023,2025-08-25,Chair,Home,North,8,9266,0.2,59302.4,7129.05,UPI
+ORD0055,2025-08-25,Chair,Home,West,5,5613,0.05,26661.75,8498.43,Debit Card
+ORD0300,2025-08-26,Backpack,Clothing,West,8,6300,0.0,50400.0,18891.44,UPI
+ORD0400,2025-08-27,Chair,Home,East,3,5535,0.2,13284.0,3125.96,Cash
+ORD0490,2025-08-28,Backpack,Clothing,Central,3,1569,0.05,4471.65,778.85,Debit Card
+ORD0054,2025-08-28,Storage Box,Home,West,1,6705,0.2,5364.0,2209.27,Credit Card
+ORD0214,2025-08-30,Headphones,Electronics,West,7,12595,0.2,70532.0,15956.86,Debit Card
+ORD0288,2025-08-30,Laptop,Electronics,West,2,1703,0.0,3406.0,461.16,Net Banking
+ORD0067,2025-08-31,Sneakers,Clothing,North,6,4017,0.05,22896.9,7889.79,Credit Card
+ORD0363,2025-09-02,Notebook,Stationery,Central,1,412,0.0,412.0,62.79,Credit Card
+ORD0196,2025-09-03,Backpack,Clothing,West,5,4997,0.15,21237.25,6500.55,Debit Card
+ORD0191,2025-09-03,Storage Box,Home,North,7,11403,0.15,67847.85,9195.99,Credit Card
+ORD0429,2025-09-03,Storage Box,Home,Central,3,6982,0.0,20946.0,7993.72,Credit Card
+ORD0315,2025-09-03,Planner,Stationery,North,6,56,0.05,319.2,76.88,Debit Card
+ORD0427,2025-09-04,Monitor,Electronics,South,3,29629,0.15,75553.95,17147.49,Credit Card
+ORD0440,2025-09-05,Jacket,Clothing,North,6,3561,0.0,21366.0,3493.35,Credit Card
+ORD0258,2025-09-05,Sneakers,Clothing,North,2,4006,0.0,8012.0,2643.33,UPI
+ORD0098,2025-09-05,Phone,Electronics,West,7,38281,0.2,214373.6,71050.01,Debit Card
+ORD0230,2025-09-08,Markers,Stationery,South,3,173,0.2,415.2,106.31,Net Banking
+ORD0072,2025-09-09,Monitor,Electronics,South,1,10743,0.05,10205.85,4025.65,UPI
+ORD0269,2025-09-11,Monitor,Electronics,West,2,18356,0.0,36712.0,7048.66,Net Banking
+ORD0202,2025-09-11,Blender,Home,East,1,5138,0.0,5138.0,726.84,Debit Card
+ORD0287,2025-09-13,Monitor,Electronics,Central,1,24464,0.15,20794.4,6108.17,Credit Card
+ORD0086,2025-09-13,Backpack,Clothing,West,5,4168,0.1,18756.0,4775.66,Credit Card
+ORD0130,2025-09-14,T-Shirt,Clothing,East,7,3873,0.1,24399.9,3505.08,Net Banking
+ORD0187,2025-09-14,Laptop,Electronics,South,1,9780,0.1,8802.0,2325.49,Net Banking
+ORD0410,2025-09-15,Headphones,Electronics,North,5,40551,0.1,182479.5,55761.34,Cash
+ORD0393,2025-09-15,T-Shirt,Clothing,Central,6,5074,0.2,24355.2,5040.62,Debit Card
+ORD0183,2025-09-16,Pen Set,Stationery,West,4,81,0.05,307.8,83.58,Debit Card
+ORD0061,2025-09-17,T-Shirt,Clothing,West,7,1164,0.05,7740.6,1775.11,Credit Card
+ORD0042,2025-09-17,Sneakers,Clothing,West,6,2722,0.0,16332.0,5919.5,Credit Card
+ORD0171,2025-09-18,Chair,Home,Central,4,2525,0.1,9090.0,3746.12,Net Banking
+ORD0150,2025-09-20,Bedsheet,Home,West,2,3887,0.05,7385.3,1040.28,UPI
+ORD0205,2025-09-21,T-Shirt,Clothing,South,7,1813,0.1,11421.9,3688.35,UPI
+ORD0020,2025-09-21,Blender,Home,South,8,9084,0.15,61771.2,15265.92,Cash
+ORD0188,2025-09-21,Blender,Home,Central,6,6688,0.05,38121.6,9220.95,Net Banking
+ORD0445,2025-09-22,Storage Box,Home,South,3,840,0.2,2016.0,846.55,UPI
+ORD0293,2025-09-22,Jeans,Clothing,West,6,6304,0.0,37824.0,12084.64,Debit Card
+ORD0211,2025-09-24,Notebook,Stationery,North,4,123,0.15,418.2,119.75,Cash
+ORD0340,2025-09-25,Notebook,Stationery,North,7,632,0.15,3760.4,723.83,UPI
+ORD0140,2025-09-26,Blender,Home,North,6,4884,0.05,27838.8,6022.39,Debit Card
+ORD0294,2025-09-26,Headphones,Electronics,Central,2,33315,0.0,66630.0,17997.9,Credit Card
+ORD0473,2025-09-26,Jacket,Clothing,West,8,6892,0.1,49622.4,16258.26,Debit Card
+ORD0128,2025-09-27,T-Shirt,Clothing,South,4,748,0.0,2992.0,986.09,Credit Card
+ORD0235,2025-09-27,Jacket,Clothing,South,5,947,0.1,4261.5,1203.02,Credit Card
+ORD0471,2025-09-27,Chair,Home,Central,1,6096,0.1,5486.4,699.55,Debit Card
+ORD0091,2025-09-27,Notebook,Stationery,East,3,106,0.1,286.2,53.1,Debit Card
+ORD0496,2025-09-28,Laptop,Electronics,Central,5,5907,0.0,29535.0,5979.31,Cash
+ORD0403,2025-09-29,File Folder,Stationery,Central,1,486,0.0,486.0,72.24,Net Banking
+ORD0302,2025-09-29,Bedsheet,Home,South,8,1231,0.05,9355.6,3668.26,Net Banking
+ORD0189,2025-09-30,File Folder,Stationery,West,5,369,0.2,1476.0,571.39,Net Banking
+ORD0194,2025-09-30,Backpack,Clothing,West,6,5569,0.2,26731.2,9107.09,Credit Card
+ORD0317,2025-10-01,Phone,Electronics,East,7,24052,0.15,143109.4,46453.12,Net Banking
+ORD0155,2025-10-02,Monitor,Electronics,South,4,47890,0.0,191560.0,45123.32,Net Banking
+ORD0005,2025-10-02,Keyboard,Electronics,North,2,36978,0.05,70258.2,17339.33,UPI
+ORD0184,2025-10-02,Laptop,Electronics,West,7,9577,0.1,60335.1,18717.08,UPI
+ORD0407,2025-10-03,Notebook,Stationery,North,3,369,0.0,1107.0,435.87,Credit Card
+ORD0406,2025-10-03,Laptop,Electronics,North,4,44731,0.2,143139.2,41902.16,Credit Card
+ORD0435,2025-10-04,Keyboard,Electronics,West,7,25073,0.1,157959.9,55468.27,Cash
+ORD0112,2025-10-04,Jeans,Clothing,South,2,1379,0.05,2620.1,479.49,Net Banking
+ORD0402,2025-10-06,Notebook,Stationery,South,6,369,0.05,2103.3,655.73,Net Banking
+ORD0398,2025-10-07,Desk Lamp,Home,Central,5,3156,0.0,15780.0,2071.24,UPI
+ORD0053,2025-10-07,Bedsheet,Home,West,4,7390,0.1,26604.0,8490.96,Credit Card
+ORD0277,2025-10-08,Storage Box,Home,West,8,5881,0.0,47048.0,19111.7,UPI
+ORD0472,2025-10-08,Pen Set,Stationery,Central,3,676,0.2,1622.4,371.93,Cash
+ORD0200,2025-10-09,Bedsheet,Home,North,8,10908,0.05,82900.8,26830.82,UPI
+ORD0447,2025-10-09,Backpack,Clothing,West,6,2153,0.0,12918.0,3663.19,Net Banking
+ORD0017,2025-10-09,Blender,Home,East,7,3720,0.2,20832.0,4438.04,Cash
+ORD0349,2025-10-10,Jacket,Clothing,North,3,6435,0.2,15444.0,6067.68,Cash
+ORD0412,2025-10-11,Chair,Home,North,1,9633,0.15,8188.05,2094.03,Debit Card
+ORD0452,2025-10-11,Bedsheet,Home,South,6,3830,0.0,22980.0,3122.17,Cash
+ORD0122,2025-10-12,T-Shirt,Clothing,Central,5,6912,0.15,29376.0,3749.44,Net Banking
+ORD0065,2025-10-12,Monitor,Electronics,South,4,6410,0.1,23076.0,5848.55,Cash
+ORD0073,2025-10-13,File Folder,Stationery,Central,4,491,0.1,1767.6,584.71,Cash
+ORD0381,2025-10-13,Laptop,Electronics,East,3,33932,0.0,101796.0,19806.55,Credit Card
+ORD0488,2025-10-13,Sneakers,Clothing,North,4,3394,0.2,10860.8,4122.55,Cash
+ORD0143,2025-10-14,Planner,Stationery,West,3,731,0.15,1864.05,730.64,Net Banking
+ORD0048,2025-10-14,Sneakers,Clothing,West,7,3952,0.2,22131.2,3575.33,Debit Card
+ORD0341,2025-10-16,Headphones,Electronics,Central,6,58333,0.2,279998.4,76810.44,Cash
+ORD0417,2025-10-17,Jacket,Clothing,West,7,2865,0.0,20055.0,4138.15,Debit Card
+ORD0304,2025-10-18,Keyboard,Electronics,East,3,16317,0.1,44055.9,9242.15,Debit Card
+ORD0185,2025-10-19,Blender,Home,Central,5,6579,0.15,27960.75,9397.16,Net Banking
+ORD0273,2025-10-21,Backpack,Clothing,South,2,785,0.2,1256.0,479.71,Credit Card
+ORD0401,2025-10-21,T-Shirt,Clothing,South,6,1806,0.0,10836.0,1995.15,Cash
+ORD0220,2025-10-22,Backpack,Clothing,East,6,1473,0.15,7512.3,2657.0,Debit Card
+ORD0052,2025-10-22,Markers,Stationery,West,1,801,0.1,720.9,118.2,Net Banking
+ORD0327,2025-10-23,Desk Lamp,Home,North,8,797,0.05,6057.2,2069.51,UPI
+ORD0182,2025-10-23,Jeans,Clothing,North,3,4124,0.05,11753.4,3182.69,Cash
+ORD0464,2025-10-23,Blender,Home,North,6,11279,0.2,54139.2,15479.53,Cash
+ORD0011,2025-10-26,Planner,Stationery,South,4,123,0.0,492.0,79.54,Credit Card
+ORD0142,2025-10-26,Blender,Home,North,5,10998,0.1,49491.0,18871.64,Debit Card
+ORD0081,2025-10-27,Markers,Stationery,South,2,371,0.05,704.9,154.34,Debit Card
+ORD0426,2025-10-28,Monitor,Electronics,East,5,25463,0.05,120949.25,21145.43,Cash
+ORD0111,2025-10-28,Desk Lamp,Home,South,6,2667,0.0,16002.0,5389.75,Credit Card
+ORD0450,2025-10-28,Keyboard,Electronics,South,2,17696,0.0,35392.0,7677.45,Debit Card
+ORD0019,2025-10-29,Chair,Home,East,2,10589,0.0,21178.0,3142.26,UPI
+ORD0335,2025-10-29,Storage Box,Home,West,1,6592,0.15,5603.2,1198.41,Net Banking
+ORD0002,2025-10-30,Notebook,Stationery,South,1,547,0.15,464.95,191.58,Net Banking
+ORD0264,2025-10-30,Phone,Electronics,South,6,8524,0.0,51144.0,15752.77,Net Banking
+ORD0251,2025-10-31,Storage Box,Home,North,1,7813,0.1,7031.7,1270.59,Cash
+ORD0138,2025-11-01,Markers,Stationery,Central,1,222,0.05,210.9,50.3,Credit Card
+ORD0248,2025-11-01,Bedsheet,Home,West,2,5241,0.05,9957.9,1668.11,Debit Card
+ORD0027,2025-11-01,Phone,Electronics,North,7,8656,0.15,51503.2,21017.3,Cash
+ORD0254,2025-11-01,Laptop,Electronics,Central,4,43896,0.2,140467.2,33177.88,Cash
+ORD0117,2025-11-02,Sneakers,Clothing,Central,7,1237,0.2,6927.2,1085.41,Credit Card
+ORD0087,2025-11-03,Chair,Home,North,5,7048,0.15,29954.0,10179.81,Debit Card
+ORD0499,2025-11-04,Planner,Stationery,East,6,452,0.2,2169.6,630.97,Net Banking
+ORD0163,2025-11-05,Storage Box,Home,West,5,1930,0.2,7720.0,2557.7,Net Banking
+ORD0241,2025-11-06,Planner,Stationery,Central,1,491,0.1,441.9,155.35,Cash
+ORD0127,2025-11-07,Markers,Stationery,Central,5,383,0.1,1723.5,666.53,Cash
+ORD0391,2025-11-08,Blender,Home,Central,7,5867,0.0,41069.0,15546.51,Net Banking
+ORD0443,2025-11-08,Keyboard,Electronics,North,7,41036,0.2,229801.6,30090.46,Credit Card
+ORD0283,2025-11-09,Bedsheet,Home,Central,6,3740,0.0,22440.0,3232.07,Cash
+ORD0465,2025-11-11,Sneakers,Clothing,Central,3,5547,0.05,15808.95,4639.22,Net Banking
+ORD0396,2025-11-12,Storage Box,Home,North,7,8620,0.2,48272.0,16108.77,Cash
+ORD0043,2025-11-12,Sneakers,Clothing,East,1,2021,0.15,1717.85,408.85,Cash
+ORD0371,2025-11-13,Headphones,Electronics,East,2,52230,0.15,88791.0,31971.44,Net Banking
+ORD0178,2025-11-13,Keyboard,Electronics,West,5,42868,0.2,171472.0,51128.19,UPI
+ORD0036,2025-11-14,Desk Lamp,Home,East,3,3150,0.0,9450.0,1880.84,Cash
+ORD0416,2025-11-14,Phone,Electronics,Central,6,32641,0.2,156676.8,51436.58,Credit Card
+ORD0092,2025-11-16,Notebook,Stationery,West,6,419,0.05,2388.3,553.99,Net Banking
+ORD0368,2025-11-16,Monitor,Electronics,North,1,44182,0.0,44182.0,17917.1,Cash
+ORD0477,2025-11-17,Storage Box,Home,North,5,10874,0.05,51651.5,15295.5,Credit Card
+ORD0487,2025-11-17,Laptop,Electronics,South,6,43042,0.0,258252.0,98717.28,Debit Card
+ORD0176,2025-11-17,Backpack,Clothing,Central,2,1681,0.15,2857.7,1068.04,Net Banking
+ORD0135,2025-11-18,Markers,Stationery,East,8,680,0.15,4624.0,1493.73,Credit Card
+ORD0159,2025-11-20,Desk Lamp,Home,South,2,7748,0.0,15496.0,6304.67,UPI
+ORD0106,2025-11-22,Planner,Stationery,North,7,68,0.05,452.2,54.82,UPI
+ORD0276,2025-11-22,T-Shirt,Clothing,East,7,2035,0.05,13532.75,4372.98,Debit Card
+ORD0100,2025-11-22,Storage Box,Home,North,5,11050,0.0,55250.0,12791.79,Debit Card
+ORD0431,2025-11-23,Headphones,Electronics,West,2,14994,0.1,26989.2,9954.43,Net Banking
+ORD0444,2025-11-24,Markers,Stationery,Central,1,560,0.05,532.0,192.36,Net Banking
+ORD0001,2025-11-24,Laptop,Electronics,Central,5,16849,0.0,84245.0,18280.34,UPI
+ORD0324,2025-11-24,Keyboard,Electronics,North,3,22503,0.05,64133.55,23705.93,Debit Card
+ORD0494,2025-11-25,Markers,Stationery,South,5,650,0.2,2600.0,1036.72,Cash
+ORD0231,2025-11-25,Monitor,Electronics,South,1,55789,0.0,55789.0,16529.3,UPI
+ORD0149,2025-11-25,Planner,Stationery,East,2,321,0.0,642.0,122.66,Cash
+ORD0333,2025-11-25,Pen Set,Stationery,West,6,221,0.1,1193.4,485.25,Cash
+ORD0010,2025-11-26,Pen Set,Stationery,Central,5,604,0.15,2567.0,875.8,Cash
+ORD0419,2025-11-27,Headphones,Electronics,North,3,59212,0.2,142108.8,21898.86,UPI
+ORD0066,2025-11-27,Markers,Stationery,Central,1,444,0.2,355.2,123.26,Debit Card
+ORD0467,2025-11-27,Planner,Stationery,West,8,631,0.15,4290.8,559.27,Credit Card
+ORD0345,2025-11-27,Phone,Electronics,North,8,14653,0.15,99640.4,15926.85,Net Banking
+ORD0322,2025-11-29,Jeans,Clothing,East,6,5124,0.0,30744.0,9422.57,Credit Card
+ORD0201,2025-11-30,Storage Box,Home,North,1,3118,0.0,3118.0,435.97,Cash
+ORD0207,2025-12-01,Jeans,Clothing,Central,1,4112,0.0,4112.0,1226.92,Debit Card
+ORD0421,2025-12-01,Blender,Home,Central,7,9910,0.0,69370.0,19464.5,UPI
+ORD0108,2025-12-02,Keyboard,Electronics,West,7,62341,0.05,414567.65,147096.52,Credit Card
+ORD0297,2025-12-02,Pen Set,Stationery,Central,6,357,0.05,2034.9,350.41,Debit Card
+ORD0028,2025-12-03,Jacket,Clothing,East,4,2873,0.05,10917.4,3289.02,Cash
+ORD0233,2025-12-04,Notebook,Stationery,East,1,42,0.0,42.0,10.97,Net Banking
+ORD0389,2025-12-04,Bedsheet,Home,Central,1,1045,0.15,888.25,244.38,Credit Card
+ORD0218,2025-12-05,File Folder,Stationery,Central,1,133,0.15,113.05,46.34,UPI
+ORD0006,2025-12-05,Blender,Home,East,2,4064,0.05,7721.6,2192.76,Credit Card
+ORD0090,2025-12-06,Bedsheet,Home,West,1,8479,0.0,8479.0,1337.5,UPI
+ORD0110,2025-12-06,Storage Box,Home,Central,1,5714,0.15,4856.9,1740.9,Credit Card
+ORD0483,2025-12-07,Bedsheet,Home,Central,7,5363,0.2,30032.8,6052.48,Net Banking
+ORD0119,2025-12-07,Jacket,Clothing,North,3,849,0.0,2547.0,998.5,Debit Card
+ORD0170,2025-12-08,T-Shirt,Clothing,South,5,1590,0.2,6360.0,901.86,Debit Card
+ORD0292,2025-12-08,Chair,Home,East,1,2498,0.0,2498.0,677.15,Net Banking
+ORD0037,2025-12-09,Blender,Home,South,3,11739,0.0,35217.0,5720.02,Credit Card
+ORD0225,2025-12-10,Bedsheet,Home,North,4,5705,0.0,22820.0,3168.6,Cash
+ORD0018,2025-12-10,Sneakers,Clothing,Central,8,2140,0.05,16264.0,6728.25,Credit Card
+ORD0252,2025-12-11,Pen Set,Stationery,West,5,187,0.2,748.0,219.21,UPI
+ORD0123,2025-12-12,Monitor,Electronics,East,5,2697,0.05,12810.75,1838.84,UPI
+ORD0013,2025-12-15,Monitor,Electronics,West,5,51170,0.05,243057.5,70382.26,UPI
+ORD0012,2025-12-15,File Folder,Stationery,Central,2,509,0.15,865.3,298.16,UPI
+ORD0338,2025-12-16,Pen Set,Stationery,North,3,357,0.2,856.8,124.88,UPI
+ORD0366,2025-12-18,Blender,Home,South,8,3337,0.1,24026.4,9953.24,Credit Card
+ORD0357,2025-12-18,Planner,Stationery,West,5,601,0.0,3005.0,997.25,Credit Card
+ORD0179,2025-12-19,Phone,Electronics,East,8,28038,0.05,213088.8,50715.54,Debit Card
+ORD0132,2025-12-20,T-Shirt,Clothing,North,7,2293,0.15,13643.35,4091.16,Cash
+ORD0486,2025-12-20,File Folder,Stationery,Central,3,191,0.1,515.7,202.45,Debit Card
+ORD0343,2025-12-20,Chair,Home,East,8,4650,0.05,35340.0,6176.87,Debit Card
+ORD0208,2025-12-20,Headphones,Electronics,Central,6,41080,0.1,221832.0,82975.0,Debit Card
+ORD0390,2025-12-21,Desk Lamp,Home,West,2,11022,0.05,20941.8,5628.46,Cash
+ORD0330,2025-12-23,Jacket,Clothing,West,5,706,0.15,3000.5,765.43,Credit Card
+ORD0060,2025-12-23,Backpack,Clothing,East,2,6711,0.05,12750.9,3317.48,UPI
+ORD0291,2025-12-24,Pen Set,Stationery,North,1,148,0.1,133.2,31.48,Debit Card
+ORD0058,2025-12-25,Jacket,Clothing,South,3,6427,0.0,19281.0,3599.04,Debit Card
+ORD0459,2025-12-25,Jacket,Clothing,South,7,1773,0.0,12411.0,1566.49,UPI
+ORD0329,2025-12-27,Keyboard,Electronics,South,3,40601,0.0,121803.0,39058.77,Cash
+ORD0380,2025-12-27,Blender,Home,West,2,11091,0.1,19963.8,6314.05,Credit Card
+ORD0489,2025-12-28,File Folder,Stationery,East,5,224,0.15,952.0,346.54,Debit Card
+ORD0076,2025-12-28,Sneakers,Clothing,South,2,2467,0.2,3947.2,959.42,Cash
+ORD0232,2025-12-29,Chair,Home,Central,4,7721,0.15,26251.4,6003.21,Cash
+ORD0175,2025-12-30,Blender,Home,East,5,1542,0.2,6168.0,820.93,Credit Card
+ORD0085,2025-12-30,Blender,Home,North,1,6934,0.0,6934.0,1952.38,Credit Card
+ORD0352,2025-12-31,Sneakers,Clothing,Central,7,4060,0.0,28420.0,7957.33,Net Banking
