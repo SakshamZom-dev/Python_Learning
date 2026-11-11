@@ -1,0 +1,1205 @@
+Order_ID,Order_Date,Customer_ID,Region,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Sales_INR,Profit_INR,Payment_Method,Order_Status,Shipping_Days,Customer_Rating
+ORD-00001,2025-06-10,CUST-0083,West,Office Supplies,Stapler,2,156.51,25.0,234.76,41.85,Credit Card,Delivered,3.0,4.0
+ORD-00002,2025-07-19,CUST-0200,West,Office Supplies,Storage Box,1,732.31,0.0,732.31,255.96,Net Banking,Delivered,4.0,4.0
+ORD-00003,2025-10-12,CUST-0035,North,Home & Kitchen,Bedsheet,2,748.93,0.0,1497.86,358.57,Credit Card,Cancelled,8.0,4.0
+ORD-00004,2025-09-08,CUST-0215,North,Technology,Smartphone,1,39811.44,10.0,35830.3,4637.94,UPI,Delivered,3.0,4.0
+ORD-00005,2025-02-21,CUST-0111,North,Office Supplies,Stapler,1,572.15,15.0,486.33,78.75,UPI,Delivered,3.0,4.0
+ORD-00006,2025-11-09,CUST-0255,South,Office Supplies,Notebook,3,173.29,10.0,467.88,134.28,UPI,Delivered,5.0,4.0
+ORD-00007,2025-11-08,CUST-0189,North,Furniture,Sofa,1,21285.67,5.0,20221.39,4925.36,Credit Card,Delivered,3.0,5.0
+ORD-00008,2025-02-08,CUST-0041,North,Technology,Keyboard,3,2347.51,0.0,7042.53,1130.76,Credit Card,Delivered,5.0,4.0
+ORD-00009,2025-08-19,CUST-0118,South,Furniture,Lamp,1,765.82,25.0,574.37,69.21,Cash on Delivery,Delivered,2.0,5.0
+ORD-00010,2025-01-29,CUST-0044,South,Furniture,Lamp,4,1812.91,0.0,7251.64,1882.16,Debit Card,Delivered,4.0,5.0
+ORD-00011,2025-06-07,CUST-0305,East,Office Supplies,Stapler,2,489.91,0.0,979.82,311.65,UPI,Delivered,5.0,4.0
+ORD-00012,2025-04-20,CUST-0417,North,Office Supplies,Notebook,2,112.84,10.0,203.11,49.76,UPI,Delivered,1.0,5.0
+ORD-00013,2025-06-29,CUST-0005,Central,Furniture,Lamp,2,1867.82,5.0,3548.86,624.31,Cash on Delivery,Delivered,3.0,1.0
+ORD-00014,2025-04-26,CUST-0049,East,Technology,Keyboard,2,1624.94,10.0,2924.89,539.81,UPI,Delivered,5.0,5.0
+ORD-00015,2025-07-22,CUST-0082,South,Technology,Laptop,3,75412.57,5.0,214925.82,37487.53,Net Banking,Delivered,5.0,3.0
+ORD-00016,2025-12-20,CUST-0447,South,Technology,Laptop,4,72430.4,20.0,231777.28,10351.47,Debit Card,Delivered,5.0,5.0
+ORD-00017,2025-02-04,CUST-0324,West,Furniture,Sofa,1,42914.83,0.0,42914.83,13487.78,Debit Card,Delivered,7.0,3.0
+ORD-00018,2025-12-31,CUST-0350,South,Technology,Keyboard,5,2502.96,0.0,12514.8,2192.48,UPI,Delivered,7.0,5.0
+ORD-00019,2025-09-11,CUST-0438,East,Furniture,Sofa,1,38536.11,15.0,32755.69,3203.91,Credit Card,Delivered,5.0,5.0
+ORD-00020,2025-04-25,CUST-0431,West,Furniture,Desk,1,16947.32,0.0,16947.32,4252.29,Credit Card,Delivered,4.0,3.0
+ORD-00021,2025-08-06,CUST-0151,Central,Home & Kitchen,Cookware,3,3304.29,15.0,8425.94,1278.23,UPI,Delivered,6.0,5.0
+ORD-00022,2025-10-02,CUST-0272,Central,Office Supplies,Printer Paper,1,355.87,10.0,320.28,80.31,UPI,Delivered,1.0,3.0
+ORD-00023,2025-10-26,CUST-0071,North,Office Supplies,Storage Box,1,774.16,0.0,774.16,300.21,UPI,Delivered,2.0,5.0
+ORD-00024,2025-07-17,CUST-0010,North,Technology,Headphones,1,1800.24,0.0,1800.24,326.24,Credit Card,Delivered,6.0,4.0
+ORD-00025,2025-11-07,CUST-0403,North,Home & Kitchen,Bedsheet,1,1404.93,0.0,1404.93,408.56,Credit Card,Delivered,5.0,4.0
+ORD-00026,2025-05-28,CUST-0417,North,Home & Kitchen,Cookware,1,5561.45,20.0,4449.16,267.09,Cash on Delivery,Delivered,3.0,4.0
+ORD-00027,2025-07-15,CUST-0272,East,Technology,Keyboard,3,2351.2,5.0,6700.92,941.1,Credit Card,Delivered,6.0,4.0
+ORD-00028,2025-09-26,CUST-0148,South,Furniture,Desk,1,13600.41,5.0,12920.39,3501.45,Credit Card,Delivered,5.0,4.0
+ORD-00029,2025-08-27,CUST-0429,West,Home & Kitchen,Water Bottle,2,1004.44,5.0,1908.44,452.36,UPI,Delivered,2.0,5.0
+ORD-00030,2025-07-31,CUST-0039,West,Technology,Monitor,4,9061.12,25.0,27183.36,-22.36,Net Banking,Delivered,7.0,5.0
+ORD-00031,2025-08-04,CUST-0233,North,Technology,Monitor,2,9569.37,10.0,17224.87,2280.47,Cash on Delivery,Delivered,1.0,5.0
+ORD-00032,2025-11-05,CUST-0054,Central,Office Supplies,Printer Paper,1,221.22,10.0,199.1,58.36,Cash on Delivery,Delivered,3.0,4.0
+ORD-00033,2025-04-09,CUST-0428,South,Office Supplies,Stapler,1,194.57,0.0,194.57,69.07,Credit Card,Delivered,2.0,5.0
+ORD-00034,2025-02-21,CUST-0170,South,Home & Kitchen,Coffee Maker,5,9234.05,25.0,34627.69,3720.23,Debit Card,Delivered,8.0,3.0
+ORD-00035,2025-01-05,CUST-0020,South,Office Supplies,Printer Paper,3,318.82,10.0,860.81,188.74,Net Banking,Returned,5.0,1.0
+ORD-00036,2025-01-16,CUST-0048,West,Technology,Keyboard,5,3162.74,10.0,14232.33,1981.23,UPI,Delivered,4.0,3.0
+ORD-00037,2025-03-14,CUST-0111,Central,Office Supplies,Storage Box,2,187.97,0.0,375.94,130.57,Cash on Delivery,Delivered,1.0,3.0
+ORD-00038,2025-02-13,CUST-0348,Central,Home & Kitchen,Cookware,2,5527.88,0.0,11055.76,2049.46,UPI,Delivered,6.0,5.0
+ORD-00039,2025-03-12,CUST-0186,South,Office Supplies,Notebook,3,245.84,10.0,663.77,180.99,Debit Card,Delivered,2.0,5.0
+ORD-00040,2025-05-18,CUST-0442,North,Technology,Laptop,2,74204.05,10.0,133567.29,16000.0,Debit Card,Returned,5.0,3.0
+ORD-00041,2025-12-10,CUST-0354,North,Office Supplies,Printer Paper,2,369.9,10.0,665.82,232.01,Credit Card,Delivered,4.0,4.0
+ORD-00042,2025-02-26,CUST-0184,South,Office Supplies,Stapler,1,452.98,5.0,430.33,112.69,Credit Card,Delivered,3.0,3.0
+ORD-00043,2025-09-14,CUST-0364,East,Office Supplies,Printer Paper,2,328.62,15.0,558.65,153.84,Credit Card,Delivered,3.0,4.0
+ORD-00044,2025-11-07,CUST-0227,Central,Home & Kitchen,Bedsheet,2,3319.56,5.0,6307.16,972.44,UPI,Delivered,5.0,2.0
+ORD-00045,2025-03-05,CUST-0229,South,Furniture,Bookshelf,3,1905.72,15.0,4859.59,438.44,UPI,Delivered,6.0,4.0
+ORD-00046,2025-06-14,CUST-0348,Central,Home & Kitchen,Mixer,1,6407.36,15.0,5446.26,675.99,Credit Card,Delivered,4.0,3.0
+ORD-00047,2025-03-02,CUST-0376,West,Technology,Monitor,5,15339.54,15.0,65193.05,8971.23,UPI,Delivered,4.0,4.0
+ORD-00048,2025-12-02,CUST-0068,South,Furniture,Lamp,1,3212.02,0.0,3212.02,544.57,Credit Card,Delivered,5.0,4.0
+ORD-00049,2025-03-30,CUST-0420,West,Technology,Headphones,2,4789.64,15.0,8142.39,572.71,UPI,Delivered,4.0,4.0
+ORD-00050,2025-09-09,CUST-0384,West,Furniture,Sofa,2,42015.22,10.0,75627.4,10478.04,UPI,Delivered,2.0,4.0
+ORD-00051,2025-12-01,CUST-0255,East,Furniture,Sofa,1,23182.24,0.0,23182.24,5397.19,Debit Card,Delivered,4.0,4.0
+ORD-00052,2025-07-11,CUST-0286,West,Technology,Laptop,5,66017.89,10.0,297080.51,27817.64,Cash on Delivery,Delivered,5.0,5.0
+ORD-00053,2025-02-11,CUST-0287,West,Home & Kitchen,Cookware,2,3818.62,10.0,6873.52,1632.46,Debit Card,Delivered,2.0,5.0
+ORD-00054,2025-07-05,CUST-0350,North,Technology,Headphones,2,6908.9,10.0,12436.02,312.48,Credit Card,Delivered,5.0,2.0
+ORD-00055,2025-12-04,CUST-0333,West,Home & Kitchen,Mixer,1,4297.11,0.0,4297.11,745.36,Cash on Delivery,Delivered,4.0,5.0
+ORD-00056,2025-11-28,CUST-0106,North,Home & Kitchen,Bedsheet,2,3517.63,0.0,7035.26,1632.89,Cash on Delivery,Delivered,3.0,4.0
+ORD-00057,2025-03-28,CUST-0306,West,Office Supplies,Pen Set,1,435.47,5.0,413.7,80.81,UPI,Delivered,3.0,5.0
+ORD-00058,2025-06-05,CUST-0364,West,Furniture,Chair,5,5315.44,5.0,25248.34,5203.93,Debit Card,Cancelled,5.0,5.0
+ORD-00059,2025-12-01,CUST-0203,East,Furniture,Bookshelf,1,4430.72,0.0,4430.72,1180.46,Credit Card,Delivered,6.0,4.0
+ORD-00060,2025-07-03,CUST-0244,West,Home & Kitchen,Water Bottle,1,1360.95,0.0,1360.95,200.46,Debit Card,Delivered,5.0,
+ORD-00061,2025-04-20,CUST-0388,North,Office Supplies,Notebook,1,72.64,20.0,58.11,12.63,Credit Card,Delivered,5.0,5.0
+ORD-00062,2025-04-04,CUST-0367,West,Home & Kitchen,Water Bottle,4,1213.25,0.0,4853.0,1240.36,Credit Card,Delivered,7.0,5.0
+ORD-00063,2025-01-14,CUST-0384,Central,Furniture,Chair,1,2890.25,0.0,2890.25,568.33,UPI,Delivered,2.0,4.0
+ORD-00064,2025-11-24,CUST-0315,North,Furniture,Chair,1,5369.68,5.0,5101.2,1232.64,UPI,Delivered,4.0,5.0
+ORD-00065,2025-06-28,CUST-0151,South,Furniture,Desk,2,14928.14,20.0,23885.02,3001.68,Debit Card,Delivered,6.0,4.0
+ORD-00066,2025-06-26,CUST-0022,Central,Furniture,Desk,2,13961.81,0.0,27923.62,7391.19,UPI,Returned,4.0,1.0
+ORD-00067,2025-08-15,CUST-0448,North,Technology,Monitor,2,15852.93,20.0,25364.69,1381.27,Cash on Delivery,Delivered,6.0,3.0
+ORD-00068,2025-07-23,CUST-0205,Central,Technology,Keyboard,2,4438.6,5.0,8433.34,767.95,UPI,Delivered,6.0,4.0
+ORD-00069,2025-04-26,CUST-0056,North,Furniture,Lamp,1,1474.08,0.0,1474.08,316.88,UPI,Delivered,2.0,5.0
+ORD-00070,2025-10-11,CUST-0065,North,Office Supplies,Storage Box,2,331.59,10.0,596.86,117.21,Debit Card,Delivered,4.0,5.0
+ORD-00071,2025-11-24,CUST-0086,Central,Technology,Smartphone,2,37602.43,5.0,71444.62,7067.7,Cash on Delivery,Delivered,2.0,5.0
+ORD-00072,2025-11-06,CUST-0394,North,Office Supplies,Notebook,1,168.26,10.0,151.43,40.96,Debit Card,Delivered,5.0,4.0
+ORD-00073,2025-06-03,CUST-0162,East,Home & Kitchen,Cookware,1,5276.17,10.0,4748.55,675.82,UPI,Returned,4.0,3.0
+ORD-00074,2025-12-02,CUST-0387,North,Technology,Keyboard,4,1348.59,10.0,4854.92,103.01,Debit Card,Delivered,4.0,4.0
+ORD-00075,2025-10-13,CUST-0095,East,Office Supplies,Printer Paper,1,604.87,20.0,483.9,77.31,UPI,Delivered,4.0,5.0
+ORD-00076,2025-12-06,CUST-0400,West,Furniture,Sofa,1,22531.37,10.0,20278.23,4528.29,Credit Card,Delivered,3.0,5.0
+ORD-00077,2025-05-18,CUST-0263,South,Technology,Headphones,1,1726.09,15.0,1467.18,-14.18,Debit Card,Delivered,5.0,2.0
+ORD-00078,2025-12-23,CUST-0084,North,Technology,Keyboard,2,2373.67,5.0,4509.97,654.17,Credit Card,Cancelled,2.0,4.0
+ORD-00079,2025-04-03,CUST-0424,South,Technology,Headphones,3,6223.28,20.0,14935.87,1383.72,UPI,Cancelled,2.0,2.0
+ORD-00080,2025-10-26,CUST-0381,North,Office Supplies,Pen Set,2,298.64,0.0,597.28,186.19,Debit Card,Delivered,3.0,4.0
+ORD-00081,2025-05-16,CUST-0278,South,Technology,Keyboard,3,3589.41,0.0,10768.23,1421.41,Cash on Delivery,Returned,8.0,2.0
+ORD-00082,2025-03-09,CUST-0111,South,Furniture,Chair,3,10587.68,20.0,25410.43,2202.29,UPI,Delivered,5.0,3.0
+ORD-00083,2025-11-21,CUST-0041,West,Home & Kitchen,Cookware,2,3443.65,10.0,6198.57,1138.19,Net Banking,Delivered,4.0,3.0
+ORD-00084,2025-05-16,CUST-0250,North,Home & Kitchen,Water Bottle,1,491.8,0.0,491.8,127.36,Credit Card,Delivered,4.0,4.0
+ORD-00085,2025-07-14,CUST-0026,North,Furniture,Bookshelf,5,7691.82,15.0,32690.23,2613.39,Credit Card,Returned,5.0,1.0
+ORD-00086,2025-08-21,CUST-0358,West,Office Supplies,Stapler,1,654.27,10.0,588.84,147.25,UPI,Cancelled,4.0,3.0
+ORD-00087,2025-02-17,CUST-0033,North,Furniture,Lamp,2,1618.07,20.0,2588.91,220.09,Debit Card,Delivered,2.0,4.0
+ORD-00088,2025-07-22,CUST-0080,South,Home & Kitchen,Water Bottle,2,1292.11,0.0,2584.22,405.23,Credit Card,Delivered,5.0,5.0
+ORD-00089,2025-04-21,CUST-0086,Central,Office Supplies,Notebook,1,195.09,5.0,185.34,55.3,Credit Card,Delivered,5.0,5.0
+ORD-00090,2025-06-19,CUST-0199,South,Furniture,Lamp,1,684.34,15.0,581.69,81.8,UPI,Delivered,5.0,4.0
+ORD-00091,2025-11-11,CUST-0433,North,Office Supplies,Storage Box,2,285.83,5.0,543.08,145.19,UPI,Delivered,5.0,5.0
+ORD-00092,2025-08-01,CUST-0275,Central,Office Supplies,Printer Paper,1,473.97,5.0,450.27,151.27,Credit Card,Delivered,4.0,1.0
+ORD-00093,2025-08-11,CUST-0182,South,Home & Kitchen,Coffee Maker,4,10569.05,5.0,40162.39,9491.39,UPI,Delivered,5.0,4.0
+ORD-00094,2025-12-08,CUST-0441,West,Home & Kitchen,Coffee Maker,3,9693.74,15.0,24719.04,6118.73,UPI,Delivered,2.0,4.0
+ORD-00095,2025-08-02,CUST-0106,South,Technology,Smartphone,1,46538.58,20.0,37230.86,781.98,Cash on Delivery,Delivered,4.0,5.0
+ORD-00096,2025-02-12,CUST-0176,North,Office Supplies,Notebook,5,80.44,0.0,402.2,148.55,UPI,Returned,9.0,1.0
+ORD-00097,2025-04-09,CUST-0359,Central,Home & Kitchen,Mixer,2,2549.36,15.0,4333.91,723.31,Debit Card,Delivered,4.0,4.0
+ORD-00098,2025-01-12,CUST-0233,Central,Home & Kitchen,Bedsheet,1,3074.67,25.0,2306.0,319.12,Debit Card,Delivered,6.0,2.0
+ORD-00099,2025-10-15,CUST-0257,West,Furniture,Desk,3,9833.32,5.0,28024.96,7831.1,UPI,Delivered,4.0,5.0
+ORD-00100,2025-04-23,CUST-0241,North,Technology,Keyboard,1,711.23,0.0,711.23,89.8,Cash on Delivery,Delivered,4.0,4.0
+ORD-00101,2025-02-23,CUST-0091,Central,Technology,Laptop,3,61947.09,15.0,157965.08,22064.06,Debit Card,Delivered,4.0,3.0
+ORD-00102,2025-04-23,CUST-0166,South,Office Supplies,Printer Paper,1,277.94,15.0,236.25,61.08,Cash on Delivery,Delivered,5.0,3.0
+ORD-00103,2025-12-28,CUST-0213,North,Furniture,Lamp,2,1791.06,5.0,3403.01,723.34,UPI,Delivered,7.0,3.0
+ORD-00104,2025-01-03,CUST-0255,West,Technology,Monitor,2,19428.2,15.0,33027.94,1947.7,UPI,Delivered,3.0,4.0
+ORD-00105,2025-10-04,CUST-0164,West,Furniture,Desk,2,9395.17,5.0,17850.82,4128.65,UPI,Delivered,2.0,5.0
+ORD-00106,2025-10-10,CUST-0291,Central,Technology,Laptop,1,79513.2,10.0,71561.88,10758.47,Debit Card,Delivered,4.0,3.0
+ORD-00107,2025-09-06,CUST-0110,North,Technology,Headphones,1,2004.01,10.0,1803.61,223.49,Credit Card,Delivered,4.0,4.0
+ORD-00108,2025-12-06,CUST-0275,North,Furniture,Chair,1,10939.47,20.0,8751.58,93.41,UPI,Delivered,2.0,4.0
+ORD-00109,2025-10-03,CUST-0361,West,Home & Kitchen,Coffee Maker,2,11967.44,0.0,23934.88,5830.01,UPI,Returned,5.0,3.0
+ORD-00110,2025-04-16,CUST-0437,East,Furniture,Sofa,1,25118.33,10.0,22606.5,4209.25,Cash on Delivery,Delivered,6.0,2.0
+ORD-00111,2025-05-11,CUST-0173,South,Office Supplies,Printer Paper,2,477.58,20.0,764.13,90.67,Credit Card,Delivered,4.0,4.0
+ORD-00112,2025-05-15,CUST-0145,East,Office Supplies,Printer Paper,1,357.94,0.0,357.94,103.19,Credit Card,Delivered,7.0,3.0
+ORD-00113,2025-04-04,CUST-0441,West,Office Supplies,Printer Paper,4,460.78,15.0,1566.65,464.77,Credit Card,Delivered,7.0,5.0
+ORD-00114,2025-11-30,CUST-0254,West,Technology,Laptop,1,72173.0,20.0,57738.4,-2346.18,UPI,Delivered,5.0,5.0
+ORD-00115,2025-05-17,CUST-0384,East,Home & Kitchen,Coffee Maker,1,3773.77,15.0,3207.7,133.72,Cash on Delivery,Cancelled,5.0,5.0
+ORD-00116,2025-07-31,CUST-0169,Central,Office Supplies,Notebook,1,210.3,10.0,189.27,46.13,Credit Card,Delivered,1.0,4.0
+ORD-00117,2025-02-13,CUST-0261,West,Furniture,Chair,3,5201.77,5.0,14825.04,4375.32,Debit Card,Delivered,4.0,4.0
+ORD-00118,2025-10-16,CUST-0279,South,Office Supplies,Notebook,1,136.96,10.0,123.26,22.62,UPI,Delivered,4.0,4.0
+ORD-00119,2025-05-28,CUST-0093,West,Home & Kitchen,Cookware,5,984.41,10.0,4429.85,1271.29,UPI,Delivered,4.0,4.0
+ORD-00120,2025-08-30,CUST-0019,Central,Home & Kitchen,Water Bottle,3,557.38,20.0,1337.71,131.93,UPI,Delivered,5.0,2.0
+ORD-00121,2025-02-26,CUST-0232,East,Home & Kitchen,Coffee Maker,4,7760.99,5.0,29491.76,5175.77,UPI,Cancelled,7.0,4.0
+ORD-00122,2025-09-03,CUST-0391,North,Home & Kitchen,Mixer,3,7361.13,25.0,16562.54,1668.15,Credit Card,Delivered,1.0,5.0
+ORD-00123,2025-11-25,CUST-0256,Central,Office Supplies,Storage Box,3,657.09,10.0,1774.14,439.26,UPI,Delivered,1.0,2.0
+ORD-00124,2025-11-01,CUST-0276,Central,Furniture,Lamp,1,888.32,0.0,888.32,287.64,Net Banking,Delivered,5.0,5.0
+ORD-00125,2025-01-18,CUST-0389,North,Technology,Smartphone,1,17975.72,10.0,16178.15,1885.01,Cash on Delivery,Delivered,5.0,3.0
+ORD-00126,2025-02-16,CUST-0157,Central,Home & Kitchen,Bedsheet,1,1368.16,10.0,1231.34,256.98,UPI,Delivered,4.0,4.0
+ORD-00127,2025-08-27,CUST-0239,West,Furniture,Chair,2,4672.13,15.0,7942.62,1517.42,Credit Card,Delivered,4.0,2.0
+ORD-00128,2025-04-12,CUST-0448,South,Furniture,Bookshelf,2,5241.22,10.0,9434.2,1898.41,UPI,Delivered,1.0,4.0
+ORD-00129,2025-06-21,CUST-0347,Central,Home & Kitchen,Cookware,2,861.98,15.0,1465.37,194.55,Cash on Delivery,Delivered,3.0,4.0
+ORD-00130,2025-10-11,CUST-0303,West,Furniture,Lamp,5,1549.83,10.0,6974.23,1600.48,UPI,Delivered,4.0,4.0
+ORD-00131,2025-02-17,CUST-0178,North,Office Supplies,Pen Set,2,388.8,20.0,622.08,119.86,UPI,Cancelled,8.0,3.0
+ORD-00132,2025-09-23,CUST-0343,Central,Furniture,Desk,3,6452.53,5.0,18389.71,2771.6,UPI,Delivered,5.0,4.0
+ORD-00133,2025-09-15,CUST-0082,North,Office Supplies,Storage Box,2,971.32,15.0,1651.24,428.56,Credit Card,Delivered,2.0,3.0
+ORD-00134,2025-09-20,CUST-0109,South,Furniture,Chair,3,5481.54,5.0,15622.39,3367.5,UPI,Delivered,5.0,4.0
+ORD-00135,2025-12-06,CUST-0320,East,Office Supplies,Notebook,2,222.11,25.0,333.17,16.25,UPI,Returned,5.0,2.0
+ORD-00136,2025-06-29,CUST-0184,East,Furniture,Chair,2,7745.55,15.0,13167.43,3264.13,Net Banking,Delivered,3.0,5.0
+ORD-00137,2025-11-21,CUST-0101,South,Home & Kitchen,Cookware,1,2108.51,10.0,1897.66,292.9,UPI,Delivered,1.0,3.0
+ORD-00138,2025-10-07,CUST-0182,Central,Technology,Laptop,3,69066.47,0.0,207199.41,40345.66,UPI,Delivered,5.0,5.0
+ORD-00139,2025-10-25,CUST-0261,North,Office Supplies,Storage Box,1,1162.74,5.0,1104.6,348.32,Cash on Delivery,Delivered,1.0,5.0
+ORD-00140,2025-09-04,CUST-0002,North,Home & Kitchen,Mixer,2,8460.32,0.0,16920.64,4628.35,Credit Card,Delivered,4.0,2.0
+ORD-00141,2025-05-16,CUST-0294,North,Office Supplies,Notebook,1,126.11,10.0,113.5,21.74,Credit Card,Delivered,4.0,5.0
+ORD-00142,2025-12-29,CUST-0329,North,Home & Kitchen,Water Bottle,3,282.01,10.0,761.43,76.92,Cash on Delivery,Delivered,3.0,3.0
+ORD-00143,2025-10-20,CUST-0116,North,Home & Kitchen,Water Bottle,1,493.88,0.0,493.88,93.58,Credit Card,Delivered,5.0,5.0
+ORD-00144,2025-06-08,CUST-0353,East,Technology,Laptop,1,80869.78,20.0,64695.82,-3590.19,UPI,Delivered,8.0,5.0
+ORD-00145,2025-10-05,CUST-0073,North,Office Supplies,Printer Paper,3,621.1,15.0,1583.81,429.72,Cash on Delivery,Delivered,4.0,5.0
+ORD-00146,2025-12-27,CUST-0108,North,Technology,Monitor,2,14579.15,10.0,26242.47,2544.48,Debit Card,Returned,3.0,3.0
+ORD-00147,2025-03-10,CUST-0100,West,Furniture,Lamp,5,2637.69,20.0,10550.76,2504.89,Net Banking,Delivered,2.0,4.0
+ORD-00148,2025-02-05,CUST-0128,Central,Furniture,Chair,3,6136.44,25.0,13806.99,1499.17,Debit Card,Delivered,5.0,4.0
+ORD-00149,2025-10-30,CUST-0379,North,Office Supplies,Storage Box,1,897.51,10.0,807.76,250.63,UPI,Delivered,3.0,5.0
+ORD-00150,2025-05-12,CUST-0338,North,Home & Kitchen,Mixer,1,7606.28,15.0,6465.34,940.9,UPI,Delivered,2.0,5.0
+ORD-00151,2025-01-10,CUST-0008,Central,Technology,Smartphone,3,38235.78,15.0,97501.24,8595.43,UPI,Delivered,7.0,4.0
+ORD-00152,2025-12-21,CUST-0261,South,Home & Kitchen,Coffee Maker,1,11728.99,20.0,9383.19,785.7,UPI,Delivered,3.0,3.0
+ORD-00153,2025-01-27,CUST-0198,Central,Technology,Headphones,1,1535.02,15.0,1304.77,70.04,Debit Card,Delivered,4.0,5.0
+ORD-00154,2025-09-15,CUST-0156,South,Office Supplies,Printer Paper,2,259.77,15.0,441.61,102.68,UPI,Delivered,3.0,5.0
+ORD-00155,2025-11-09,CUST-0153,North,Office Supplies,Stapler,3,284.6,0.0,853.8,234.92,UPI,Delivered,3.0,4.0
+ORD-00156,2025-02-26,CUST-0281,East,Office Supplies,Printer Paper,1,505.96,15.0,430.07,85.65,UPI,Delivered,3.0,4.0
+ORD-00157,2025-06-10,CUST-0419,West,Technology,Headphones,1,5927.42,10.0,5334.68,577.43,Net Banking,Delivered,2.0,4.0
+ORD-00158,2025-12-31,CUST-0332,East,Furniture,Bookshelf,1,5512.95,10.0,4961.65,698.33,Credit Card,Delivered,6.0,5.0
+ORD-00159,2025-03-21,CUST-0436,North,Technology,Smartphone,1,28869.5,15.0,24539.08,-143.49,Net Banking,Delivered,3.0,3.0
+ORD-00160,2025-05-25,CUST-0289,South,Office Supplies,Notebook,1,199.53,0.0,199.53,66.14,Net Banking,Delivered,4.0,5.0
+ORD-00161,2025-04-15,CUST-0146,North,Technology,Monitor,1,15736.67,25.0,11802.5,760.89,Net Banking,Delivered,5.0,5.0
+ORD-00162,2025-03-24,CUST-0137,West,Furniture,Desk,2,17798.7,25.0,26698.05,2464.48,Credit Card,Delivered,5.0,4.0
+ORD-00163,2025-07-04,CUST-0026,East,Office Supplies,Notebook,1,197.33,5.0,187.46,48.0,Credit Card,Delivered,5.0,5.0
+ORD-00164,2025-03-06,CUST-0010,East,Office Supplies,Pen Set,1,137.88,10.0,124.09,29.97,UPI,Delivered,6.0,4.0
+ORD-00165,2025-02-26,CUST-0152,East,Home & Kitchen,Cookware,2,3157.11,0.0,6314.22,1680.12,Cash on Delivery,Delivered,6.0,3.0
+ORD-00166,2025-10-23,CUST-0297,North,Technology,Smartphone,3,36573.63,25.0,82290.67,-4919.15,UPI,Delivered,5.0,4.0
+ORD-00167,2025-05-09,CUST-0390,West,Technology,Laptop,1,56958.93,10.0,51263.04,2929.16,UPI,Delivered,4.0,5.0
+ORD-00168,2025-03-07,CUST-0020,North,Office Supplies,Printer Paper,1,393.8,10.0,354.42,83.2,UPI,Returned,2.0,4.0
+ORD-00169,2025-12-14,CUST-0423,North,Home & Kitchen,Water Bottle,3,1459.77,20.0,3503.45,262.34,Debit Card,Delivered,5.0,5.0
+ORD-00170,2025-07-03,CUST-0070,East,Furniture,Lamp,3,632.55,15.0,1613.0,114.58,Net Banking,Delivered,7.0,4.0
+ORD-00171,2025-05-15,CUST-0354,North,Office Supplies,Notebook,1,137.42,20.0,109.94,28.39,Cash on Delivery,Delivered,2.0,4.0
+ORD-00172,2025-02-15,CUST-0117,Central,Office Supplies,Pen Set,2,494.42,0.0,988.84,226.32,Credit Card,Delivered,3.0,2.0
+ORD-00173,2025-04-15,CUST-0311,South,Office Supplies,Notebook,3,149.22,20.0,358.13,86.26,Cash on Delivery,Delivered,2.0,2.0
+ORD-00174,2025-03-10,CUST-0310,North,Technology,Smartphone,1,22183.31,0.0,22183.31,3119.63,UPI,Delivered,5.0,3.0
+ORD-00175,2025-05-17,CUST-0093,West,Office Supplies,Pen Set,1,66.06,0.0,66.06,21.93,Credit Card,Delivered,4.0,4.0
+ORD-00176,2025-10-04,CUST-0156,East,Technology,Smartphone,2,13613.22,15.0,23142.47,2361.45,UPI,Delivered,5.0,5.0
+ORD-00177,2025-08-19,CUST-0036,Central,Home & Kitchen,Water Bottle,5,207.17,10.0,932.26,172.03,UPI,Delivered,4.0,5.0
+ORD-00178,2025-01-02,CUST-0216,South,Home & Kitchen,Water Bottle,5,791.08,0.0,3955.4,898.54,Net Banking,Delivered,4.0,4.0
+ORD-00179,2025-12-21,CUST-0103,North,Furniture,Sofa,2,40364.52,10.0,72656.14,15289.17,Net Banking,Delivered,1.0,4.0
+ORD-00180,2025-05-28,CUST-0177,North,Furniture,Chair,1,8960.33,0.0,8960.33,1749.81,Debit Card,Delivered,5.0,4.0
+ORD-00181,2025-05-12,CUST-0306,West,Furniture,Lamp,2,1062.88,20.0,1700.61,135.14,UPI,Delivered,5.0,3.0
+ORD-00182,2025-11-27,CUST-0422,West,Technology,Monitor,2,17655.39,15.0,30014.16,371.72,Credit Card,Delivered,7.0,4.0
+ORD-00183,2025-08-12,CUST-0123,North,Technology,Smartphone,4,21170.42,0.0,84681.68,8187.78,UPI,Delivered,1.0,1.0
+ORD-00184,2025-12-24,CUST-0153,South,Furniture,Chair,1,3352.45,0.0,3352.45,630.54,Credit Card,Cancelled,4.0,5.0
+ORD-00185,2025-04-25,CUST-0222,West,Office Supplies,Storage Box,3,1036.49,20.0,2487.58,589.17,Net Banking,Delivered,4.0,4.0
+ORD-00186,2025-01-14,CUST-0042,West,Home & Kitchen,Cookware,2,705.08,15.0,1198.64,137.19,UPI,Delivered,7.0,2.0
+ORD-00187,2025-01-16,CUST-0024,South,Furniture,Sofa,1,24960.26,10.0,22464.23,4219.26,Credit Card,Returned,4.0,2.0
+ORD-00188,2025-01-19,CUST-0069,East,Technology,Smartphone,1,35026.35,10.0,31523.72,4825.68,Net Banking,Cancelled,5.0,5.0
+ORD-00189,2025-02-21,CUST-0118,East,Home & Kitchen,Cookware,1,5409.36,10.0,4868.42,782.48,Debit Card,Delivered,4.0,4.0
+ORD-00190,2025-01-05,CUST-0031,West,Office Supplies,Notebook,2,94.3,15.0,160.31,30.36,Debit Card,Returned,2.0,2.0
+ORD-00191,2025-06-11,CUST-0295,North,Office Supplies,Printer Paper,1,649.89,10.0,584.9,183.4,Net Banking,Returned,5.0,1.0
+ORD-00192,2025-09-07,CUST-0204,South,Furniture,Sofa,1,18271.49,20.0,14617.19,1934.24,Debit Card,Delivered,5.0,1.0
+ORD-00193,2025-08-28,CUST-0377,North,Furniture,Bookshelf,4,7189.3,20.0,23005.76,2864.65,UPI,Delivered,3.0,4.0
+ORD-00194,2025-08-31,CUST-0174,North,Furniture,Chair,1,4988.02,10.0,4489.22,787.04,Credit Card,Delivered,3.0,5.0
+ORD-00195,2025-12-19,CUST-0200,East,Office Supplies,Pen Set,4,409.22,0.0,1636.88,475.45,UPI,Cancelled,6.0,4.0
+ORD-00196,2025-01-11,CUST-0229,West,Technology,Smartphone,3,48990.64,10.0,132274.73,9315.31,UPI,Delivered,4.0,5.0
+ORD-00197,2025-03-20,CUST-0321,Central,Office Supplies,Stapler,2,352.13,0.0,704.26,177.54,Cash on Delivery,Delivered,7.0,2.0
+ORD-00198,2025-03-12,CUST-0438,South,Technology,Monitor,3,16157.83,5.0,46049.82,7121.76,UPI,Delivered,3.0,2.0
+ORD-00199,2025-12-13,CUST-0279,West,Office Supplies,Storage Box,2,660.35,10.0,1188.63,239.85,Cash on Delivery,Delivered,5.0,4.0
+ORD-00200,2025-01-02,CUST-0082,South,Technology,Keyboard,1,1649.89,0.0,1649.89,248.07,Credit Card,Returned,1.0,1.0
+ORD-00201,2025-04-06,CUST-0332,Central,Technology,Headphones,1,1948.14,10.0,1753.33,27.55,UPI,Delivered,6.0,5.0
+ORD-00202,2025-10-31,CUST-0167,Central,Office Supplies,Printer Paper,2,212.5,0.0,425.0,153.58,UPI,Delivered,6.0,5.0
+ORD-00203,2025-11-01,CUST-0013,North,Home & Kitchen,Bedsheet,1,791.38,20.0,633.1,-9.07,Credit Card,Delivered,3.0,5.0
+ORD-00204,2025-07-28,CUST-0374,North, office supplies ,Water Bottle,1,794.83,20.0,635.86,84.14,Credit Card,Delivered,5.0,4.0
+ORD-00205,2025-06-18,CUST-0436,South,Furniture,Desk,1,7511.94,5.0,7136.34,1682.4,Debit Card,Delivered,1.0,3.0
+ORD-00206,2025-07-28,CUST-0004,North,Technology,Keyboard,1,3549.01,25.0,2661.76,159.85,Debit Card,Delivered,6.0,4.0
+ORD-00207,2025-01-04,CUST-0211,East,Furniture,Bookshelf,5,3654.85,0.0,18274.25,5621.0,Debit Card,Delivered,6.0,5.0
+ORD-00208,2025-07-12,CUST-0251,North,Home & Kitchen,Coffee Maker,1,5431.9,20.0,4345.52,785.02,Credit Card,Delivered,2.0,4.0
+ORD-00209,2025-03-28,CUST-0048,East,Technology,Headphones,1,6568.21,0.0,6568.21,980.44,Debit Card,Delivered,5.0,5.0
+ORD-00210,2025-04-06,CUST-0341,East,Office Supplies,Notebook,3,190.85,10.0,515.29,119.41,Debit Card,Cancelled,6.0,4.0
+ORD-00211,2025-10-03,CUST-0341,Central,Furniture,Lamp,1,1027.46,10.0,924.71,134.14,Debit Card,Delivered,2.0,4.0
+ORD-00212,2025-03-11,CUST-0289,West,Office Supplies,Printer Paper,3,473.64,10.0,1278.83,276.27,Cash on Delivery,Delivered,1.0,4.0
+ORD-00213,2025-02-02,CUST-0017,East,Office Supplies,Pen Set,1,382.97,15.0,325.52,93.93,Cash on Delivery,Delivered,4.0,4.0
+ORD-00214,2025-05-01,CUST-0023,South,Furniture,Lamp,1,998.38,5.0,948.46,176.93,UPI,Delivered,4.0,2.0
+ORD-00215,2025-05-20,CUST-0292,West,Home & Kitchen,Coffee Maker,3,3286.04,10.0,8872.31,1071.42,Cash on Delivery,Delivered,4.0,5.0
+ORD-00216,2025-09-30,CUST-0369,North,Office Supplies,Printer Paper,2,195.92,15.0,333.06,87.3,Net Banking,Delivered,5.0,2.0
+ORD-00217,2025-07-14,CUST-0412,East,Home & Kitchen,Cookware,2,3018.59,0.0,6037.18,807.49,UPI,Delivered,3.0,3.0
+ORD-00218,2025-05-26,CUST-0254,North,Technology,Smartphone,1,37803.33,20.0,30242.66,922.54,Debit Card,Returned,5.0,3.0
+ORD-00219,2025-09-10,CUST-0234,North,Office Supplies,Printer Paper,5,455.23,15.0,1934.73,437.03,Credit Card,Delivered,4.0,4.0
+ORD-00220,2025-11-20,CUST-0169,East,Technology,Headphones,5,1789.44,5.0,8499.84,834.77,Net Banking,Delivered,7.0,4.0
+ORD-00221,2025-09-10,CUST-0146,North,Technology,Smartphone,1,30331.11,0.0,30331.11,6515.05,Debit Card,Delivered,,4.0
+ORD-00222,2025-06-17,CUST-0295,North,Technology,Headphones,5,799.56,10.0,3598.02,379.57,Debit Card,Delivered,7.0,4.0
+ORD-00223,2025-02-14,CUST-0091,Central,Home & Kitchen,Coffee Maker,1,10394.76,0.0,10394.76,2606.05,UPI,Delivered,4.0,4.0
+ORD-00224,2025-08-21,CUST-0402,West,Furniture,Bookshelf,2,2695.75,5.0,5121.93,888.96,Net Banking,Delivered,1.0,5.0
+ORD-00225,2025-09-01,CUST-0415,South,Furniture,Sofa,3,13042.18,0.0,39126.54,12948.1,Cash on Delivery,Delivered,1.0,4.0
+ORD-00226,2025-02-01,CUST-0123,West,Furniture,Sofa,2,18516.91,20.0,29627.06,5838.18,UPI,Delivered,5.0,5.0
+ORD-00227,2025-07-28,CUST-0315,South,Home & Kitchen,Coffee Maker,2,5557.5,5.0,10559.25,3112.7,Debit Card,Delivered,5.0,5.0
+ORD-00228,2025-08-13,CUST-0095,South,Furniture,Bookshelf,3,3228.36,15.0,8232.32,1264.38,Cash on Delivery,Delivered,5.0,3.0
+ORD-00229,2025-10-19,CUST-0185,West,Office Supplies,Storage Box,3,1192.75,10.0,3220.43,924.54,Credit Card,Delivered,1.0,5.0
+ORD-00230,2025-04-25,CUST-0379,North,Technology,Smartphone,1,27127.87,0.0,27127.87,3244.84,Credit Card,Returned,2.0,3.0
+ORD-00231,2025-06-13,CUST-0263,South,Office Supplies,Printer Paper,2,453.54,10.0,816.37,242.35,Cash on Delivery,Delivered,3.0,4.0
+ORD-00232,2025-08-31,CUST-0129,East,Technology,Keyboard,3,1455.14,15.0,3710.61,280.49,Net Banking,Returned,5.0,4.0
+ORD-00233,2025-03-02,CUST-0010,West,Home & Kitchen,Cookware,1,2859.81,20.0,2287.85,191.42,Debit Card,Delivered,5.0,5.0
+ORD-00234,2025-05-09,CUST-0077,North,Home & Kitchen,Water Bottle,2,1462.19,0.0,2924.38,393.62,Net Banking,Delivered,6.0,4.0
+ORD-00235,2025-07-23,CUST-0233,East,Technology,Smartphone,3,25342.95,10.0,68425.97,6115.08,Credit Card,Delivered,2.0,3.0
+ORD-00236,2025-03-14,CUST-0250,South,Technology,Keyboard,1,1588.18,10.0,1429.36,134.67,UPI,Delivered,5.0,4.0
+ORD-00237,2025-03-05,CUST-0240,West,Home & Kitchen,Water Bottle,1,1206.73,0.0,1206.73,273.15,Debit Card,Delivered,1.0,3.0
+ORD-00238,2025-05-29,CUST-0359,Central,Technology,Keyboard,4,3293.71,15.0,11198.61,941.28,UPI,Returned,5.0,2.0
+ORD-00239,2025-06-12,CUST-0296,West,Home & Kitchen,Water Bottle,3,1487.85,0.0,4463.55,959.21,Credit Card,Delivered,4.0,5.0
+ORD-00240,2025-07-12,CUST-0061,North,Furniture,Lamp,1,720.3,10.0,648.27,157.56,Credit Card,Delivered,1.0,5.0
+ORD-00241,2025-05-21,CUST-0339,West,Home & Kitchen,Water Bottle,1,1148.77,25.0,861.58,138.05,Debit Card,Delivered,3.0,4.0
+ORD-00242,2025-08-11,CUST-0028,East,Home & Kitchen,Bedsheet,2,1004.68,0.0,2009.36,534.24,UPI,Delivered,7.0,3.0
+ORD-00243,2025-09-11,CUST-0396,North,Home & Kitchen,Mixer,1,5543.12,5.0,5265.96,1269.39,UPI,Returned,2.0,3.0
+ORD-00244,2025-01-21,CUST-0210,West,Home & Kitchen,Coffee Maker,1,10162.66,15.0,8638.26,1869.05,Debit Card,Delivered,5.0,5.0
+ORD-00245,2025-08-26,CUST-0399,South,Office Supplies,Storage Box,1,197.95,15.0,168.26,41.8,Debit Card,Delivered,2.0,3.0
+ORD-00246,2025-09-20,CUST-0170,West,Technology,Headphones,1,3417.31,15.0,2904.71,418.52,,Returned,4.0,2.0
+ORD-00247,2025-06-01,CUST-0338,East,Furniture,Sofa,1,15440.26,10.0,13896.23,3177.25,UPI,Delivered,7.0,5.0
+ORD-00248,2025-06-08,CUST-0113,North,Furniture,Lamp,1,1072.06,5.0,1018.46,197.15,UPI,Delivered,3.0,3.0
+ORD-00249,2025-05-01,CUST-0291,East,Office Supplies,Pen Set,1,70.66,20.0,56.53,8.68,Debit Card,Delivered,5.0,5.0
+ORD-00250,2025-05-24,CUST-0439,North,Home & Kitchen,Bedsheet,1,2718.44,10.0,2446.6,391.85,Credit Card,Delivered,5.0,5.0
+ORD-00251,2025-12-20,CUST-0371,North,Office Supplies,Pen Set,4,309.84,15.0,1053.46,212.75,UPI,Delivered,3.0,4.0
+ORD-00252,2025-04-12,CUST-0319,North,Home & Kitchen,Mixer,5,1850.14,0.0,9250.7,1893.78,Debit Card,Delivered,2.0,5.0
+ORD-00253,2025-09-12,CUST-0296,East,Furniture,Desk,1,11883.9,20.0,9507.12,1480.74,UPI,Delivered,2.0,2.0
+ORD-00254,2025-02-17,CUST-0367,North,Home & Kitchen,Cookware,1,2201.61,10.0,1981.45,406.64,UPI,Cancelled,5.0,5.0
+ORD-00255,2025-02-24,CUST-0051,Central,Office Supplies,Notebook,2,110.64,0.0,221.28,67.66,Debit Card,Cancelled,3.0,2.0
+ORD-00256,2025-11-02,CUST-0128,South,Office Supplies,Pen Set,2,140.66,10.0,253.19,59.9,Debit Card,Returned,,3.0
+ORD-00257,2025-09-19,CUST-0420,Central,Office Supplies,Pen Set,2,182.42,0.0,364.84,138.97,Credit Card,Delivered,7.0,2.0
+ORD-00258,2025-12-05,CUST-0370,West,Office Supplies,Notebook,1,155.28,10.0,139.75,27.14,UPI,Delivered,3.0,5.0
+ORD-00259,2025-08-05,CUST-0143,North,Home & Kitchen,Bedsheet,3,887.24,15.0,2262.46,234.66,UPI,Delivered,7.0,5.0
+ORD-00260,2025-07-12,CUST-0126,West,Office Supplies,Storage Box,3,1145.56,0.0,3436.68,1182.11,Credit Card,Delivered,3.0,4.0
+ORD-00261,2025-02-21,CUST-0058,North,Furniture,Bookshelf,3,6137.4,5.0,17491.59,3956.59,Net Banking,Delivered,3.0,3.0
+ORD-00262,2025-04-21,CUST-0083,North,Office Supplies,Stapler,2,327.83,20.0,524.53,107.72,Credit Card,Delivered,5.0,5.0
+ORD-00263,2025-12-02,CUST-0380,North,Office Supplies,Stapler,4,158.53,10.0,570.71,152.19,UPI,Delivered,2.0,4.0
+ORD-00264,2025-10-20,CUST-0199,East,Technology,Headphones,1,6261.7,5.0,5948.61,658.26,Credit Card,Delivered,4.0,5.0
+ORD-00265,2025-12-18,CUST-0102,West,Technology,Smartphone,3,48978.23,20.0,117547.75,3430.81,UPI,Delivered,1.0,3.0
+ORD-00266,2025-10-27,CUST-0343,West,Office Supplies,Notebook,1,83.1,10.0,74.79,22.63,Cash on Delivery,Delivered,5.0,5.0
+ORD-00267,2025-06-19,CUST-0131,North,Home & Kitchen,Cookware,1,2841.66,5.0,2699.58,453.5,Cash on Delivery,Delivered,5.0,5.0
+ORD-00268,2025-09-17,CUST-0291,South,Office Supplies,Stapler,1,662.62,5.0,629.49,175.11,Debit Card,Delivered,2.0,4.0
+ORD-00269,2025-09-03,CUST-0114,South,Technology,Monitor,1,9432.7,5.0,8961.07,1545.82,Credit Card,Delivered,7.0,3.0
+ORD-00270,2025-02-15,CUST-0193,Central,Office Supplies,Notebook,4,60.65,0.0,242.6,88.07,Cash on Delivery,Delivered,4.0,2.0
+ORD-00271,2025-04-21,CUST-0152,North,Furniture,Chair,5,3104.8,15.0,13195.4,2201.64,UPI,Delivered,1.0,5.0
+ORD-00272,2025-10-22,CUST-0056,SOUTH ,Office Supplies,Notebook,1,109.67,0.0,109.67,31.42,Net Banking,Delivered,3.0,5.0
+ORD-00273,2025-09-18,CUST-0252,East,Technology,Laptop,2,39809.55,0.0,79619.1,19282.11,Debit Card,Cancelled,3.0,5.0
+ORD-00274,2025-02-16,CUST-0391,North,Office Supplies,Storage Box,1,154.58,10.0,139.12,40.22,UPI,Delivered,4.0,3.0
+ORD-00275,2025-09-23,CUST-0116,Central,Technology,Keyboard,1,1653.27,0.0,1653.27,253.12,Credit Card,Delivered,3.0,4.0
+ORD-00276,2025-07-27,CUST-0420,North,Technology,Smartphone,3,51446.0,20.0,123470.4,8227.67,UPI,Delivered,5.0,1.0
+ORD-00277,2025-02-04,CUST-0377,South,Technology,Keyboard,3,3662.6,10.0,9889.02,954.13,UPI,Delivered,9.0,3.0
+ORD-00278,2025-04-16,CUST-0313,West,Home & Kitchen,Mixer,1,7212.49,15.0,6130.62,958.41,UPI,Delivered,4.0,4.0
+ORD-00279,2025-02-06,CUST-0060,North,Furniture,Desk,1,17357.52,5.0,16489.64,4006.12,UPI,Returned,3.0,4.0
+ORD-00280,2025-04-13,CUST-0361,South,Office Supplies,Notebook,4,139.24,25.0,417.72,88.28,Cash on Delivery,Delivered,4.0,1.0
+ORD-00281,2025-04-23,CUST-0441,East,Technology,Keyboard,1,817.27,15.0,694.68,31.23,UPI,Delivered,4.0,3.0
+ORD-00282,2025-12-09,CUST-0432,North,Home & Kitchen,Bedsheet,2,2781.65,15.0,4728.81,561.21,UPI,Delivered,3.0,4.0
+ORD-00283,2025-08-31,CUST-0209,North,Technology,Monitor,1,8413.45,0.0,8413.45,1361.75,Credit Card,Delivered,4.0,2.0
+ORD-00284,2025-07-19,CUST-0222,East,Office Supplies,Pen Set,2,485.17,15.0,824.79,125.97,UPI,Delivered,2.0,5.0
+ORD-00285,2025-12-31,CUST-0197,West,Technology,Keyboard,1,747.54,0.0,747.54,170.4,Debit Card,Returned,2.0,2.0
+ORD-00286,2025-11-13,CUST-0046, north,Technology,Headphones,1,2660.71,0.0,2660.71,483.8,Cash on Delivery,Delivered,5.0,4.0
+ORD-00287,2025-11-06,CUST-0254,East,Furniture,Chair,1,11469.38,5.0,10895.91,2483.07,Credit Card,Delivered,4.0,4.0
+ORD-00288,2025-03-10,CUST-0154,East,Technology,Keyboard,3,1130.41,0.0,3391.23,536.66,Cash on Delivery,Delivered,4.0,4.0
+ORD-00289,2025-01-12,CUST-0388,North,Furniture,Sofa,1,22855.14,10.0,20569.63,3096.05,Debit Card,Delivered,3.0,5.0
+ORD-00290,2025-11-12,CUST-0269,East,Furniture,Desk,1,8624.45,15.0,7330.78,1082.97,UPI,Delivered,5.0,5.0
+ORD-00291,2025-03-01,CUST-0300,East,Home & Kitchen,Cookware,2,560.78,20.0,897.25,181.95,Net Banking,Delivered,7.0,5.0
+ORD-00292,2025-12-19,CUST-0248,West,Technology,Smartphone,4,29206.51,5.0,110984.74,15395.81,Debit Card,Cancelled,6.0,1.0
+ORD-00293,2025-01-28,CUST-0167,North,Home & Kitchen,Coffee Maker,2,8550.04,0.0,17100.08,4462.34,Credit Card,Returned,5.0,3.0
+ORD-00294,2025-10-15,CUST-0297,North,Furniture,Desk,1,11156.42,0.0,11156.42,2922.53,UPI,Delivered,2.0,5.0
+ORD-00295,2025-11-11,CUST-0328,South,Home & Kitchen,Mixer,2,4497.51,0.0,8995.02,2197.2,Cash on Delivery,Delivered,2.0,5.0
+ORD-00296,2025-06-13,CUST-0112,Central,Office Supplies,Printer Paper,1,444.11,5.0,421.9,122.33,UPI,Delivered,4.0,3.0
+ORD-00297,2025-05-13,CUST-0014,Central,Technology,Keyboard,1,3216.3,15.0,2733.86,180.48,UPI,Delivered,1.0,4.0
+ORD-00298,2025-04-18,CUST-0422,West,Home & Kitchen,Cookware,4,622.66,15.0,2117.04,470.04,Debit Card,Delivered,3.0,3.0
+ORD-00299,2025-08-15,CUST-0363,South,Home & Kitchen,Cookware,1,6300.58,10.0,5670.52,668.45,Credit Card,Delivered,5.0,4.0
+ORD-00300,2025-04-18,CUST-0254,Central,Home & Kitchen,Coffee Maker,2,9111.35,15.0,15489.3,1260.16,Debit Card,Delivered,5.0,5.0
+ORD-00301,2025-07-01,CUST-0188,East,Technology,Monitor,1,19839.44,10.0,17855.5,1978.81,Credit Card,Delivered,4.0,5.0
+ORD-00302,2025-05-21,CUST-0001,East,Furniture,Sofa,2,35699.8,10.0,64259.64,20026.53,Net Banking,Delivered,6.0,3.0
+ORD-00303,2025-12-27,CUST-0379,Central,Office Supplies,Notebook,4,198.63,10.0,715.07,199.28,Cash on Delivery,Delivered,3.0,4.0
+ORD-00304,2025-12-28,CUST-0195,East,Furniture,Chair,1,3958.52,15.0,3364.74,678.12,UPI,Delivered,4.0,4.0
+ORD-00305,2025-10-18,CUST-0190,North,Office Supplies,Pen Set,2,127.96,5.0,243.12,66.19,Credit Card,Returned,5.0,2.0
+ORD-00306,2025-03-31,CUST-0384,North,Home & Kitchen,Water Bottle,4,896.82,5.0,3407.92,609.53,Net Banking,Delivered,6.0,4.0
+ORD-00307,2025-07-07,CUST-0102,West,Office Supplies,Printer Paper,2,605.12,0.0,1210.24,428.26,Cash on Delivery,Delivered,6.0,4.0
+ORD-00308,2025-03-27,CUST-0139,North,Office Supplies,Pen Set,2,201.82,5.0,383.46,133.19,Cash on Delivery,Delivered,4.0,2.0
+ORD-00309,2025-05-27,CUST-0104,West,technology ,Bedsheet,4,3322.42,5.0,12625.2,3366.7,UPI,Delivered,4.0,5.0
+ORD-00310,2025-06-23,CUST-0449,North,Technology,Keyboard,4,4031.39,25.0,12094.17,106.41,UPI,Delivered,5.0,4.0
+ORD-00311,2025-01-02,CUST-0259,North,Home & Kitchen,Bedsheet,1,1276.45,0.0,1276.45,302.92,Debit Card,Delivered,2.0,5.0
+ORD-00312,2025-11-04,CUST-0145,North,Furniture,Lamp,5,2327.62,5.0,11056.19,2778.85,Cash on Delivery,Delivered,3.0,4.0
+ORD-00313,2025-08-23,CUST-0119,North,Office Supplies,Storage Box,1,1163.4,10.0,1047.06,293.78,UPI,Delivered,3.0,5.0
+ORD-00314,2025-09-18,CUST-0014,South,Office Supplies,Storage Box,3,335.28,0.0,1005.84,316.94,Cash on Delivery,Delivered,2.0,3.0
+ORD-00315,2025-03-18,CUST-0215,South,Technology,Keyboard,1,1770.62,0.0,1770.62,312.24,Cash on Delivery,Delivered,4.0,3.0
+ORD-00316,2025-04-02,CUST-0189,North,Office Supplies,Storage Box,1,285.02,5.0,270.77,80.26,Credit Card,Delivered,8.0,3.0
+ORD-00317,2025-11-17,CUST-0343,South,Home & Kitchen,Bedsheet,2,1545.75,0.0,3091.5,1026.91,UPI,Delivered,3.0,4.0
+ORD-00318,2025-08-10,CUST-0277,Central,Furniture,Chair,1,2869.65,10.0,2582.68,648.42,UPI,Delivered,5.0,4.0
+ORD-00319,2025-01-10,CUST-0367,South,Technology,Smartphone,4,20226.89,10.0,72816.8,11550.33,Debit Card,Delivered,3.0,4.0
+ORD-00320,2025-03-09,CUST-0342,Central,Office Supplies,Printer Paper,5,534.55,20.0,2138.2,545.7,Credit Card,Delivered,5.0,5.0
+ORD-00321,2025-07-07,CUST-0096,West,Office Supplies,Printer Paper,2,565.27,15.0,960.96,160.41,Net Banking,Delivered,1.0,5.0
+ORD-00322,2025-11-26,CUST-0076,East,Office Supplies,Storage Box,5,417.77,15.0,1775.52,424.44,Cash on Delivery,Delivered,7.0,3.0
+ORD-00323,2025-02-02,CUST-0284,West,Furniture,Chair,1,10825.75,5.0,10284.46,1986.69,Debit Card,Delivered,5.0,4.0
+ORD-00324,2025-04-14,CUST-0126,North,Furniture,Bookshelf,4,2988.57,25.0,8965.71,369.87,Cash on Delivery,Delivered,8.0,2.0
+ORD-00325,2025-05-04,CUST-0279,West,Furniture,Desk,2,17158.21,25.0,25737.31,2948.2,Debit Card,Delivered,2.0,4.0
+ORD-00326,2025-08-30,CUST-0039,Central,Office Supplies,Notebook,3,235.93,0.0,707.79,214.14,Credit Card,Cancelled,2.0,3.0
+ORD-00327,2025-03-22,CUST-0060,South,Office Supplies,Notebook,1,72.24,10.0,65.02,16.16,UPI,Delivered,3.0,4.0
+ORD-00328,2025-07-04,CUST-0081,South,Technology,Laptop,1,42872.38,15.0,36441.52,2899.99,UPI,Delivered,5.0,4.0
+ORD-00329,2025-01-23,CUST-0251,South,Office Supplies,Pen Set,1,248.24,5.0,235.83,74.06,Credit Card,Delivered,9.0,4.0
+ORD-00330,2025-04-15,CUST-0122,East,Office Supplies,Notebook,1,236.48,10.0,212.83,60.32,UPI,Delivered,10.0,4.0
+ORD-00331,2025-09-08,CUST-0169,North,Furniture,Lamp,3,1277.24,15.0,3256.96,479.64,Credit Card,Delivered,3.0,5.0
+ORD-00332,2025-01-27,CUST-0128,North,Office Supplies,Stapler,2,266.62,5.0,506.58,141.63,Credit Card,Delivered,6.0,5.0
+ORD-00333,2025-01-30,CUST-0302,South,Office Supplies,Printer Paper,1,497.68,5.0,472.8,113.64,Debit Card,Delivered,2.0,3.0
+ORD-00334,2025-03-01,CUST-0051,North,Furniture,Bookshelf,1,8993.09,10.0,8093.78,1512.87,Debit Card,Delivered,7.0,4.0
+ORD-00335,2025-09-18,CUST-0218,South,Home & Kitchen,Water Bottle,5,203.08,25.0,761.55,26.66,Debit Card,Delivered,6.0,3.0
+ORD-00336,2025-12-13,CUST-0280,Central,Furniture,Bookshelf,1,4680.48,0.0,4680.48,1208.27,Credit Card,Delivered,4.0,5.0
+ORD-00337,2025-09-02,CUST-0081,West,Furniture,Bookshelf,4,5738.52,15.0,19510.97,2809.31,Credit Card,Delivered,6.0,4.0
+ORD-00338,2025-05-22,CUST-0298,East,Furniture,Desk,2,7049.72,20.0,11279.55,2554.31,Credit Card,Delivered,5.0,4.0
+ORD-00339,2025-02-20,CUST-0182,Central,Home & Kitchen,Cookware,2,4016.66,10.0,7229.99,1289.26,Debit Card,Delivered,7.0,4.0
+ORD-00340,2025-12-05,CUST-0084,North,Technology,Smartphone,1,36981.83,0.0,36981.83,6069.41,UPI,Delivered,1.0,5.0
+ORD-00341,2025-12-17,CUST-0238,Central,Furniture,Desk,3,4965.15,10.0,13405.9,1820.99,UPI,Delivered,5.0,4.0
+ORD-00342,2025-12-07,CUST-0156,South,Office Supplies,Notebook,1,144.57,0.0,144.57,37.51,Credit Card,Cancelled,5.0,3.0
+ORD-00343,2025-01-28,CUST-0005,North,Technology,Smartphone,1,15412.28,10.0,13871.05,1198.29,UPI,Delivered,4.0,4.0
+ORD-00344,2025-02-18,CUST-0211,North,Technology,Headphones,5,6976.47,25.0,26161.76,966.6,UPI,Delivered,5.0,3.0
+ORD-00345,2025-06-15,CUST-0359,South,Technology,Keyboard,1,3364.4,5.0,3196.18,618.03,Credit Card,Delivered,8.0,3.0
+ORD-00346,2025-04-15,CUST-0119,East,Technology,Laptop,1,81488.41,0.0,81488.41,8998.52,UPI,Delivered,6.0,4.0
+ORD-00347,2025-03-22,CUST-0176,North,Office Supplies,Storage Box,1,1097.49,15.0,932.87,258.37,Cash on Delivery,Delivered,5.0,4.0
+ORD-00348,2025-03-19,CUST-0246,East,Furniture,Bookshelf,1,4627.62,5.0,4396.24,1178.93,Debit Card,Delivered,5.0,4.0
+ORD-00349,2025-12-04,CUST-0295,South,Technology,Monitor,1,10622.34,5.0,10091.22,1785.85,Credit Card,Returned,1.0,2.0
+ORD-00350,2025-04-24,CUST-0430,South,Home & Kitchen,Coffee Maker,1,10040.77,25.0,7530.58,267.35,Cash on Delivery,Delivered,3.0,2.0
+ORD-00351,2025-09-11,CUST-0196,Central,Technology,Monitor,1,12892.87,10.0,11603.58,1607.04,Debit Card,Delivered,5.0,4.0
+ORD-00352,2025-03-03,CUST-0167,South,Technology,Smartphone,1,42546.48,5.0,40419.16,5871.08,UPI,Delivered,2.0,4.0
+ORD-00353,2025-02-06,CUST-0198,West,Technology,Smartphone,3,17576.94,0.0,52730.82,10561.18,Cash on Delivery,Delivered,4.0,5.0
+ORD-00354,2025-06-21,CUST-0138,East,Office Supplies,Pen Set,4,102.01,15.0,346.83,105.79,Cash on Delivery,Delivered,5.0,4.0
+ORD-00355,2025-07-02,CUST-0183,West,Office Supplies,Stapler,1,453.7,20.0,362.96,58.1,Cash on Delivery,Cancelled,2.0,5.0
+ORD-00356,2025-01-15,CUST-0234,North,Home & Kitchen,Mixer,2,7149.5,20.0,11439.2,2390.2,Credit Card,Delivered,4.0,4.0
+ORD-00357,2025-07-03,CUST-0027,West,Technology,Laptop,3,74785.43,5.0,213138.48,22810.4,UPI,Delivered,4.0,4.0
+ORD-00358,2025-01-29,CUST-0188,South,Office Supplies,Notebook,1,152.94,10.0,137.65,39.52,UPI,Delivered,5.0,5.0
+ORD-00359,2025-03-17,CUST-0288,East,Furniture,Desk,1,16040.09,5.0,15238.09,3173.64,Credit Card,Delivered,1.0,4.0
+ORD-00360,2025-04-20,CUST-0449,West,Home & Kitchen,Water Bottle,1,1215.22,10.0,1093.7,234.98,Debit Card,Delivered,6.0,5.0
+ORD-00361,2025-09-13,CUST-0448,South,Technology,Keyboard,4,3727.34,0.0,14909.36,2426.83,Debit Card,Delivered,3.0,2.0
+ORD-00362,2025-12-29,CUST-0234,South,Home & Kitchen,Water Bottle,1,1344.22,0.0,1344.22,407.66,Debit Card,Delivered,3.0,2.0
+ORD-00363,2025-10-02,CUST-0039,North,Office Supplies,Storage Box,1,621.25,0.0,621.25,169.98,Credit Card,Delivered,3.0,2.0
+ORD-00364,2025-03-11,CUST-0440,North,Office Supplies,Notebook,2,78.16,0.0,156.32,55.56,Debit Card,Delivered,3.0,5.0
+ORD-00365,2025-07-23,CUST-0208,North,Technology,Keyboard,5,631.03,15.0,2681.88,232.18,Cash on Delivery,Delivered,2.0,4.0
+ORD-00366,2025-12-25,CUST-0373,West,Office Supplies,Printer Paper,2,419.13,15.0,712.52,158.37,Cash on Delivery,Delivered,1.0,3.0
+ORD-00367,2025-02-24,CUST-0328,North,Furniture,Desk,2,15846.54,0.0,31693.08,8256.7,Net Banking,Cancelled,2.0,3.0
+ORD-00368,2025-12-06,CUST-0309,West,Technology,Keyboard,2,2191.66,15.0,3725.82,390.53,Cash on Delivery,Cancelled,4.0,4.0
+ORD-00369,2025-03-19,CUST-0019,North,Home & Kitchen,Cookware,1,5640.42,5.0,5358.4,1321.93,UPI,Delivered,4.0,4.0
+ORD-00370,2025-12-31,CUST-0098,Central,Technology,Keyboard,5,2918.99,0.0,14594.95,2713.68,Credit Card,Delivered,2.0,5.0
+ORD-00371,2025-08-04,CUST-0081,East,Furniture,Chair,2,6981.96,15.0,11869.33,3001.8,Credit Card,Delivered,8.0,3.0
+ORD-00372,2025-01-10,CUST-0235,East,Home & Kitchen,Mixer,3,3532.55,15.0,9008.0,1259.28,Credit Card,Returned,7.0,4.0
+ORD-00373,2025-07-21,CUST-0292,East,Home & Kitchen,Coffee Maker,1,4175.21,10.0,3757.69,687.19,UPI,Delivered,9.0,5.0
+ORD-00374,2025-01-10,CUST-0379,South,Technology,Keyboard,1,572.92,0.0,572.92,89.64,Credit Card,Delivered,5.0,3.0
+ORD-00375,2025-09-24,CUST-0222,Central,Technology,Smartphone,3,49350.07,10.0,133245.19,16993.64,Credit card ,Delivered,3.0,4.0
+ORD-00376,2025-07-08,CUST-0142,Central,Office Supplies,Storage Box,2,928.77,0.0,1857.54,544.95,UPI,Cancelled,5.0,5.0
+ORD-00377,2025-08-03,CUST-0329,North,Furniture,Lamp,2,1280.42,0.0,2560.84,593.38,Debit Card,Delivered,2.0,3.0
+ORD-00378,2025-12-16,CUST-0235,North,Home & Kitchen,Cookware,1,1850.46,10.0,1665.41,84.5,Debit Card,Delivered,5.0,3.0
+ORD-00379,2025-03-15,CUST-0307,West,Office Supplies,Printer Paper,2,487.1,5.0,925.49,225.4,Cash on Delivery,Delivered,6.0,3.0
+ORD-00380,2025-08-06,CUST-0123,North,Office Supplies,Stapler,2,457.33,20.0,731.73,146.68,UPI,Delivered,4.0,4.0
+ORD-00381,2025-02-24,CUST-0108,North,Office Supplies,Pen Set,3,295.28,0.0,885.84,273.47,Debit Card,Delivered,4.0,3.0
+ORD-00382,2025-07-18,CUST-0085,South,Office Supplies,Pen Set,1,164.22,0.0,164.22,58.63,Credit Card,Delivered,5.0,4.0
+ORD-00383,2025-10-30,CUST-0223,North,Office Supplies,Storage Box,1,466.87,0.0,466.87,134.84,Credit Card,Returned,4.0,2.0
+ORD-00384,2025-02-17,CUST-0380,North,Office Supplies,Printer Paper,5,487.1,15.0,2070.17,452.37,UPI,Delivered,2.0,4.0
+ORD-00385,2025-06-03,CUST-0043,South,Home & Kitchen,Bedsheet,1,3895.8,0.0,3895.8,916.51,UPI,Delivered,3.0,5.0
+ORD-00386,2025-01-28,CUST-0019,East,Technology,Keyboard,2,3118.28,10.0,5612.9,1036.8,Debit Card,Cancelled,7.0,4.0
+ORD-00387,2025-03-30,CUST-0336,Central,Home & Kitchen,Bedsheet,1,3237.82,0.0,3237.82,817.56,Net Banking,Delivered,3.0,5.0
+ORD-00388,2025-12-30,CUST-0216,South,Technology,Laptop,2,77809.75,15.0,132276.57,10644.2,UPI,Delivered,3.0,4.0
+ORD-00389,2025-05-31,CUST-0291,North,Furniture,Lamp,3,1396.34,10.0,3770.12,739.0,UPI,Delivered,4.0,2.0
+ORD-00390,2025-12-24,CUST-0111,West,Technology,Smartphone,1,28034.79,15.0,23829.57,3303.21,Debit Card,Delivered,6.0,5.0
+ORD-00391,2025-07-21,CUST-0046,West,Technology,Keyboard,1,3115.89,10.0,2804.3,287.74,UPI,Delivered,1.0,
+ORD-00392,2025-05-31,CUST-0446,North,Technology,Headphones,2,2939.77,5.0,5585.56,197.61,UPI,Delivered,4.0,3.0
+ORD-00393,2025-01-01,CUST-0005,West,Office Supplies,Pen Set,1,388.29,15.0,330.05,55.12,UPI,Delivered,5.0,5.0
+ORD-00394,2025-07-25,CUST-0298,North,Home & Kitchen,Mixer,3,2048.98,10.0,5532.25,1158.33,Credit Card,Delivered,5.0,3.0
+ORD-00395,2025-03-11,CUST-0244,West,Home & Kitchen,Coffee Maker,1,6994.44,0.0,6994.44,1700.12,Debit Card,Delivered,4.0,5.0
+ORD-00396,2025-01-27,CUST-0290,Central,Furniture,Lamp,4,1129.9,10.0,4067.64,560.24,Credit Card,Delivered,5.0,5.0
+ORD-00397,2025-05-01,CUST-0324,South,Technology,Keyboard,2,4192.06,25.0,6288.09,209.51,UPI,Delivered,3.0,5.0
+ORD-00398,2025-06-07,CUST-0137,Central,Home & Kitchen,Cookware,2,3302.11,5.0,6274.01,1133.67,Credit Card,Delivered,4.0,4.0
+ORD-00399,2025-12-09,CUST-0069,East,Technology,Monitor,4,8639.07,10.0,31100.65,4364.68,UPI,Delivered,3.0,3.0
+ORD-00400,2025-09-14,CUST-0292,South,Furniture,Bookshelf,1,4250.62,15.0,3613.03,616.22,Credit Card,Delivered,7.0,1.0
+ORD-00401,2025-04-10,CUST-0299,Central,Technology,Headphones,4,2054.98,5.0,7808.92,383.61,UPI,Delivered,2.0,3.0
+ORD-00402,2025-02-10,CUST-0049,Central,Home & Kitchen,Water Bottle,2,360.16,15.0,612.27,94.06,Credit Card,Delivered,7.0,4.0
+ORD-00403,2025-05-05,CUST-0184,Central,Home & Kitchen,Coffee Maker,1,3743.67,5.0,3556.49,735.59,UPI,Delivered,4.0,3.0
+ORD-00404,2025-09-19,CUST-0425,Central,Technology,Laptop,1,73003.59,15.0,62053.05,5678.59,Credit Card,Delivered,5.0,5.0
+ORD-00405,2025-09-23,CUST-0344,West,Technology,Smartphone,1,39754.93,5.0,37767.18,7193.25,Credit Card,Delivered,3.0,5.0
+ORD-00406,2025-11-04,CUST-0134,North,Furniture,Desk,1,9990.52,0.0,9990.52,2738.11,Credit Card,Returned,6.0,1.0
+ORD-00407,2025-07-04,CUST-0027,North,Office Supplies,Notebook,2,154.04,5.0,292.68,68.75,UPI,Delivered,6.0,5.0
+ORD-00408,2025-05-28,CUST-0413,South,Furniture,Lamp,1,1133.7,20.0,906.96,229.38,Debit Card,Delivered,5.0,3.0
+ORD-00409,2025-03-24,CUST-0112,West,Technology,Laptop,1,38579.37,0.0,38579.37,4378.75,UPI,Delivered,1.0,2.0
+ORD-00410,2025-10-25,CUST-0416,South,Furniture,Bookshelf,2,4788.87,25.0,7183.31,537.96,Net Banking,Delivered,6.0,4.0
+ORD-00411,2025-06-10,CUST-0428,South,Furniture,Chair,2,7911.63,0.0,15823.26,4101.51,Credit Card,Delivered,3.0,1.0
+ORD-00412,2025-06-20,CUST-0037,South,Technology,Laptop,1,67774.57,5.0,64385.84,15834.53,Cash on Delivery,Delivered,6.0,5.0
+ORD-00413,2025-10-01,CUST-0201,North,Furniture,Lamp,2,1922.35,0.0,3844.7,970.39,UPI,Delivered,6.0,3.0
+ORD-00414,2025-07-26,CUST-0197,West,Home & Kitchen,Water Bottle,1,212.19,10.0,190.97,20.48,Credit Card,Delivered,1.0,4.0
+ORD-00415,2025-07-08,CUST-0162,West,Office Supplies,Notebook,2,237.53,10.0,427.55,107.22,Credit Card,Delivered,6.0,4.0
+ORD-00416,2025-05-18,CUST-0317,West,Technology,Monitor,1,13032.54,0.0,13032.54,2408.78,Debit Card,Returned,5.0,2.0
+ORD-00417,2025-05-02,CUST-0123,West,Office Supplies,Notebook,1,42.26,0.0,42.26,11.38,Credit Card,Delivered,4.0,3.0
+ORD-00418,2025-02-13,CUST-0296,North,Furniture,Desk,1,14855.94,0.0,14855.94,2067.48,Net Banking,Delivered,3.0,2.0
+ORD-00419,2025-08-19,CUST-0180,North,Furniture,Lamp,1,1966.73,20.0,1573.38,191.23,UPI,Delivered,4.0,2.0
+ORD-00420,2025-05-08,CUST-0196,East,Furniture,Desk,1,13742.3,10.0,12368.07,2381.71,Credit Card,Delivered,7.0,5.0
+ORD-00421,2025-02-24,CUST-0146,East,Furniture,Bookshelf,2,4250.16,20.0,6800.26,1208.33,Net Banking,Delivered,2.0,4.0
+ORD-00422,2025-07-10,CUST-0121,South,Technology,Headphones,2,3729.72,0.0,7459.44,1169.53,UPI,Delivered,4.0,4.0
+ORD-00423,2025-11-17,CUST-0410,West,Technology,Keyboard,2,4017.74,0.0,8035.48,1495.14,Credit Card,Delivered,1.0,4.0
+ORD-00424,2025-05-17,CUST-0337,West,Furniture,Sofa,2,42373.22,5.0,80509.12,17199.71,Credit Card,Delivered,5.0,4.0
+ORD-00425,2025-06-27,CUST-0395,West,Technology,Monitor,1,18365.75,10.0,16529.17,1447.94,Credit Card,Delivered,4.0,3.0
+ORD-00426,2025-05-26,CUST-0387,North,Office Supplies,Stapler,1,457.13,25.0,342.85,50.1,Debit Card,Delivered,5.0,5.0
+ORD-00427,2025-03-25,CUST-0101,West,Office Supplies,Printer Paper,1,640.9,0.0,640.9,152.12,Debit Card,Delivered,3.0,4.0
+ORD-00428,2025-07-28,CUST-0110,South,Technology,Laptop,1,35461.95,5.0,33688.85,5831.76,UPI,Delivered,5.0,4.0
+ORD-00429,2025-11-15,CUST-0111,East,Furniture,Lamp,1,1841.82,0.0,1841.82,388.68,UPI,Returned,4.0,2.0
+ORD-00430,2025-07-22,CUST-0086,East,Furniture,Desk,4,5443.39,0.0,21773.56,4062.1,UPI,Delivered,5.0,4.0
+ORD-00431,2025-06-21,CUST-0310,South,Technology,Keyboard,2,1372.6,15.0,2333.42,209.4,Cash on Delivery,Delivered,3.0,4.0
+ORD-00432,2025-03-16,CUST-0106,South,Office Supplies,Stapler,2,222.62,15.0,378.45,71.9,Debit Card,Delivered,2.0,4.0
+ORD-00433,2025-12-02,CUST-0050,West,Furniture,Bookshelf,4,6332.52,10.0,22797.07,6378.18,UPI,Delivered,,4.0
+ORD-00434,2025-10-13,CUST-0237,North,Home & Kitchen,Cookware,2,1689.03,20.0,2702.45,87.0,UPI,Delivered,4.0,3.0
+ORD-00435,2025-05-26,CUST-0348,North,Furniture,Bookshelf,5,3453.5,15.0,14677.38,2524.96,Credit Card,Delivered,7.0,4.0
+ORD-00436,2025-01-21,CUST-0248,South,Home & Kitchen,Cookware,2,4115.84,0.0,8231.68,1457.74,Net Banking,Delivered,5.0,3.0
+ORD-00437,2025-08-16,CUST-0180,South,Furniture,Sofa,1,28604.85,5.0,27174.61,7156.4,UPI,Delivered,3.0,5.0
+ORD-00438,2025-11-30,CUST-0323,South,Technology,Smartphone,1,35742.16,10.0,32167.94,3746.12,Credit Card,Delivered,3.0,5.0
+ORD-00439,2025-04-17,CUST-0439,South,Home & Kitchen,Coffee Maker,3,5567.94,5.0,15868.63,1098.96,Cash on Delivery,Delivered,3.0,4.0
+ORD-00440,2025-09-04,CUST-0011,South,Office Supplies,Storage Box,2,1016.74,10.0,1830.13,501.23,UPI,Delivered,5.0,5.0
+ORD-00441,2025-10-02,CUST-0048,Central,Office Supplies,Stapler,1,655.83,10.0,590.25,141.4,UPI,Delivered,5.0,4.0
+ORD-00442,2025-08-01,CUST-0019,East,Office Supplies,Printer Paper,2,280.49,20.0,448.78,73.29,Credit Card,Delivered,6.0,3.0
+ORD-00443,2025-07-02,CUST-0146,North,Home & Kitchen,Coffee Maker,1,4428.43,20.0,3542.74,199.9,UPI,Delivered,6.0,5.0
+ORD-00444,2025-08-01,CUST-0403,South,Home & Kitchen,Coffee Maker,1,8652.65,0.0,8652.65,2355.98,UPI,Delivered,5.0,1.0
+ORD-00445,2025-06-16,CUST-0113,South,Office Supplies,Pen Set,5,473.39,0.0,2366.95,645.96,Debit Card,Delivered,5.0,4.0
+ORD-00446,2025-11-02,CUST-0282,West,Furniture,Chair,3,2945.14,0.0,8835.42,2555.93,Credit Card,Delivered,3.0,4.0
+ORD-00447,2025-05-21,CUST-0335,North,Office Supplies,Printer Paper,2,205.52,20.0,328.83,62.54,Debit Card,Returned,3.0,3.0
+ORD-00448,2025-02-09,CUST-0439,Central,Office Supplies,Notebook,2,112.35,15.0,190.99,47.02,,Delivered,4.0,3.0
+ORD-00449,2025-01-08,CUST-0260,North,Technology,Monitor,4,8094.42,0.0,32377.68,4111.07,Credit Card,Cancelled,1.0,5.0
+ORD-00450,2025-05-03,CUST-0132,North,Furniture,Bookshelf,1,2537.07,10.0,2283.36,317.4,UPI,Delivered,2.0,4.0
+ORD-00451,2025-03-12,CUST-0317,North,Technology,Headphones,3,6467.26,5.0,18431.69,2286.27,UPI,Delivered,4.0,3.0
+ORD-00452,2025-12-22,CUST-0132,North,Office Supplies,Printer Paper,1,302.81,10.0,272.53,65.47,Cash on Delivery,Delivered,4.0,2.0
+ORD-00453,2025-01-23,CUST-0149,North,Furniture,Lamp,3,2730.35,20.0,6552.84,448.74,Debit Card,Delivered,3.0,3.0
+ORD-00454,2025-11-01,CUST-0166,Central,Technology,Smartphone,1,24082.52,20.0,19266.02,1061.0,Cash on Delivery,Cancelled,7.0,5.0
+ORD-00455,2025-05-20,CUST-0427,West,Home & Kitchen,Water Bottle,2,1121.57,0.0,2243.14,428.15,Credit Card,Delivered,5.0,5.0
+ORD-00456,2025-08-10,CUST-0250,West,Technology,Laptop,1,65422.52,5.0,62151.39,11077.52,Debit Card,Delivered,8.0,5.0
+ORD-00457,2025-03-30,CUST-0264,North,Home & Kitchen,Bedsheet,1,2483.67,10.0,2235.3,301.84,Net Banking,Delivered,3.0,4.0
+ORD-00458,2025-05-19,CUST-0192,South,Technology,Headphones,1,2885.85,10.0,2597.26,150.6,Credit Card,Delivered,4.0,5.0
+ORD-00459,2025-02-01,CUST-0118,East,Furniture,Bookshelf,4,2096.3,0.0,8385.2,2107.67,Cash on Delivery,Returned,4.0,2.0
+ORD-00460,2025-05-28,CUST-0162,North,Technology,Monitor,3,17425.95,15.0,44436.17,2569.91,Cash on Delivery,Delivered,5.0,2.0
+ORD-00461,2025-04-19,CUST-0351,North,Office Supplies,Storage Box,3,936.17,15.0,2387.23,651.68,Debit Card,Delivered,5.0,4.0
+ORD-00462,2025-04-30,CUST-0188,East,Home & Kitchen,Coffee Maker,1,10226.97,10.0,9204.27,1153.15,Credit Card,Returned,6.0,4.0
+ORD-00463,2025-10-30,CUST-0073,South,Home & Kitchen,Cookware,1,6482.16,0.0,6482.16,1733.68,Debit Card,Delivered,5.0,3.0
+ORD-00464,2025-10-22,CUST-0314,North,Home & Kitchen,Mixer,3,3065.94,0.0,9197.82,2122.51,Net Banking,Delivered,5.0,4.0
+ORD-00465,2025-05-22,CUST-0117,Central,Office Supplies,Printer Paper,2,383.86,10.0,690.95,203.32,Debit Card,Delivered,6.0,2.0
+ORD-00466,2025-02-14,CUST-0249,North,Furniture,Desk,3,8965.18,0.0,26895.54,5250.92,UPI,Delivered,6.0,5.0
+ORD-00467,2025-09-23,CUST-0416,South,Technology,Monitor,1,21399.14,0.0,21399.14,5761.42,UPI,Delivered,4.0,5.0
+ORD-00468,2025-04-19,CUST-0368,Central,Office Supplies,Storage Box,4,781.05,5.0,2967.99,1079.39,UPI,Delivered,4.0,5.0
+ORD-00469,2025-03-16,CUST-0182,Central,Home & Kitchen,Water Bottle,1,324.37,15.0,275.71,47.33,Cash on Delivery,Cancelled,6.0,3.0
+ORD-00470,2025-01-24,CUST-0003,South,Office Supplies,Pen Set,2,388.9,0.0,777.8,259.55,UPI,Delivered,5.0,4.0
+ORD-00471,2025-09-08,CUST-0168,North,Technology,Monitor,1,18099.15,0.0,18099.15,3817.37,UPI,Delivered,4.0,4.0
+ORD-00472,2025-10-15,CUST-0094,Central,Technology,Monitor,2,8924.37,0.0,17848.74,3093.68,UPI,Cancelled,6.0,1.0
+ORD-00473,2025-05-14,CUST-0378,Central,Furniture,Sofa,4,41057.32,0.0,164229.28,40432.12,UPI,Delivered,7.0,5.0
+ORD-00474,2025-12-01,CUST-0434,North,Home & Kitchen,Mixer,1,1957.64,5.0,1859.76,305.78,Cash on Delivery,Delivered,4.0,4.0
+ORD-00475,2025-03-03,CUST-0280,South,Furniture,Chair,3,8119.13,0.0,24357.39,5112.95,Net Banking,Delivered,5.0,2.0
+ORD-00476,2025-08-14,CUST-0257,North,Technology,Laptop,2,47477.86,10.0,85460.15,5786.94,Net Banking,Returned,5.0,1.0
+ORD-00477,2025-05-06,CUST-0042,West,Home & Kitchen,Bedsheet,2,1778.96,15.0,3024.23,416.51,UPI,Delivered,4.0,4.0
+ORD-00478,2025-06-08,CUST-0270,East,Office Supplies,Storage Box,2,454.55,25.0,681.83,67.2,UPI,Delivered,6.0,3.0
+ORD-00479,2025-03-06,CUST-0416,West,Furniture,Lamp,4,1338.54,5.0,5086.45,924.18,UPI,Returned,4.0,1.0
+ORD-00480,2025-11-14,CUST-0071,West,Technology,Keyboard,1,4016.95,0.0,4016.95,730.15,UPI,Delivered,4.0,4.0
+ORD-00481,2025-09-05,CUST-0032,West,Home & Kitchen,Water Bottle,3,1092.63,5.0,3114.0,571.47,Credit Card,Delivered,2.0,5.0
+ORD-00482,2025-05-31,CUST-0193,East,Furniture,Desk,3,12184.58,0.0,36553.74,7024.1,Credit Card,Returned,5.0,3.0
+ORD-00483,2025-01-25,CUST-0204,Central,Office Supplies,Printer Paper,4,437.59,10.0,1575.32,420.79,UPI,Delivered,2.0,5.0
+ORD-00484,2025-06-09,CUST-0283,West,Technology,Monitor,1,13606.79,15.0,11565.77,1889.8,Debit Card,Delivered,3.0,4.0
+ORD-00485,2025-01-04,CUST-0386,East,Office Supplies,Storage Box,3,957.17,0.0,2871.51,966.4,UPI,Delivered,6.0,4.0
+ORD-00486,2025-02-09,CUST-0321,North,Office Supplies,Notebook,1,158.17,5.0,150.26,45.33,UPI,Delivered,5.0,4.0
+ORD-00487,2025-01-30,CUST-0358,South,Office Supplies,Storage Box,1,1077.55,10.0,969.79,282.74,Cash on Delivery,Delivered,2.0,3.0
+ORD-00488,2025-09-28,CUST-0189,West,Technology,Monitor,1,14925.51,0.0,14925.51,1905.11,Debit Card,Delivered,5.0,5.0
+ORD-00489,2025-08-13,CUST-0378,Central,Home & Kitchen,Coffee Maker,1,7581.58,10.0,6823.42,1239.78,Credit Card,Delivered,5.0,5.0
+ORD-00490,2025-09-30,CUST-0263,North,Furniture,Sofa,2,12501.27,0.0,25002.54,5288.59,Credit Card,Returned,4.0,1.0
+ORD-00491,2025-10-01,CUST-0300,South,Home & Kitchen,Cookware,1,5904.09,20.0,4723.27,355.22,Debit Card,Delivered,5.0,2.0
+ORD-00492,2025-06-13,CUST-0378,Central,Furniture,Bookshelf,1,6235.83,15.0,5300.46,931.48,UPI,Delivered,3.0,2.0
+ORD-00493,2025-12-30,CUST-0449,North,Home & Kitchen,Mixer,1,6914.69,0.0,6914.69,1764.91,Debit Card,Delivered,4.0,5.0
+ORD-00494,2025-02-25,CUST-0124,South,Home & Kitchen,Mixer,4,6361.51,20.0,20356.83,1934.09,Cash on Delivery,Delivered,7.0,
+ORD-00495,2025-09-20,CUST-0104,East,Furniture,Desk,3,16557.2,15.0,42220.86,8400.26,Net Banking,Cancelled,4.0,5.0
+ORD-00496,2025-05-02,CUST-0339,West,Furniture,Chair,1,8290.14,0.0,8290.14,2236.82,Cash on Delivery,Delivered,1.0,2.0
+ORD-00497,2025-12-07,CUST-0442,South,Office Supplies,Pen Set,1,217.7,10.0,195.93,63.36,UPI,Delivered,1.0,5.0
+ORD-00498,2025-09-10,CUST-0319,North,Technology,Smartphone,2,42300.65,0.0,84601.3,20197.62,UPI,Delivered,6.0,5.0
+ORD-00499,2025-11-17,CUST-0298,West,Office Supplies,Storage Box,3,636.18,15.0,1622.26,329.05,Debit Card,Delivered,4.0,5.0
+ORD-00500,2025-07-28,CUST-0179,West,Home & Kitchen,Water Bottle,1,967.08,15.0,822.02,124.78,Cash on Delivery,Delivered,4.0,5.0
+ORD-00501,2025-10-03,CUST-0142,East,Technology,Headphones,1,4977.76,15.0,4231.1,400.81,Credit Card,Delivered,5.0,3.0
+ORD-00502,2025-06-24,CUST-0325,West,Office Supplies,Printer Paper,1,352.12,0.0,352.12,94.96,Debit Card,Delivered,7.0,5.0
+ORD-00503,2025-05-02,CUST-0276,West,Technology,Keyboard,2,885.57,20.0,1416.91,53.08,UPI,Delivered,6.0,4.0
+ORD-00504,2025-02-08,CUST-0401,South,Office Supplies,Pen Set,4,156.57,0.0,626.28,204.94,UPI,Delivered,9.0,1.0
+ORD-00505,2025-10-27,CUST-0261,East,Technology,Monitor,2,15316.75,5.0,29101.82,8020.28,Debit Card,Delivered,5.0,5.0
+ORD-00506,2025-02-15,CUST-0058,West,Home & Kitchen,Mixer,1,6068.63,5.0,5765.2,627.65,Debit Card,Delivered,5.0,4.0
+ORD-00507,2025-09-18,CUST-0334,South,Technology,Laptop,1,46174.93,15.0,39248.69,-170.5,UPI,Delivered,1.0,3.0
+ORD-00508,2025-11-06,CUST-0265,Central,Technology,Keyboard,2,3889.4,0.0,7778.8,1357.25,UPI,Delivered,1.0,4.0
+ORD-00509,2025-01-10,CUST-0256,North,Home & Kitchen,Water Bottle,3,777.58,20.0,1866.19,217.83,Net Banking,Delivered,6.0,3.0
+ORD-00510,2025-08-17,CUST-0119,South,Furniture,Chair,2,10080.37,15.0,17136.63,1513.42,Debit Card,Delivered,2.0,1.0
+ORD-00511,2025-07-24,CUST-0043,North,Furniture,Desk,3,15441.81,20.0,37060.34,4079.84,UPI,Delivered,6.0,4.0
+ORD-00512,2025-07-27,CUST-0178,North,Office Supplies,Pen Set,2,427.85,15.0,727.35,202.06,UPI,Delivered,3.0,1.0
+ORD-00513,2025-09-01,CUST-0039,South,Technology,Smartphone,2,24963.42,10.0,44934.16,6277.15,Credit Card,Delivered,3.0,4.0
+ORD-00514,2025-11-10,CUST-0007,South,Office Supplies,Notebook,1,144.49,5.0,137.27,44.74,Debit Card,Delivered,9.0,3.0
+ORD-00515,2025-05-21,CUST-0408,North,Home & Kitchen,Mixer,2,8469.24,25.0,12703.86,607.49,Debit Card,Delivered,4.0,3.0
+ORD-00516,2025-08-12,CUST-0152,West,Office Supplies,Printer Paper,2,352.11,0.0,704.22,217.14,Debit Card,Delivered,6.0,2.0
+ORD-00517,2025-11-28,CUST-0250,East,technology ,Water Bottle,1,933.91,15.0,793.82,151.99,Credit Card,Delivered,7.0,2.0
+ORD-00518,2025-08-14,CUST-0295,East,Technology,Laptop,3,74141.78,20.0,177940.27,10316.15,UPI,Delivered,9.0,4.0
+ORD-00519,2025-02-27,CUST-0356,West,Technology,Keyboard,3,4295.09,25.0,9663.95,59.93,Cash on Delivery,Delivered,4.0,5.0
+ORD-00520,2025-03-17,CUST-0079,Central,Technology,Laptop,1,57799.24,0.0,57799.24,8594.49,UPI,Delivered,6.0,5.0
+ORD-00521,2025-06-05,CUST-0196,South,Technology,Keyboard,1,3617.01,25.0,2712.76,-6.52,UPI,Delivered,4.0,2.0
+ORD-00522,2025-01-20,CUST-0383,East,Furniture,Bookshelf,1,1999.18,0.0,1999.18,465.99,Debit Card,Delivered,6.0,
+ORD-00523,2025-02-26,CUST-0191,South,Furniture,Desk,1,16180.36,10.0,14562.32,1868.69,UPI,Delivered,2.0,5.0
+ORD-00524,2025-02-14,CUST-0236,West,Technology,Laptop,2,52886.58,0.0,105773.16,11585.28,UPI,Delivered,5.0,4.0
+ORD-00525,2025-10-20,CUST-0327,East,Technology,Monitor,1,12229.4,15.0,10394.99,389.95,Net Banking,Delivered,7.0,4.0
+ORD-00526,2025-01-09,CUST-0288,East,Technology,Headphones,1,4183.03,0.0,4183.03,396.65,Net Banking,Delivered,7.0,5.0
+ORD-00527,2025-05-15,CUST-0240,East,Technology,Laptop,1,54132.78,5.0,51426.14,10346.1,UPI,Delivered,6.0,4.0
+ORD-00528,2025-07-02,CUST-0164,North,Technology,Keyboard,2,1866.82,0.0,3733.64,849.14,UPI,Delivered,4.0,2.0
+ORD-00529,2025-09-22,CUST-0352,North,Office Supplies,Pen Set,1,168.64,25.0,126.48,23.2,UPI,Delivered,3.0,3.0
+ORD-00530,2025-09-09,CUST-0293,East,Office Supplies,Notebook,3,108.54,20.0,260.5,17.1,UPI,Delivered,6.0,4.0
+ORD-00531,2025-02-05,CUST-0383,South,Furniture,Desk,1,4055.24,20.0,3244.19,278.77,Cash on Delivery,Delivered,,4.0
+ORD-00532,2025-12-20,CUST-0156,South,Office Supplies,Stapler,2,688.59,10.0,1239.46,321.03,Debit Card,Delivered,3.0,5.0
+ORD-00533,2025-05-16,CUST-0319,South,Furniture,Sofa,1,29417.94,15.0,25005.25,4550.24,UPI,Delivered,3.0,5.0
+ORD-00534,2025-03-20,CUST-0062,West,Office Supplies,Stapler,1,391.58,0.0,391.58,118.6,Net Banking,Delivered,3.0,4.0
+ORD-00535,2025-07-01,CUST-0221,East,Furniture,Bookshelf,1,2859.58,15.0,2430.64,357.24,UPI,Delivered,7.0,5.0
+ORD-00536,2025-11-26,CUST-0112,East,Furniture,Lamp,1,2053.5,15.0,1745.47,184.35,Credit Card,Delivered,3.0,3.0
+ORD-00537,2025-07-06,CUST-0198,North,Technology,Smartphone,2,23333.56,10.0,42000.41,1670.95,UPI,Delivered,3.0,5.0
+ORD-00538,2025-10-29,CUST-0301,South,Technology,Headphones,3,4265.26,10.0,11516.2,541.03,UPI,Delivered,3.0,3.0
+ORD-00539,2025-12-18,CUST-0428,East,Home & Kitchen,Bedsheet,1,3433.01,0.0,3433.01,668.76,UPI,Returned,8.0,3.0
+ORD-00540,2025-06-14,CUST-0063,Central,Technology,Smartphone,1,41403.74,10.0,37263.37,6347.59,UPI,Delivered,2.0,1.0
+ORD-00541,2025-03-22,CUST-0314,East,Furniture,Chair,1,2836.2,15.0,2410.77,464.5,Cash on Delivery,Delivered,6.0,2.0
+ORD-00542,2025-12-30,CUST-0378,North,Furniture,Desk,2,11065.31,25.0,16597.97,144.28,Cash on Delivery,Delivered,4.0,5.0
+ORD-00543,2025-02-18,CUST-0153,West,Home & Kitchen,Bedsheet,3,2790.87,5.0,7953.98,793.62,UPI,Delivered,6.0,4.0
+ORD-00544,2025-06-13,CUST-0382,West,Technology,Monitor,1,17641.31,0.0,17641.31,2001.48,Credit Card,Delivered,6.0,5.0
+ORD-00545,2025-09-15,CUST-0337,South,Office Supplies,Pen Set,2,161.6,5.0,307.04,115.52,Cash on Delivery,Delivered,6.0,3.0
+ORD-00546,2025-06-14,CUST-0197,North,Furniture,Bookshelf,5,5466.31,10.0,24598.4,3349.73,UPI,Delivered,4.0,4.0
+ORD-00547,2025-11-15,CUST-0411,Central,Office Supplies,Printer Paper,4,392.34,5.0,1490.89,409.66,Debit Card,Delivered,6.0,4.0
+ORD-00548,2025-05-24,CUST-0195,West,Home & Kitchen,Bedsheet,1,2299.6,5.0,2184.62,346.94,Debit Card,Delivered,4.0,4.0
+ORD-00549,2025-02-17,CUST-0290,Central,Furniture,Bookshelf,1,4914.56,0.0,4914.56,1042.07,UPI,Cancelled,3.0,5.0
+ORD-00550,2025-04-03,CUST-0132,Central,Technology,Headphones,2,5146.15,20.0,8233.84,294.67,UPI,Delivered,4.0,5.0
+ORD-00551,2025-12-23,CUST-0010,North,Technology,Keyboard,1,3004.08,5.0,2853.88,365.32,UPI,Delivered,7.0,5.0
+ORD-00552,2025-04-25,CUST-0094,North,Home & Kitchen,Water Bottle,1,858.26,0.0,858.26,248.73,UPI,Delivered,6.0,4.0
+ORD-00553,2025-10-04,CUST-0280,South,Technology,Headphones,4,4066.0,0.0,16264.0,3280.37,Credit Card,Delivered,2.0,5.0
+ORD-00554,2025-04-05,CUST-0037,West,Office Supplies,Printer Paper,1,233.79,5.0,222.1,74.05,UPI,Delivered,4.0,4.0
+ORD-00555,2025-08-07,CUST-0009,South,Home & Kitchen,Water Bottle,2,574.17,20.0,918.67,141.36,UPI,Returned,1.0,3.0
+ORD-00556,2025-01-04,CUST-0308,South,Office Supplies,Notebook,3,102.02,5.0,290.76,101.58,Credit Card,Delivered,4.0,5.0
+ORD-00557,2025-07-06,CUST-0279,West,Office Supplies,Storage Box,1,925.79,15.0,786.92,170.6,Debit Card,Delivered,2.0,3.0
+ORD-00558,2025-01-23,CUST-0274,South,Home & Kitchen,Coffee Maker,5,7770.69,0.0,38853.45,8684.53,Debit Card,Delivered,5.0,4.0
+ORD-00559,2025-11-14,CUST-0150,West,Furniture,Sofa,5,41320.62,5.0,196272.95,37265.34,Debit Card,Cancelled,5.0,3.0
+ORD-00560,2025-02-02,CUST-0006,West,Technology,Keyboard,2,2388.15,5.0,4537.48,226.39,Cash on Delivery,Delivered,5.0,4.0
+ORD-00561,2025-01-15,CUST-0007,Central,Office Supplies,Notebook,1,163.64,10.0,147.28,39.91,UPI,Delivered,4.0,5.0
+ORD-00562,2025-10-04,CUST-0095,West,Office Supplies,Printer Paper,1,635.42,10.0,571.88,175.34,UPI,Delivered,2.0,5.0
+ORD-00563,2025-07-07,CUST-0016,North,Technology,Laptop,1,84619.16,15.0,71926.29,2524.95,Debit Card,Delivered,7.0,3.0
+ORD-00564,2025-03-09,CUST-0112,Central,Office Supplies,Printer Paper,4,423.46,5.0,1609.15,426.32,UPI,Delivered,2.0,5.0
+ORD-00565,2025-03-29,CUST-0213,West,Home & Kitchen,Mixer,1,2871.51,5.0,2727.93,353.34,Credit Card,Delivered,5.0,3.0
+ORD-00566,2025-08-07,CUST-0198,Central,Technology,Headphones,2,4324.19,10.0,7783.54,333.36,Debit Card,Delivered,4.0,4.0
+ORD-00567,2025-06-08,CUST-0155,East,Office Supplies,Pen Set,2,393.35,25.0,590.03,93.42,UPI,Delivered,2.0,
+ORD-00568,2025-01-12,CUST-0436,North,Technology,Smartphone,4,32630.14,5.0,123994.53,24721.01,Credit Card,Delivered,6.0,5.0
+ORD-00569,2025-04-08,CUST-0050,North,Technology,Keyboard,1,569.7,0.0,569.7,99.88,Cash on Delivery,Delivered,4.0,2.0
+ORD-00570,2025-07-02,CUST-0322,North,Technology,Headphones,1,3909.84,0.0,3909.84,910.94,UPI,Delivered,4.0,5.0
+ORD-00571,2025-10-23,CUST-0299,South,Technology,Smartphone,1,28684.03,0.0,28684.03,4932.05,Debit Card,Delivered,3.0,3.0
+ORD-00572,2025-08-25,CUST-0261,Central,Technology,Monitor,3,10943.71,0.0,32831.13,7405.95,Cash on Delivery,Delivered,5.0,1.0
+ORD-00573,2025-05-04,CUST-0226,East,Technology,Monitor,1,8079.94,0.0,8079.94,1214.46,Debit Card,Delivered,4.0,5.0
+ORD-00574,2025-02-18,CUST-0270,South,Furniture,Bookshelf,5,7473.92,10.0,33632.64,4565.25,UPI,Delivered,4.0,5.0
+ORD-00575,2025-10-22,CUST-0154,South,Office Supplies,Stapler,1,606.86,5.0,576.52,182.54,UPI,Delivered,4.0,
+ORD-00576,2025-02-06,CUST-0206,North,Home & Kitchen,Water Bottle,2,1348.41,10.0,2427.14,241.5,Cash on Delivery,Delivered,2.0,5.0
+ORD-00577,2025-06-23,CUST-0258,South,Office Supplies,Printer Paper,1,599.42,15.0,509.51,136.99,Debit Card,Delivered,5.0,3.0
+ORD-00578,2025-06-25,CUST-0441,East,Technology,Smartphone,1,30090.31,10.0,27081.28,2558.02,UPI,Delivered,4.0,3.0
+ORD-00579,2025-04-24,CUST-0177,East,Home & Kitchen,Coffee Maker,2,10423.87,15.0,17720.58,1673.49,Credit Card,Delivered,5.0,4.0
+ORD-00580,2025-01-11,CUST-0176,South,Technology,Smartphone,1,21656.01,15.0,18407.61,-14.99,,Delivered,5.0,5.0
+ORD-00581,2025-12-23,CUST-0162,North,Technology,Monitor,2,18887.67,5.0,35886.57,7157.11,UPI,Delivered,2.0,1.0
+ORD-00582,2025-10-09,CUST-0205,East,Office Supplies,Notebook,2,43.53,5.0,82.71,22.84,Cash on Delivery,Delivered,4.0,2.0
+ORD-00583,2025-05-31,CUST-0219,North,Home & Kitchen,Mixer,1,5760.25,20.0,4608.2,398.2,Credit Card,Delivered,4.0,
+ORD-00584,2025-02-02,CUST-0263,South,Furniture,Sofa,2,44244.69,10.0,79640.44,14525.48,Debit Card,Delivered,5.0,4.0
+ORD-00585,2025-05-21,CUST-0355,East,Furniture,Chair,1,8725.87,10.0,7853.28,1843.07,Credit Card,Delivered,4.0,5.0
+ORD-00586,2025-02-22,CUST-0285,East,Office Supplies,Pen Set,2,399.98,0.0,799.96,224.43,Credit Card,Delivered,6.0,5.0
+ORD-00587,2025-11-20,CUST-0328,West,Furniture,Chair,2,11525.5,10.0,20745.9,4354.0,UPI,Delivered,4.0,4.0
+ORD-00588,2025-08-02,CUST-0086,East,Technology,Smartphone,1,53577.99,10.0,48220.19,3246.83,Credit Card,Delivered,3.0,4.0
+ORD-00589,2025-11-11,CUST-0106,East,Technology,Monitor,3,14408.82,10.0,38903.81,3914.2,UPI,Delivered,4.0,3.0
+ORD-00590,2025-09-23,CUST-0316,Central,Home & Kitchen,Bedsheet,5,3057.62,5.0,14523.69,2375.94,Net Banking,Delivered,4.0,3.0
+ORD-00591,2025-05-16,CUST-0375,West,Home & Kitchen,Coffee Maker,1,3567.19,5.0,3388.83,777.3,UPI,Delivered,2.0,2.0
+ORD-00592,2025-06-19,CUST-0238,South,Technology,Keyboard,1,2570.43,0.0,2570.43,373.66,Credit Card,Delivered,6.0,4.0
+ORD-00593,2025-03-24,CUST-0328,East,Furniture,Chair,1,5618.29,15.0,4775.55,1074.46,Cash on Delivery,Delivered,7.0,4.0
+ORD-00594,2025-09-14,CUST-0119,South,Home & Kitchen,Coffee Maker,2,8356.29,10.0,15041.32,3241.19,UPI,Delivered,3.0,3.0
+ORD-00595,2025-01-06,CUST-0375,East,Home & Kitchen,Water Bottle,4,636.07,10.0,2289.85,343.71,Debit Card,Delivered,3.0,5.0
+ORD-00596,2025-06-09,CUST-0337,South,Home & Kitchen,Coffee Maker,2,8732.73,15.0,14845.64,2392.05,Debit Card,Delivered,5.0,4.0
+ORD-00597,2025-06-03,CUST-0431,East,Home & Kitchen,Water Bottle,1,378.2,5.0,359.29,77.07,Debit Card,Cancelled,4.0,3.0
+ORD-00598,2025-01-17,CUST-0319,East,Office Supplies,Printer Paper,4,444.83,0.0,1779.32,547.77,Debit Card,Delivered,8.0,4.0
+ORD-00599,2025-10-10,CUST-0015,West,Furniture,Lamp,3,2617.46,20.0,6281.9,467.67,Debit Card,Delivered,7.0,4.0
+ORD-00600,2025-02-21,CUST-0165,East,Technology,Smartphone,4,25412.45,0.0,101649.8,19669.07,Credit Card,Delivered,4.0,4.0
+ORD-00601,2025-08-07,CUST-0341,East,Technology,Smartphone,3,25632.22,0.0,76896.66,10652.16,UPI,Delivered,7.0,5.0
+ORD-00602,2025-01-16,CUST-0435,Central,Office Supplies,Stapler,1,559.87,5.0,531.88,151.45,UPI,Delivered,2.0,1.0
+ORD-00603,2025-04-05,CUST-0041,Central,Technology,Laptop,2,74844.59,15.0,127235.8,15924.88,Debit Card,Delivered,4.0,5.0
+ORD-00604,2025-01-02,CUST-0401,East,Office Supplies,Storage Box,2,1002.15,0.0,2004.3,622.63,UPI,Delivered,6.0,5.0
+ORD-00605,2025-03-30,CUST-0268,Central,Office Supplies,Stapler,1,116.37,0.0,116.37,34.51,Credit Card,Cancelled,1.0,4.0
+ORD-00606,2025-01-30,CUST-0113,East,Furniture,Chair,2,11047.08,0.0,22094.16,4301.36,Debit Card,Delivered,8.0,3.0
+ORD-00607,2025-09-27,CUST-0188,Central,Technology,Keyboard,4,3140.7,0.0,12562.8,2093.08,UPI,Cancelled,1.0,4.0
+ORD-00608,2025-05-01,CUST-0100,Central,Technology,Smartphone,1,28751.06,0.0,28751.06,4757.01,Credit Card,Delivered,1.0,4.0
+ORD-00609,2025-01-05,CUST-0353,South,Technology,Keyboard,1,2007.07,15.0,1706.01,51.52,Debit Card,Delivered,3.0,5.0
+ORD-00610,2025-04-02,CUST-0359,East,Furniture,Desk,2,7188.38,25.0,10782.57,1763.81,Cash on Delivery,Delivered,4.0,5.0
+ORD-00611,2025-08-19,CUST-0410,West,Technology,Keyboard,3,1586.26,0.0,4758.78,908.1,Cash on Delivery,Delivered,8.0,5.0
+ORD-00612,2025-04-14,CUST-0151,South,Technology,Monitor,1,7153.68,5.0,6796.0,891.24,UPI,Delivered,2.0,3.0
+ORD-00613,2025-07-27,CUST-0200,South,Office Supplies,Storage Box,1,1155.82,10.0,1040.24,244.77,Credit Card,Delivered,3.0,5.0
+ORD-00614,2025-10-06,CUST-0180,West,Technology,Monitor,1,21332.92,20.0,17066.34,1436.47,Cash on Delivery,Delivered,6.0,4.0
+ORD-00615,2025-06-14,CUST-0272,West,Furniture,Sofa,1,25937.56,5.0,24640.68,4437.4,UPI,Delivered,4.0,5.0
+ORD-00616,2025-05-27,CUST-0043,West,Office Supplies,Printer Paper,3,520.27,5.0,1482.77,432.84,Debit Card,Delivered,7.0,4.0
+ORD-00617,2025-07-31,CUST-0192,West,Home & Kitchen,Coffee Maker,3,10586.92,25.0,23820.57,1365.49,Credit Card,Delivered,3.0,4.0
+ORD-00618,2025-05-05,CUST-0324,South,Home & Kitchen,Bedsheet,1,2417.48,0.0,2417.48,535.57,Credit Card,Delivered,5.0,4.0
+ORD-00619,2025-02-12,CUST-0448,Central,Technology,Headphones,4,2748.09,5.0,10442.74,1026.04,Credit Card,Delivered,5.0,2.0
+ORD-00620,2025-07-25,CUST-0297,North,Furniture,Desk,2,7792.08,10.0,14025.74,3527.51,Cash on Delivery,Cancelled,5.0,3.0
+ORD-00621,2025-09-10,CUST-0160,South,Office Supplies,Stapler,1,103.38,25.0,77.53,17.88,UPI,Delivered,4.0,2.0
+ORD-00622,2025-12-10,CUST-0297,West,Furniture,Lamp,2,2927.32,0.0,5854.64,1694.43,UPI,Delivered,2.0,3.0
+ORD-00623,2025-07-11,CUST-0346,North,Technology,Laptop,2,40253.91,0.0,80507.82,16494.63,UPI,Cancelled,5.0,4.0
+ORD-00624,2025-08-02,CUST-0352,East,Furniture,Chair,1,8446.72,10.0,7602.05,1170.86,Cash on Delivery,Delivered,,5.0
+ORD-00625,2025-12-27,CUST-0276,Central,Furniture,Lamp,1,2838.94,10.0,2555.05,430.61,Credit Card,Delivered,4.0,4.0
+ORD-00626,2025-11-24,CUST-0321,Central,Furniture,Chair,1,10897.93,15.0,9263.24,1820.81,UPI,Delivered,4.0,2.0
+ORD-00627,2025-11-30,CUST-0241,South,Office Supplies,Pen Set,4,464.08,0.0,1856.32,679.02,Debit Card,Delivered,2.0,4.0
+ORD-00628,2025-01-19,CUST-0039,West,Office Supplies,Stapler,1,179.64,20.0,143.71,30.97,UPI,Delivered,5.0,4.0
+ORD-00629,2025-04-08,CUST-0052,West,Furniture,Desk,1,13046.51,25.0,9784.88,844.37,Debit Card,Returned,1.0,2.0
+ORD-00630,2025-10-20,CUST-0204,East,Furniture,Sofa,1,37973.31,0.0,37973.31,9366.43,Debit Card,Delivered,5.0,4.0
+ORD-00631,2025-03-04,CUST-0245,Central,Furniture,Bookshelf,5,5101.8,5.0,24233.55,4157.22,Debit Card,Delivered,6.0,5.0
+ORD-00632,2025-02-21,CUST-0125,South,Home & Kitchen,Mixer,2,3217.34,20.0,5147.74,983.6,Debit Card,Delivered,6.0,5.0
+ORD-00633,2025-02-18,CUST-0254,Central,Furniture,Chair,2,5208.0,20.0,8332.8,1373.38,Credit Card,Delivered,5.0,4.0
+ORD-00634,2025-08-16,CUST-0071,North,Technology,Headphones,5,4325.04,10.0,19462.68,1949.43,Debit Card,Delivered,5.0,3.0
+ORD-00635,2025-10-09,CUST-0393,Central,Furniture,Lamp,3,971.04,0.0,2913.12,580.34,Cash on Delivery,Returned,3.0,2.0
+ORD-00636,2025-08-29,CUST-0066,East,Home & Kitchen,Water Bottle,1,1442.25,10.0,1298.03,257.34,UPI,Delivered,6.0,5.0
+ORD-00637,2025-10-16,CUST-0431,East,Technology,Headphones,1,917.1,0.0,917.1,154.07,Cash on Delivery,Delivered,4.0,5.0
+ORD-00638,2025-08-09,CUST-0450,South,Furniture,Sofa,3,29732.62,5.0,84737.97,20206.6,Net Banking,Delivered,4.0,1.0
+ORD-00639,2025-08-04,CUST-0319,North,Office Supplies,Storage Box,3,924.13,0.0,2772.39,774.88,Cash on Delivery,Delivered,5.0,3.0
+ORD-00640,2025-07-13,CUST-0090,North,Technology,Smartphone,1,31834.67,15.0,27059.47,2665.37,Net Banking,Delivered,2.0,4.0
+ORD-00641,2025-08-25,CUST-0331,West,Home & Kitchen,Water Bottle,1,163.05,10.0,146.75,35.27,Cash on Delivery,Delivered,3.0,5.0
+ORD-00642,2025-09-19,CUST-0022,North,Office Supplies,Storage Box,2,824.37,5.0,1566.3,399.98,Credit Card,Delivered,5.0,4.0
+ORD-00643,2025-12-15,CUST-0259,East,Office Supplies,Stapler,3,584.2,0.0,1752.6,523.33,Cash on Delivery,Delivered,4.0,1.0
+ORD-00644,2025-01-04,CUST-0082,North,Technology,Keyboard,3,2892.32,0.0,8676.96,1798.78,Credit Card,Delivered,7.0,4.0
+ORD-00645,2025-04-11,CUST-0380,South,Furniture,Bookshelf,4,5420.84,20.0,17346.69,1774.46,UPI,Delivered,4.0,5.0
+ORD-00646,2025-03-10,CUST-0427,North,Technology,Laptop,5,73111.51,0.0,365557.55,53884.37,Debit Card,Delivered,2.0,4.0
+ORD-00647,2025-07-03,CUST-0059,West,Technology,Laptop,1,57189.53,10.0,51470.58,-524.81,Debit Card,Delivered,2.0,4.0
+ORD-00648,2025-09-02,CUST-0315,North,Office Supplies,Stapler,3,407.49,20.0,977.98,179.53,Credit Card,Delivered,8.0,2.0
+ORD-00649,2025-03-02,CUST-0313,North,Furniture,Sofa,1,37756.94,15.0,32093.4,5130.34,Credit Card,Delivered,5.0,2.0
+ORD-00650,2025-08-13,CUST-0229,Central,Furniture,Chair,3,3728.03,5.0,10624.89,1763.29,Credit Card,Delivered,4.0,5.0
+ORD-00651,2025-07-14,CUST-0011,North,Furniture,Bookshelf,1,1851.63,20.0,1481.3,163.2,Cash on Delivery,Delivered,5.0,5.0
+ORD-00652,2025-04-05,CUST-0403,West,Furniture,Desk,4,8104.16,0.0,32416.64,5815.75,Cash on Delivery,Returned,4.0,3.0
+ORD-00653,2025-08-26,CUST-0064,Central,Home & Kitchen,Cookware,1,2655.67,0.0,2655.67,436.58,Credit Card,Delivered,4.0,1.0
+ORD-00654,2025-11-25,CUST-0356,North,Home & Kitchen,Mixer,2,4328.52,0.0,8657.04,2507.26,Cash on Delivery,Delivered,1.0,4.0
+ORD-00655,2025-10-24,CUST-0188,East,Home & Kitchen,Cookware,4,2295.67,15.0,7805.28,907.89,Credit Card,Cancelled,7.0,5.0
+ORD-00656,2025-09-09,CUST-0351,Central,Home & Kitchen,Water Bottle,1,585.56,20.0,468.45,55.89,Credit Card,Delivered,1.0,4.0
+ORD-00657,2025-04-18,CUST-0076,West,Home & Kitchen,Mixer,3,7458.53,5.0,21256.81,2000.62,UPI,Delivered,6.0,4.0
+ORD-00658,2025-05-19,CUST-0378,North,Home & Kitchen,Coffee Maker,2,9079.24,20.0,14526.78,2413.39,Net Banking,Delivered,6.0,4.0
+ORD-00659,2025-05-17,CUST-0438,North,Office Supplies,Printer Paper,4,333.76,15.0,1134.78,225.3,UPI,Delivered,4.0,4.0
+ORD-00660,2025-06-03,CUST-0238,North,Home & Kitchen,Bedsheet,1,1328.47,15.0,1129.2,195.35,Credit Card,Delivered,4.0,4.0
+ORD-00661,2025-08-27,CUST-0360,Central,Home & Kitchen,Coffee Maker,1,6618.56,15.0,5625.78,1016.84,UPI,Delivered,4.0,5.0
+ORD-00662,2025-01-20,CUST-0238,South,Furniture,Sofa,1,43800.7,20.0,35040.56,2565.99,Cash on Delivery,Delivered,1.0,4.0
+ORD-00663,2025-11-01,CUST-0140,East,Technology,Monitor,2,12610.69,5.0,23960.31,3115.85,Debit Card,Delivered,5.0,3.0
+ORD-00664,2025-03-29,CUST-0260,North,Home & Kitchen,Mixer,1,5339.21,10.0,4805.29,764.08,Credit Card,Delivered,5.0,3.0
+ORD-00665,2025-09-01,CUST-0206,South,Furniture,Desk,3,9963.89,0.0,29891.67,6555.41,Cash on Delivery,Delivered,5.0,5.0
+ORD-00666,2025-04-04,CUST-0026,Central,Technology,Smartphone,1,48404.3,5.0,45984.08,3398.02,Debit Card,Delivered,4.0,3.0
+ORD-00667,2025-05-03,CUST-0266,North,Furniture,Chair,3,6268.4,15.0,15984.42,2856.38,Credit Card,Delivered,4.0,4.0
+ORD-00668,2025-09-12,CUST-0263,West,Home & Kitchen,Coffee Maker,2,8517.24,5.0,16182.76,2671.29,Cash on Delivery,Delivered,3.0,5.0
+ORD-00669,2025-11-28,CUST-0132,North,Furniture,Chair,1,5804.73,10.0,5224.26,835.27,Debit Card,Delivered,5.0,3.0
+ORD-00670,2025-04-06,CUST-0440,South,Office Supplies,Notebook,2,50.97,0.0,101.94,36.72,UPI,Delivered,3.0,4.0
+ORD-00671,2025-03-15,CUST-0307,West,Home & Kitchen,Bedsheet,3,1601.83,10.0,4324.94,460.39,Cash on Delivery,Cancelled,4.0,
+ORD-00672,2025-01-08,CUST-0226,West,Technology,Smartphone,1,27971.77,10.0,25174.59,1322.8,UPI,Delivered,7.0,4.0
+ORD-00673,2025-10-21,CUST-0310,South,Technology,Monitor,2,10342.3,15.0,17581.91,1160.83,Debit Card,Returned,6.0,1.0
+ORD-00674,2025-07-18,CUST-0144,East,Technology,Monitor,2,16889.92,25.0,25334.88,-1532.82,UPI,Delivered,4.0,4.0
+ORD-00675,2025-03-17,CUST-0198,West,Home & Kitchen,Bedsheet,1,3334.79,0.0,3334.79,533.74,Debit Card,Delivered,3.0,5.0
+ORD-00676,2025-05-04,CUST-0334,West,Technology,Headphones,1,6220.23,5.0,5909.22,951.35,Credit Card,Delivered,3.0,3.0
+ORD-00677,2025-03-20,CUST-0334,West,Technology,Smartphone,2,47629.02,10.0,85732.24,13148.57,UPI,Delivered,4.0,3.0
+ORD-00678,2025-11-15,CUST-0018,East,Office Supplies,Storage Box,1,674.96,15.0,573.72,97.41,Debit Card,Delivered,5.0,4.0
+ORD-00679,2025-01-16,CUST-0205,North,Technology,Keyboard,1,2667.78,0.0,2667.78,456.14,UPI,Cancelled,5.0,5.0
+ORD-00680,2025-02-01,CUST-0027,West,Furniture,Chair,1,5331.33,0.0,5331.33,1161.1,UPI,Delivered,5.0,5.0
+ORD-00681,2025-05-20,CUST-0226,West,Technology,Keyboard,2,796.17,25.0,1194.25,-21.76,Debit Card,Delivered,3.0,5.0
+ORD-00682,2025-12-14,CUST-0373,East,Technology,Keyboard,2,1948.69,25.0,2923.03,88.21,Net Banking,Delivered,6.0,5.0
+ORD-00683,2025-01-19,CUST-0326,Central,Home & Kitchen,Water Bottle,2,1029.69,5.0,1956.41,292.75,UPI,Delivered,2.0,3.0
+ORD-00684,2025-10-17,CUST-0134,West,Technology,Smartphone,2,12220.16,0.0,24440.32,1195.53,UPI,Delivered,4.0,3.0
+ORD-00685,2025-03-03,CUST-0437,South,Office Supplies,Storage Box,2,689.35,10.0,1240.83,315.67,Cash on Delivery,Delivered,5.0,3.0
+ORD-00686,2025-01-13,CUST-0027,Central,Office Supplies,Stapler,3,506.72,5.0,1444.15,405.5,Debit Card,Returned,5.0,2.0
+ORD-00687,2025-02-28,CUST-0112,West,Office Supplies,Printer Paper,2,578.77,0.0,1157.54,302.65,UPI,Delivered,4.0,4.0
+ORD-00688,2025-07-06,CUST-0432,West,Home & Kitchen,Bedsheet,4,2109.66,5.0,8016.71,1415.23,UPI,Cancelled,3.0,5.0
+ORD-00689,2025-12-12,CUST-0223,West,Home & Kitchen,Bedsheet,3,2508.0,20.0,6019.2,1052.84,UPI,Delivered,2.0,4.0
+ORD-00690,2025-12-30,CUST-0252,Central,Technology,Smartphone,4,21790.69,0.0,87162.76,15795.75,Cash on Delivery,Delivered,2.0,
+ORD-00691,2025-12-19,CUST-0295,West,Office Supplies,Pen Set,2,219.03,0.0,438.06,155.43,Debit Card,Delivered,4.0,4.0
+ORD-00692,2025-02-06,CUST-0186,Central,Technology,Laptop,1,59355.41,5.0,56387.64,8873.56,Credit Card,Delivered,6.0,4.0
+ORD-00693,2025-04-27,CUST-0398,North,Office Supplies,Storage Box,4,600.92,10.0,2163.31,641.02,Cash on Delivery,Delivered,6.0,4.0
+ORD-00694,2025-09-06,CUST-0322,North,Home & Kitchen,Water Bottle,5,891.98,15.0,3790.91,550.68,Debit Card,Returned,4.0,4.0
+ORD-00695,2025-04-22,CUST-0385,West,Office Supplies,Pen Set,4,344.38,0.0,1377.52,481.19,Credit Card,Returned,4.0,1.0
+ORD-00696,2025-03-14,CUST-0241,South,Home & Kitchen,Cookware,1,3194.76,25.0,2396.07,289.51,Net Banking,Delivered,4.0,5.0
+ORD-00697,2025-08-13,CUST-0333,North,Technology,Monitor,2,8888.81,15.0,15110.98,907.97,UPI,Delivered,3.0,2.0
+ORD-00698,2025-06-10,CUST-0021,Central,Technology,Laptop,3,38872.63,10.0,104956.1,7511.56,Debit Card,Delivered,5.0,3.0
+ORD-00699,2025-09-13,CUST-0419,North,Office Supplies,Pen Set,1,429.55,10.0,386.6,90.27,Debit Card,Delivered,3.0,5.0
+ORD-00700,2025-10-19,CUST-0151,East,Home & Kitchen,Cookware,1,4852.43,5.0,4609.81,725.49,Credit Card,Delivered,1.0,5.0
+ORD-00701,2025-09-12,CUST-0037,East,Furniture,Lamp,2,2414.2,20.0,3862.72,605.27,Credit Card,Delivered,6.0,4.0
+ORD-00702,2025-03-01,CUST-0128,South,Office Supplies,Notebook,1,99.51,5.0,94.53,20.63,Cash on Delivery,Delivered,7.0,3.0
+ORD-00703,2025-07-07,CUST-0307,East,Technology,Smartphone,2,49739.91,10.0,89531.84,3189.59,Credit Card,Delivered,9.0,3.0
+ORD-00704,2025-04-22,CUST-0101,North,Office Supplies,Pen Set,1,355.69,15.0,302.34,77.74,Debit Card,Delivered,7.0,5.0
+ORD-00705,2025-07-16,CUST-0101,North,Office Supplies,Notebook,4,171.36,10.0,616.9,167.25,Credit Card,Delivered,4.0,5.0
+ORD-00706,2025-12-21,CUST-0169,Central,Furniture,Chair,1,8427.63,15.0,7163.49,965.22,Cash on Delivery,Delivered,8.0,5.0
+ORD-00707,2025-08-17,CUST-0323,North,Furniture,Lamp,2,1028.38,0.0,2056.76,321.09,Credit Card,Delivered,4.0,4.0
+ORD-00708,2025-04-16,CUST-0433,East,Furniture,Desk,2,17626.57,15.0,29965.17,6269.14,Credit Card,Delivered,8.0,5.0
+ORD-00709,2025-10-24,CUST-0197,South,Furniture,Lamp,3,1416.69,20.0,3400.06,474.88,Net Banking,Delivered,4.0,3.0
+ORD-00710,2025-08-12,CUST-0416,North,Technology,Monitor,2,20406.04,0.0,40812.08,5659.26,,Delivered,4.0,4.0
+ORD-00711,2025-12-30,CUST-0363,South,Home & Kitchen,Cookware,4,1506.36,0.0,6025.44,1564.8,UPI,Delivered,4.0,4.0
+ORD-00712,2025-10-02,CUST-0091,West,Home & Kitchen,Bedsheet,3,1448.3,15.0,3693.16,349.3,Net Banking,Delivered,6.0,5.0
+ORD-00713,2025-12-19,CUST-0298,Central,Office Supplies,Printer Paper,1,523.67,5.0,497.49,109.6,UPI,Cancelled,4.0,5.0
+ORD-00714,2025-10-09,CUST-0417,West,Furniture,Desk,1,10615.0,10.0,9553.5,1682.81,Credit Card,Delivered,4.0,
+ORD-00715,2025-05-08,CUST-0423,North,Home & Kitchen,Cookware,3,6194.78,10.0,16725.91,2834.8,UPI,Delivered,2.0,5.0
+ORD-00716,2025-02-23,CUST-0177,West,Furniture,Chair,1,6908.07,15.0,5871.86,468.62,Net Banking,Delivered,5.0,4.0
+ORD-00717,2025-04-26,CUST-0014,North,Home & Kitchen,Mixer,1,3171.64,10.0,2854.48,540.62,UPI,Delivered,2.0,4.0
+ORD-00718,2025-06-27,CUST-0391,Central,Technology,Smartphone,1,41170.96,10.0,37053.86,5324.79,UPI,Delivered,3.0,4.0
+ORD-00719,2025-03-19,CUST-0249,West,Office Supplies,Notebook,3,63.0,5.0,179.55,62.92,Credit Card,Delivered,5.0,5.0
+ORD-00720,2025-09-29,CUST-0064,East,Furniture,Sofa,1,13674.7,20.0,10939.76,1335.06,Cash on Delivery,Delivered,4.0,4.0
+ORD-00721,2025-02-12,CUST-0139,Central,Office Supplies,Storage Box,1,330.39,20.0,264.31,71.71,UPI,Delivered,2.0,5.0
+ORD-00722,2025-05-02,CUST-0190,North,Furniture,Lamp,2,1038.48,5.0,1973.11,410.21,,Delivered,5.0,5.0
+ORD-00723,2025-07-01,CUST-0037,East,Furniture,Lamp,1,1369.17,0.0,1369.17,320.89,Credit Card,Delivered,3.0,4.0
+ORD-00724,2025-01-27,CUST-0316,South,Furniture,Lamp,1,2074.25,10.0,1866.83,359.1,UPI,Delivered,2.0,4.0
+ORD-00725,2025-11-01,CUST-0287,Central,Office Supplies,Printer Paper,3,268.82,15.0,685.49,158.29,Debit Card,Delivered,2.0,4.0
+ORD-00726,2025-08-28,CUST-0425,West,Technology,Headphones,3,2803.66,0.0,8410.98,1544.49,Credit Card,Delivered,2.0,5.0
+ORD-00727,2025-10-16,CUST-0127,North,Office Supplies,Printer Paper,5,458.43,0.0,2292.15,757.21,Cash on Delivery,Delivered,4.0,5.0
+ORD-00728,2025-03-10,CUST-0078,Central,Home & Kitchen,Water Bottle,3,565.52,5.0,1611.73,339.19,Debit Card,Delivered,7.0,4.0
+ORD-00729,2025-10-17,CUST-0317,Central,Technology,Headphones,1,1663.57,25.0,1247.68,18.71,Debit Card,Cancelled,3.0,5.0
+ORD-00730,2025-07-22,CUST-0297,West,Home & Kitchen,Water Bottle,3,1031.88,10.0,2786.08,476.0,Credit Card,Delivered,4.0,4.0
+ORD-00731,2025-06-02,CUST-0259,North,Home & Kitchen,Coffee Maker,1,4471.07,15.0,3800.41,715.97,UPI,Delivered,3.0,1.0
+ORD-00732,2025-09-11,CUST-0378,West,Office Supplies,Storage Box,4,216.6,15.0,736.44,134.19,Debit Card,Returned,5.0,4.0
+ORD-00733,2025-02-28,CUST-0130,Central,Furniture,Chair,2,2557.88,0.0,5115.76,1109.5,UPI,Delivered,3.0,5.0
+ORD-00734,2025-07-07,CUST-0388,Central,Technology,Smartphone,1,33325.47,10.0,29992.92,1402.39,UPI,Delivered,4.0,5.0
+ORD-00735,2025-02-08,CUST-0329,East,Office Supplies,Notebook,1,243.2,10.0,218.88,54.4,Debit Card,Delivered,2.0,5.0
+ORD-00736,2025-11-30,CUST-0089,North,Office Supplies,Pen Set,4,385.26,0.0,1541.04,632.92,,Delivered,7.0,3.0
+ORD-00737,2025-04-25,CUST-0115,Central,Technology,Headphones,1,3877.12,15.0,3295.55,168.47,Debit Card,Delivered,1.0,4.0
+ORD-00738,2025-10-20,CUST-0066,West,Office Supplies,Stapler,2,542.21,5.0,1030.2,180.34,Credit Card,Delivered,1.0,3.0
+ORD-00739,2025-11-24,CUST-0306,South,Furniture,Lamp,2,2861.52,10.0,5150.74,821.05,Credit Card,Delivered,3.0,5.0
+ORD-00740,2025-01-04,CUST-0071,East,Technology,Laptop,2,53079.9,10.0,95543.82,10151.15,Credit Card,Delivered,8.0,3.0
+ORD-00741,2025-08-21,CUST-0028,East,Furniture,Sofa,1,40759.91,10.0,36683.92,8978.38,Credit Card,Delivered,4.0,4.0
+ORD-00742,2025-03-15,CUST-0135,North,Office Supplies,Printer Paper,5,491.23,10.0,2210.54,678.99,Debit Card,Delivered,3.0,3.0
+ORD-00743,2025-01-26,CUST-0310,North,Office Supplies,Storage Box,2,749.67,15.0,1274.44,245.59,Debit Card,Returned,2.0,1.0
+ORD-00744,2025-08-15,CUST-0408,South,Technology,Headphones,1,6147.39,10.0,5532.65,713.17,Credit Card,Delivered,4.0,2.0
+ORD-00745,2025-05-24,CUST-0059,East,Technology,Monitor,1,11268.75,25.0,8451.56,475.1,Debit Card,Delivered,3.0,4.0
+ORD-00746,2025-04-20,CUST-0146,East,Furniture,Desk,4,17715.42,0.0,70861.68,12773.1,Credit Card,Delivered,9.0,4.0
+ORD-00747,2025-04-10,CUST-0039,South,Furniture,Desk,5,16931.48,0.0,84657.4,21787.58,Cash on Delivery,Delivered,3.0,4.0
+ORD-00748,2025-06-15,CUST-0083,Central,Furniture,Chair,1,9425.23,15.0,8011.45,1077.16,Debit Card,Delivered,5.0,3.0
+ORD-00749,2025-11-12,CUST-0303,North,Office Supplies,Pen Set,1,403.68,5.0,383.5,111.69,UPI,Delivered,6.0,4.0
+ORD-00750,2025-03-21,CUST-0068,South,Home & Kitchen,Cookware,1,1491.83,0.0,1491.83,300.47,Credit Card,Delivered,4.0,4.0
+ORD-00751,2025-02-16,CUST-0167,North,Furniture,Bookshelf,1,4321.29,15.0,3673.1,586.74,UPI,Delivered,3.0,1.0
+ORD-00752,2025-12-29,CUST-0018,East,Technology,Laptop,3,59648.1,15.0,152102.65,11810.45,UPI,Returned,5.0,2.0
+ORD-00753,2025-03-23,CUST-0182,East,Furniture,Chair,1,7064.27,15.0,6004.63,1096.01,Debit Card,Delivered,6.0,5.0
+ORD-00754,2025-09-24,CUST-0327,North,Office Supplies,Notebook,2,124.31,15.0,211.33,39.81,Credit Card,Delivered,4.0,5.0
+ORD-00755,2025-10-30,CUST-0069,North,Home & Kitchen,Mixer,1,3608.92,0.0,3608.92,744.35,UPI,Delivered,6.0,2.0
+ORD-00756,2025-02-09,CUST-0360,South,Furniture,Lamp,5,2151.71,0.0,10758.55,1996.99,Debit Card,Delivered,2.0,5.0
+ORD-00757,2025-06-13,CUST-0106,West,Technology,Smartphone,4,19917.43,10.0,71702.75,8880.81,UPI,Delivered,1.0,5.0
+ORD-00758,2025-11-11,CUST-0369,South,Office Supplies,Stapler,4,613.04,5.0,2329.55,583.13,Debit Card,Delivered,5.0,4.0
+ORD-00759,2025-05-30,CUST-0418,North,Technology,Headphones,1,1505.23,0.0,1505.23,250.95,Cash on Delivery,Delivered,3.0,5.0
+ORD-00760,2025-05-07,CUST-0264,Central,Home & Kitchen,Coffee Maker,5,11498.67,5.0,54618.68,15891.67,Credit Card,Delivered,3.0,5.0
+ORD-00761,2025-08-22,CUST-0247,West,Furniture,Lamp,4,3115.12,15.0,10591.41,2292.06,Credit Card,Cancelled,4.0,2.0
+ORD-00762,2025-05-07,CUST-0037,South,Office Supplies,Notebook,2,193.55,0.0,387.1,138.25,Debit Card,Delivered,3.0,3.0
+ORD-00763,2025-08-06,CUST-0272,West,Office Supplies,Notebook,2,207.44,25.0,311.16,60.67,Credit Card,Delivered,3.0,4.0
+ORD-00764,2025-12-18,CUST-0114,Central,Home & Kitchen,Cookware,1,1783.53,5.0,1694.35,240.05,UPI,Delivered,1.0,4.0
+ORD-00765,2025-05-28,CUST-0272,East,Furniture,Bookshelf,2,8098.23,0.0,16196.46,3711.86,Debit Card,Delivered,6.0,5.0
+ORD-00766,2025-04-12,CUST-0422,West,Furniture,Chair,2,2734.42,10.0,4921.96,1053.95,UPI,Delivered,3.0,5.0
+ORD-00767,2025-09-15,CUST-0189,West,Home & Kitchen,Cookware,1,2861.57,0.0,2861.57,557.17,UPI,Delivered,3.0,3.0
+ORD-00768,2025-05-03,CUST-0427,South,Home & Kitchen,Coffee Maker,1,6186.84,15.0,5258.81,400.3,Debit Card,Delivered,2.0,4.0
+ORD-00769,2025-06-07,CUST-0307,North,Furniture,Lamp,2,1080.31,20.0,1728.5,120.06,Credit Card,Delivered,3.0,1.0
+ORD-00770,2025-09-22,CUST-0434,West,Furniture,Bookshelf,1,4324.32,10.0,3891.89,787.83,Net Banking,Cancelled,3.0,5.0
+ORD-00771,2025-01-07,CUST-0408,South,Technology,Keyboard,4,1053.3,0.0,4213.2,727.39,UPI,Delivered,4.0,5.0
+ORD-00772,2025-03-26,CUST-0133,North,Furniture,Lamp,2,1421.92,25.0,2132.88,143.66,UPI,Delivered,1.0,4.0
+ORD-00773,2025-03-30,CUST-0214,South,Office Supplies,Printer Paper,3,441.97,5.0,1259.61,328.64,Credit Card,Delivered,4.0,5.0
+ORD-00774,2025-11-05,CUST-0026,West,Furniture,Sofa,1,14579.81,0.0,14579.81,3585.52,Credit Card,Delivered,3.0,4.0
+ORD-00775,2025-10-29,CUST-0019,East,Office Supplies,Storage Box,3,445.03,25.0,1001.32,186.25,Credit Card,Returned,5.0,1.0
+ORD-00776,2025-04-18,CUST-0209,West,Home & Kitchen,Water Bottle,5,1017.08,20.0,4068.32,725.77,Debit Card,Delivered,6.0,1.0
+ORD-00777,2025-07-19,CUST-0041,West,Technology,Keyboard,1,2294.97,15.0,1950.72,134.45,Debit Card,Cancelled,3.0,5.0
+ORD-00778,2025-07-09,CUST-0137,West,Office Supplies,Pen Set,5,459.79,10.0,2069.06,691.38,UPI,Delivered,3.0,5.0
+ORD-00779,2025-05-03,CUST-0409,Central,Technology,Headphones,1,6291.33,10.0,5662.2,305.13,UPI,Delivered,4.0,4.0
+ORD-00780,2025-09-15,CUST-0274,South,Technology,Laptop,1,38276.38,5.0,36362.56,4141.09,Debit Card,Delivered,1.0,2.0
+ORD-00781,2025-10-15,CUST-0082,West,Home & Kitchen,Water Bottle,4,1009.33,25.0,3027.99,303.07,Credit Card,Delivered,7.0,5.0
+ORD-00782,2025-04-09,CUST-0162,East,Technology,Monitor,2,17133.41,5.0,32553.48,6551.67,Debit Card,Delivered,6.0,5.0
+ORD-00783,2025-10-26,CUST-0247,West,Technology,Headphones,1,2814.27,10.0,2532.84,432.64,UPI,Delivered,1.0,1.0
+ORD-00784,2025-09-27,CUST-0192,East,Home & Kitchen,Mixer,2,5428.12,0.0,10856.24,1892.24,Credit Card,Delivered,8.0,4.0
+ORD-00785,2025-12-21,CUST-0410,South,Office Supplies,Pen Set,2,271.36,15.0,461.31,119.71,Cash on Delivery,Delivered,5.0,4.0
+ORD-00786,2025-09-27,CUST-0224,South,Home & Kitchen,Mixer,2,4705.55,20.0,7528.88,892.4,Debit Card,Delivered,6.0,5.0
+ORD-00787,2025-11-15,CUST-0014,South,Home & Kitchen,Bedsheet,3,3858.82,5.0,10997.64,2399.22,Debit Card,Delivered,5.0,2.0
+ORD-00788,2025-05-31,CUST-0313,North,Office Supplies,Printer Paper,2,473.87,5.0,900.35,242.41,UPI,Returned,3.0,3.0
+ORD-00789,2025-03-29,CUST-0336,South,Office Supplies,Printer Paper,1,233.03,5.0,221.38,37.42,Cash on Delivery,Cancelled,4.0,4.0
+ORD-00790,2025-03-18,CUST-0184,North,Technology,Smartphone,1,48828.15,15.0,41503.93,694.16,UPI,Delivered,6.0,4.0
+ORD-00791,2025-04-21,CUST-0152,North,Technology,Monitor,2,7371.52,0.0,14743.04,2303.92,Cash on Delivery,Delivered,1.0,4.0
+ORD-00792,2025-08-12,CUST-0181,North,Furniture,Chair,5,9659.52,25.0,36223.2,1890.35,Credit Card,Delivered,7.0,4.0
+ORD-00793,2025-07-09,CUST-0336,North,Technology,Keyboard,2,1084.54,10.0,1952.17,317.75,Net Banking,Delivered,3.0,3.0
+ORD-00794,2025-10-11,CUST-0380,North,Furniture,Bookshelf,2,4798.12,0.0,9596.24,1611.31,UPI,Delivered,7.0,3.0
+ORD-00795,2025-09-29,CUST-0441,Central,Technology,Monitor,5,18762.96,0.0,93814.8,4314.11,UPI,Delivered,1.0,5.0
+ORD-00796,2025-10-15,CUST-0352,West,Home & Kitchen,Coffee Maker,1,2846.03,15.0,2419.13,377.47,Credit Card,Delivered,4.0,4.0
+ORD-00797,2025-10-15,CUST-0179,Central,Office Supplies,Notebook,1,143.66,0.0,143.66,44.77,Credit Card,Delivered,8.0,4.0
+ORD-00798,2025-01-04,CUST-0155,North,Home & Kitchen,Bedsheet,3,3245.0,15.0,8274.75,708.23,Net Banking,Returned,3.0,2.0
+ORD-00799,2025-09-15,CUST-0417,West,Technology,Monitor,1,17716.8,10.0,15945.12,1998.58,Debit Card,Delivered,3.0,2.0
+ORD-00800,2025-01-07,CUST-0021,East,Office Supplies,Storage Box,3,198.72,5.0,566.35,183.05,UPI,Cancelled,8.0,4.0
+ORD-00801,2025-02-07,CUST-0240,Central,Furniture,Chair,2,6342.81,0.0,12685.62,2746.82,UPI,Delivered,3.0,2.0
+ORD-00802,2025-02-17,CUST-0294,Central,Technology,Headphones,1,5664.76,5.0,5381.52,332.52,Cash on Delivery,Delivered,2.0,4.0
+ORD-00803,2025-05-06,CUST-0058,East,Home & Kitchen,Water Bottle,1,906.29,5.0,860.98,222.12,Cash on Delivery,Returned,6.0,2.0
+ORD-00804,2025-06-08,CUST-0062,South,Office Supplies,Notebook,2,138.66,10.0,249.59,60.24,Debit Card,Delivered,6.0,4.0
+ORD-00805,2025-05-19,CUST-0263,East,Technology,Keyboard,2,3813.1,10.0,6863.58,865.92,UPI,Delivered,3.0,2.0
+ORD-00806,2025-01-06,CUST-0260,East,Technology,Keyboard,1,3833.97,15.0,3258.87,226.45,Debit Card,Delivered,4.0,4.0
+ORD-00807,2025-04-24,CUST-0016,Central,Office Supplies,Notebook,2,167.21,0.0,334.42,97.4,Cash on Delivery,Delivered,2.0,4.0
+ORD-00808,2025-12-08,CUST-0345,West,Office Supplies,Pen Set,3,450.94,0.0,1352.82,381.36,Net Banking,Delivered,6.0,3.0
+ORD-00809,2025-05-03,CUST-0110,North,Technology,Laptop,2,55943.8,10.0,100698.84,14756.2,Cash on Delivery,Delivered,2.0,5.0
+ORD-00810,2025-05-31,CUST-0381,East,Technology,Headphones,2,2030.41,15.0,3451.7,197.04,Debit Card,Delivered,7.0,5.0
+ORD-00811,2025-08-30,CUST-0316,East,Office Supplies,Stapler,2,525.76,10.0,946.37,185.92,Credit Card,Delivered,5.0,4.0
+ORD-00812,2025-06-30,CUST-0388,Central,Technology,Headphones,2,3230.41,15.0,5491.7,349.17,Credit Card,Delivered,7.0,1.0
+ORD-00813,2025-08-09,CUST-0421,West,Technology,Headphones,1,3475.83,15.0,2954.46,388.78,Credit Card,Delivered,1.0,4.0
+ORD-00814,2025-07-15,CUST-0340,South,Office Supplies,Stapler,2,206.53,10.0,371.75,81.9,UPI,Delivered,2.0,5.0
+ORD-00815,2025-07-12,CUST-0017,North,Office Supplies,Stapler,1,665.31,5.0,632.04,201.75,UPI,Delivered,5.0,3.0
+ORD-00816,2025-05-21,CUST-0395,Central,Office Supplies,Notebook,1,97.48,0.0,97.48,35.91,Credit Card,Delivered,10.0,4.0
+ORD-00817,2025-09-02,CUST-0426,North,Technology,Smartphone,1,12791.08,5.0,12151.53,1215.88,Debit Card,Delivered,5.0,4.0
+ORD-00818,2025-02-14,CUST-0288,Central,Furniture,Sofa,3,20321.52,10.0,54868.1,9667.22,Cash on Delivery,Returned,2.0,4.0
+ORD-00819,2025-01-30,CUST-0419,North,Office Supplies,Stapler,1,164.8,25.0,123.6,11.43,UPI,Delivered,7.0,4.0
+ORD-00820,2025-09-10,CUST-0084,East,Office Supplies,Printer Paper,3,214.42,10.0,578.93,156.73,Net Banking,Delivered,5.0,3.0
+ORD-00821,2025-05-12,CUST-0017,South,Home & Kitchen,Water Bottle,1,1387.04,10.0,1248.34,198.7,Credit Card,Delivered,4.0,4.0
+ORD-00822,2025-05-23,CUST-0244,North,Home & Kitchen,Cookware,2,6273.83,10.0,11292.89,2186.43,Debit Card,Delivered,1.0,3.0
+ORD-00823,2025-12-26,CUST-0431,Central,Technology,Laptop,2,61196.76,10.0,110154.17,12343.23,UPI,Delivered,3.0,4.0
+ORD-00824,2025-01-11,CUST-0047,East,Technology,Keyboard,1,582.15,5.0,553.04,77.37,UPI,Delivered,5.0,5.0
+ORD-00825,2025-08-17,CUST-0119,West,Technology,Smartphone,2,20305.07,15.0,34518.62,2080.71,Credit Card,Delivered,4.0,4.0
+ORD-00826,2025-08-09,CUST-0066,East,Technology,Monitor,2,8799.33,0.0,17598.66,1177.52,Cash on Delivery,Delivered,2.0,5.0
+ORD-00827,2025-04-30,CUST-0104,East,Home & Kitchen,Cookware,3,1321.91,15.0,3370.87,523.76,Credit Card,Delivered,4.0,4.0
+ORD-00828,2025-07-20,CUST-0244,West,Furniture,Chair,2,4354.84,15.0,7403.23,1253.92,Net Banking,Returned,3.0,2.0
+ORD-00829,2025-12-11,CUST-0334,West,Furniture,Lamp,2,1126.7,0.0,2253.4,467.41,UPI,Delivered,4.0,
+ORD-00830,2025-10-01,CUST-0354,West,Home & Kitchen,Bedsheet,3,1364.11,5.0,3887.71,566.84,UPI,Delivered,5.0,5.0
+ORD-00831,2025-08-24,CUST-0404,North,Furniture,Desk,2,15321.64,10.0,27578.95,5675.91,UPI,Delivered,3.0,5.0
+ORD-00832,2025-01-11,CUST-0226,South,Furniture,Sofa,1,27103.62,20.0,21682.9,1871.81,Cash on Delivery,Delivered,3.0,5.0
+ORD-00833,2025-01-18,CUST-0429,Central,Furniture,Bookshelf,1,4399.03,15.0,3739.18,572.15,Net Banking,Delivered,1.0,5.0
+ORD-00834,2025-07-19,CUST-0126,Central,Home & Kitchen,Coffee Maker,5,11293.39,10.0,50820.25,7727.77,Credit Card,Delivered,8.0,5.0
+ORD-00835,2025-07-29,CUST-0026,North,Furniture,Bookshelf,5,3887.32,0.0,19436.6,4775.93,UPI,Delivered,7.0,2.0
+ORD-00836,2025-09-04,CUST-0027,West,Technology,Smartphone,2,26608.41,10.0,47895.14,3580.6,UPI,Delivered,4.0,2.0
+ORD-00837,2025-04-13,CUST-0196,South,Home & Kitchen,Cookware,1,5030.99,20.0,4024.79,538.73,Cash on Delivery,Delivered,2.0,4.0
+ORD-00838,2025-03-29,CUST-0120,South,Technology,Monitor,1,19692.94,0.0,19692.94,4791.27,Debit Card,Delivered,6.0,4.0
+ORD-00839,2025-03-29,CUST-0290,North,Home & Kitchen,Cookware,2,6139.28,5.0,11664.63,2228.32,Debit Card,Delivered,6.0,2.0
+ORD-00840,2025-04-11,CUST-0297,East,Technology,Laptop,2,54187.4,10.0,97537.32,7716.68,Cash on Delivery,Delivered,4.0,5.0
+ORD-00841,2025-02-18,CUST-0332,Central,Home & Kitchen,Bedsheet,4,1691.15,0.0,6764.6,1018.76,UPI,Delivered,2.0,4.0
+ORD-00842,2025-01-08,CUST-0332,North,Home & Kitchen,Mixer,1,4832.69,10.0,4349.42,717.78,Credit Card,Delivered,3.0,2.0
+ORD-00843,2025-09-21,CUST-0167,East,Office Supplies,Notebook,3,62.61,0.0,187.83,54.29,Credit Card,Delivered,4.0,3.0
+ORD-00844,2025-01-19,CUST-0288,East,Technology,Monitor,1,12633.45,0.0,12633.45,1874.62,UPI,Delivered,1.0,1.0
+ORD-00845,2025-08-10,CUST-0089,North,Technology,Headphones,1,1066.45,5.0,1013.13,163.52,UPI,Delivered,7.0,5.0
+ORD-00846,2025-01-14,CUST-0199,North,Office Supplies,Storage Box,3,476.44,5.0,1357.85,387.02,UPI,Cancelled,5.0,3.0
+ORD-00847,2025-05-26,CUST-0379,Central,Technology,Smartphone,3,50954.11,10.0,137576.1,3874.83,Credit Card,Delivered,4.0,5.0
+ORD-00848,2025-03-12,CUST-0102,West,Furniture,Bookshelf,3,6917.54,20.0,16602.1,2031.5,Net Banking,Delivered,2.0,5.0
+ORD-00849,2025-03-19,CUST-0186,North,Office Supplies,Storage Box,2,370.57,10.0,667.03,153.51,UPI,Delivered,4.0,1.0
+ORD-00850,2025-06-22,CUST-0048,North,Furniture,Lamp,1,2443.31,10.0,2198.98,423.53,UPI,Delivered,4.0,4.0
+ORD-00851,2025-01-22,CUST-0322,South,Home & Kitchen,Bedsheet,1,3272.91,0.0,3272.91,637.64,UPI,Delivered,3.0,4.0
+ORD-00852,2025-09-03,CUST-0388,West,Furniture,Desk,1,8948.27,0.0,8948.27,2444.71,Cash on Delivery,Delivered,5.0,5.0
+ORD-00853,2025-12-01,CUST-0149,East,Technology,Laptop,2,35529.27,20.0,56846.83,1505.7,Debit Card,Delivered,4.0,5.0
+ORD-00854,2025-08-06,CUST-0321,North,Technology,Keyboard,2,2896.64,15.0,4924.29,258.77,UPI,Delivered,5.0,5.0
+ORD-00855,2025-11-21,CUST-0324,North,Office Supplies,Storage Box,1,470.71,10.0,423.64,114.18,Debit Card,Returned,1.0,2.0
+ORD-00856,2025-09-24,CUST-0300,Central,Technology,Laptop,1,74709.96,10.0,67238.96,12260.89,Cash on Delivery,Delivered,3.0,3.0
+ORD-00857,2025-04-14,CUST-0338,South,Technology,Laptop,3,70305.93,20.0,168734.23,-4343.48,UPI,Delivered,6.0,4.0
+ORD-00858,2025-03-14,CUST-0247,East,Technology,Keyboard,1,4477.37,15.0,3805.76,-55.97,UPI,Delivered,6.0,5.0
+ORD-00859,2025-05-03,CUST-0087,South,Furniture,Chair,2,3859.39,25.0,5789.09,604.22,UPI,Delivered,4.0,4.0
+ORD-00860,2025-11-17,CUST-0443,North,Office Supplies,Printer Paper,1,481.94,0.0,481.94,168.96,UPI,Delivered,1.0,3.0
+ORD-00861,2025-12-26,CUST-0282,East,Technology,Headphones,2,6741.46,15.0,11460.48,474.03,Credit Card,Delivered,8.0,3.0
+ORD-00862,2025-12-17,CUST-0202,South,Technology,Headphones,1,1741.69,5.0,1654.61,249.99,UPI,Delivered,1.0,3.0
+ORD-00863,2025-02-27,CUST-0408,South,Furniture,Desk,5,6535.0,5.0,31041.25,4040.12,Net Banking,Delivered,4.0,3.0
+ORD-00864,2025-06-26,CUST-0120,West,Office Supplies,Notebook,3,75.68,5.0,215.69,68.08,Net Banking,Delivered,1.0,3.0
+ORD-00865,2025-11-17,CUST-0434,West,Technology,Keyboard,2,3505.35,15.0,5959.09,565.57,Credit Card,Returned,1.0,2.0
+ORD-00866,2025-05-12,CUST-0297,East,Furniture,Chair,1,6977.18,10.0,6279.46,1320.03,UPI,Delivered,6.0,1.0
+ORD-00867,2025-05-31,CUST-0127,West,Office Supplies,Storage Box,1,164.52,5.0,156.29,65.71,UPI,Returned,2.0,3.0
+ORD-00868,2025-04-10,CUST-0433,South,Home & Kitchen,Water Bottle,1,292.61,10.0,263.35,44.33,Debit Card,Delivered,5.0,3.0
+ORD-00869,2025-03-05,CUST-0403,West,Office Supplies,Printer Paper,3,422.25,0.0,1266.75,391.74,Debit Card,Delivered,5.0,5.0
+ORD-00870,2025-08-29,CUST-0301,East,Technology,Keyboard,1,1099.83,10.0,989.85,19.79,UPI,Delivered,5.0,5.0
+ORD-00871,2025-12-22,CUST-0197,West,Technology,Smartphone,4,46104.51,10.0,165976.24,22504.77,Credit Card,Returned,3.0,2.0
+ORD-00872,2025-06-09,CUST-0005,Central,Furniture,Desk,2,17199.76,10.0,30959.57,3550.01,UPI,Delivered,3.0,3.0
+ORD-00873,2025-03-01,CUST-0145,South,Technology,Headphones,1,6685.91,0.0,6685.91,1031.76,Cash on Delivery,Delivered,4.0,4.0
+ORD-00874,2025-06-09,CUST-0307,West,Technology,Smartphone,1,11129.58,0.0,11129.58,2398.34,Net Banking,Delivered,2.0,4.0
+ORD-00875,2025-01-21,CUST-0036,South,Technology,Laptop,2,58805.02,20.0,94088.03,2562.36,Credit Card,Delivered,7.0,4.0
+ORD-00876,2025-02-19,CUST-0066,West,Furniture,Lamp,2,1562.77,10.0,2812.99,325.74,UPI,Returned,5.0,4.0
+ORD-00877,2025-04-27,CUST-0142,Central,Furniture,Sofa,1,19258.2,15.0,16369.47,1602.71,Cash on Delivery,Delivered,2.0,5.0
+ORD-00878,2025-05-17,CUST-0021,North,Technology,Monitor,1,15697.27,5.0,14912.41,115.35,Credit Card,Returned,7.0,2.0
+ORD-00879,2025-12-03,CUST-0047,North,Technology,Headphones,2,4661.85,15.0,7925.15,800.62,Debit Card,Delivered,4.0,4.0
+ORD-00880,2025-12-28,CUST-0117,North,Furniture,Bookshelf,1,1866.85,10.0,1680.16,309.26,Debit Card,Delivered,2.0,4.0
+ORD-00881,2025-01-22,CUST-0197,West,Technology,Headphones,3,5221.52,15.0,13314.88,1854.62,UPI,Delivered,5.0,5.0
+ORD-00882,2025-11-25,CUST-0344,East,Furniture,Chair,1,5113.61,15.0,4346.57,860.45,UPI,Delivered,2.0,3.0
+ORD-00883,2025-05-04,CUST-0404,South,Technology,Monitor,3,7710.52,5.0,21974.98,3307.62,Cash on Delivery,Delivered,5.0,5.0
+ORD-00884,2025-02-06,CUST-0400,South,Office Supplies,Pen Set,1,225.39,20.0,180.31,46.19,UPI,Delivered,3.0,3.0
+ORD-00885,2025-06-22,CUST-0070,South,Furniture,Chair,3,4620.82,15.0,11783.09,997.15,UPI,Delivered,2.0,3.0
+ORD-00886,2025-10-31,CUST-0443,North,Furniture,Lamp,2,3016.97,10.0,5430.55,555.35,Cash on Delivery,Delivered,3.0,5.0
+ORD-00887,2025-02-15,CUST-0391,South,Furniture,Bookshelf,3,7891.14,5.0,22489.75,3959.73,Debit Card,Delivered,5.0,4.0
+ORD-00888,2025-05-27,CUST-0275,East,Technology,Keyboard,2,3976.52,10.0,7157.74,800.9,UPI,Delivered,9.0,3.0
+ORD-00889,2025-07-28,CUST-0393,Central,Furniture,Lamp,3,3030.63,5.0,8637.3,1887.94,Credit Card,Delivered,1.0,5.0
+ORD-00890,2025-07-10,CUST-0002,North,Office Supplies,Pen Set,1,144.98,5.0,137.73,38.09,UPI,Delivered,4.0,4.0
+ORD-00891,2025-12-06,CUST-0437,East,Technology,Monitor,4,11651.8,15.0,39616.12,2694.2,Credit Card,Delivered,2.0,5.0
+ORD-00892,2025-09-01,CUST-0162,East,Office Supplies,Storage Box,3,427.21,10.0,1153.47,248.98,Credit Card,Delivered,4.0,5.0
+ORD-00893,2025-09-04,CUST-0012,West,Office Supplies,Notebook,3,153.55,0.0,460.65,159.39,Credit Card,Delivered,1.0,5.0
+ORD-00894,2025-10-21,CUST-0009,North,Home & Kitchen,Water Bottle,1,480.08,15.0,408.07,64.13,UPI,Delivered,2.0,4.0
+ORD-00895,2025-08-13,CUST-0386,North,Office Supplies,Printer Paper,3,538.81,5.0,1535.61,420.24,Debit Card,Delivered,9.0,3.0
+ORD-00896,2025-09-04,CUST-0292,East,Office Supplies,Storage Box,2,206.88,5.0,393.07,109.01,Debit Card,Returned,7.0,2.0
+ORD-00897,2025-03-15,CUST-0274,West,Technology,Laptop,2,67359.38,5.0,127982.82,17183.99,UPI,Delivered,3.0,4.0
+ORD-00898,2025-12-12,CUST-0009,North,Furniture,Sofa,3,17659.72,0.0,52979.16,11523.48,UPI,Delivered,4.0,4.0
+ORD-00899,2025-06-05,CUST-0238,East,Home & Kitchen,Water Bottle,1,995.64,5.0,945.86,296.82,Cash on Delivery,Cancelled,4.0,3.0
+ORD-00900,2025-07-18,CUST-0172,South,Furniture,Sofa,5,32420.28,10.0,145891.26,23352.81,UPI,Delivered,1.0,2.0
+ORD-00901,2025-11-23,CUST-0319,West,Furniture,Lamp,1,1553.45,15.0,1320.43,229.53,Net Banking,Delivered,5.0,4.0
+ORD-00902,2025-09-30,CUST-0113,West,Technology,Monitor,4,12758.35,0.0,51033.4,9163.65,Cash on Delivery,Delivered,4.0,4.0
+ORD-00903,2025-05-26,CUST-0366,North,Home & Kitchen,Mixer,2,4706.34,0.0,9412.68,2153.52,Debit Card,Delivered,6.0,5.0
+ORD-00904,2025-04-08,CUST-0032,North,Office Supplies,Pen Set,5,340.0,5.0,1615.0,356.56,Cash on Delivery,Delivered,5.0,5.0
+ORD-00905,2025-09-12,CUST-0412,West,Furniture,Desk,3,9123.01,0.0,27369.03,5645.42,Debit Card,Delivered,1.0,5.0
+ORD-00906,2025-01-15,CUST-0248,West,Technology,Laptop,3,43139.42,5.0,122947.35,13895.55,Debit Card,Delivered,3.0,
+ORD-00907,2025-11-27,CUST-0060,West,Home & Kitchen,Mixer,1,5018.59,20.0,4014.87,285.14,Credit Card,Delivered,3.0,2.0
+ORD-00908,2025-05-26,CUST-0323,South,Technology,Monitor,1,12225.1,15.0,10391.34,683.03,Credit Card,Cancelled,4.0,5.0
+ORD-00909,2025-10-10,CUST-0073,North,Technology,Keyboard,3,2848.58,5.0,8118.45,944.96,UPI,Returned,5.0,4.0
+ORD-00910,2025-07-22,CUST-0033,South,Home & Kitchen,Bedsheet,3,3465.74,5.0,9877.36,1935.07,Credit Card,Delivered,5.0,4.0
+ORD-00911,2025-10-31,CUST-0178,South,Technology,Monitor,4,15534.01,10.0,55922.44,3971.82,Cash on Delivery,Delivered,4.0,5.0
+ORD-00912,2025-03-23,CUST-0350,North,Technology,Smartphone,1,32424.29,10.0,29181.86,4176.57,UPI,Delivered,3.0,5.0
+ORD-00913,2025-01-24,CUST-0100,West,Office Supplies,Stapler,2,357.03,15.0,606.95,88.14,Cash on Delivery,Delivered,1.0,2.0
+ORD-00914,2025-05-16,CUST-0357,Central,Office Supplies,Stapler,2,171.18,5.0,325.24,80.15,UPI,Delivered,2.0,3.0
+ORD-00915,2025-02-21,CUST-0239,East,Home & Kitchen,Cookware,1,2312.07,15.0,1965.26,149.02,Cash on Delivery,Delivered,4.0,4.0
+ORD-00916,2025-09-10,CUST-0107,West,Furniture,Bookshelf,1,7956.8,10.0,7161.12,1179.4,Debit Card,Cancelled,3.0,4.0
+ORD-00917,2025-12-20,CUST-0408,Central,Technology,Monitor,2,11640.83,15.0,19789.41,1081.98,UPI,Cancelled,5.0,4.0
+ORD-00918,2025-01-04,CUST-0105,North,Home & Kitchen,Water Bottle,3,749.98,15.0,1912.45,275.23,Debit Card,Delivered,6.0,5.0
+ORD-00919,2025-06-24,CUST-0294,North,Furniture,Chair,3,11927.02,15.0,30413.9,1590.48,UPI,Delivered,7.0,1.0
+ORD-00920,2025-11-17,CUST-0132,West,Technology,Laptop,3,82443.13,10.0,222596.45,33839.94,Credit Card,Delivered,4.0,4.0
+ORD-00921,2025-10-25,CUST-0016,West,Home & Kitchen,Water Bottle,2,866.25,15.0,1472.62,316.15,Credit Card,Cancelled,1.0,5.0
+ORD-00922,2025-08-15,CUST-0051,West,Technology,Laptop,2,65242.61,20.0,104388.18,1385.25,Debit Card,Delivered,4.0,3.0
+ORD-00923,2025-07-24,CUST-0313,Central,Technology,Laptop,2,67277.84,15.0,114372.33,14218.16,Debit Card,Delivered,5.0,
+ORD-00924,2025-01-02,CUST-0008,West,Furniture,Desk,2,6428.23,5.0,12213.64,2340.99,Debit Card,Cancelled,3.0,5.0
+ORD-00925,2025-10-11,CUST-0014,Central,Office Supplies,Pen Set,2,75.52,15.0,128.38,39.19,Credit Card,Delivered,4.0,4.0
+ORD-00926,2025-12-04,CUST-0356,Central,Furniture,Lamp,1,2937.5,15.0,2496.88,373.78,UPI,Delivered,8.0,4.0
+ORD-00927,2025-04-07,CUST-0174,West,Furniture,Desk,1,13026.81,10.0,11724.13,2838.38,Debit Card,Returned,5.0,1.0
+ORD-00928,2025-02-11,CUST-0133,East,Home & Kitchen,Mixer,1,4678.17,15.0,3976.44,788.23,Debit Card,Delivered,6.0,4.0
+ORD-00929,2025-05-03,CUST-0231,Central,Technology,Laptop,2,72207.16,10.0,129972.89,23733.97,Net Banking,Delivered,1.0,3.0
+ORD-00930,2025-01-26,CUST-0014,North,Office Supplies,Storage Box,1,1134.62,15.0,964.43,214.59,UPI,Delivered,5.0,4.0
+ORD-00931,2025-12-10,CUST-0252,Central,Furniture,Desk,1,7493.61,10.0,6744.25,1413.17,UPI,Delivered,4.0,3.0
+ORD-00932,2025-06-08,CUST-0264,South,Home & Kitchen,Mixer,1,6507.85,0.0,6507.85,1670.26,Credit Card,Delivered,1.0,3.0
+ORD-00933,2025-02-08,CUST-0208,North,Home & Kitchen,Coffee Maker,2,4964.57,10.0,8936.23,878.73,Cash on Delivery,Delivered,3.0,4.0
+ORD-00934,2025-08-12,CUST-0149,West,Furniture,Chair,1,5777.63,15.0,4910.99,587.19,UPI,Delivered,2.0,4.0
+ORD-00935,2025-03-20,CUST-0233,Central,Home & Kitchen,Cookware,3,828.32,15.0,2112.22,275.86,Debit Card,Delivered,5.0,4.0
+ORD-00936,2025-02-09,CUST-0309,East,Technology,Keyboard,2,2472.0,5.0,4696.8,599.07,UPI,Delivered,5.0,4.0
+ORD-00937,2025-01-19,CUST-0346,West,Technology,Laptop,5,57734.42,0.0,288672.1,38645.59,UPI,Cancelled,4.0,4.0
+ORD-00938,2025-12-11,CUST-0048,West,Furniture,Bookshelf,3,7324.83,20.0,17579.59,2662.24,Credit Card,Delivered,1.0,5.0
+ORD-00939,2025-04-17,CUST-0418,North,Technology,Monitor,4,13957.7,15.0,47456.18,6355.85,UPI,Delivered,2.0,1.0
+ORD-00940,2025-05-15,CUST-0215,South,Furniture,Chair,1,3129.05,15.0,2659.69,387.61,upi,Returned,5.0,
+ORD-00941,2025-12-07,CUST-0348,Central,Office Supplies,Storage Box,2,797.93,15.0,1356.48,310.0,Credit Card,Delivered,,5.0
+ORD-00942,2025-08-16,CUST-0414,East,Technology,Headphones,4,2967.79,5.0,11277.6,1717.06,UPI,Delivered,7.0,4.0
+ORD-00943,2025-08-14,CUST-0221,South,Home & Kitchen,Bedsheet,4,2842.89,20.0,9097.25,404.8,Cash on Delivery,Returned,3.0,4.0
+ORD-00944,2025-12-27,CUST-0423,South,Technology,Smartphone,1,43809.0,20.0,35047.2,4654.17,Net Banking,Delivered,3.0,4.0
+ORD-00945,2025-03-10,CUST-0114,Central,Technology,Keyboard,2,2645.22,0.0,5290.44,889.41,Credit Card,Delivered,3.0,4.0
+ORD-00946,2025-06-06,CUST-0274,South,Home & Kitchen,Coffee Maker,1,6620.64,0.0,6620.64,1580.51,UPI,Delivered,2.0,3.0
+ORD-00947,2025-09-17,CUST-0187,North,Technology,Headphones,1,6992.89,5.0,6643.25,840.83,UPI,Delivered,8.0,4.0
+ORD-00948,2025-02-11,CUST-0344,South,Home & Kitchen,Coffee Maker,2,11108.68,15.0,18884.76,2310.37,UPI,Cancelled,4.0,5.0
+ORD-00949,2025-08-25,CUST-0436,South,Home & Kitchen,Water Bottle,4,913.52,20.0,2923.26,245.42,Credit Card,Cancelled,5.0,4.0
+ORD-00950,2025-07-30,CUST-0194,West,Technology,Smartphone,4,53394.47,15.0,181541.2,21585.16,Credit Card,Delivered,5.0,5.0
+ORD-00951,2025-05-18,CUST-0215,North,Home & Kitchen,Mixer,5,5355.54,20.0,21422.16,2831.91,Cash on Delivery,Delivered,4.0,4.0
+ORD-00952,2025-01-27,CUST-0129,West,Furniture,Sofa,2,38558.06,20.0,61692.9,10137.93,Credit Card,Delivered,1.0,3.0
+ORD-00953,2025-06-02,CUST-0251,South,Home & Kitchen,Mixer,3,3244.42,5.0,9246.6,1548.8,UPI,Delivered,3.0,4.0
+ORD-00954,2025-05-01,CUST-0405,South,Technology,Headphones,2,3332.32,5.0,6331.41,1453.93,Net Banking,Delivered,8.0,4.0
+ORD-00955,2025-01-31,CUST-0078,East,Furniture,Sofa,1,36848.66,10.0,33163.79,6911.96,Net Banking,Delivered,4.0,4.0
+ORD-00956,2025-06-12,CUST-0266,Central,Office Supplies,Stapler,2,242.39,15.0,412.06,84.32,UPI,Delivered,5.0,5.0
+ORD-00957,2025-11-10,CUST-0043,North,Furniture,Lamp,2,2299.12,20.0,3678.59,529.04,Credit Card,Delivered,4.0,4.0
+ORD-00958,2025-10-01,CUST-0192,North,Furniture,Desk,2,10974.69,0.0,21949.38,4142.71,Credit Card,Delivered,5.0,5.0
+ORD-00959,2025-01-29,CUST-0106,Central,Office Supplies,Storage Box,1,522.01,0.0,522.01,117.89,UPI,Delivered,3.0,3.0
+ORD-00960,2025-09-11,CUST-0388,SOUTH ,Home & Kitchen,Coffee Maker,4,6894.53,0.0,27578.12,7998.34,UPI,Delivered,5.0,1.0
+ORD-00961,2025-02-15,CUST-0380,North,Office Supplies,Printer Paper,1,504.62,0.0,504.62,159.62,UPI,Delivered,8.0,3.0
+ORD-00962,2025-04-25,CUST-0120,North,Home & Kitchen,Coffee Maker,1,9251.44,5.0,8788.87,1972.16,Cash on Delivery,Delivered,3.0,1.0
+ORD-00963,2025-10-15,CUST-0381,North,Office Supplies,Printer Paper,3,558.16,25.0,1255.86,148.3,Net Banking,Delivered,4.0,5.0
+ORD-00964,2025-06-26,CUST-0279,North,Technology,Smartphone,4,12034.86,5.0,45732.47,5209.92,Credit Card,Delivered,4.0,4.0
+ORD-00965,2025-08-30,CUST-0383,East,Technology,Monitor,2,16161.87,0.0,32323.74,4431.15,UPI,Delivered,6.0,5.0
+ORD-00966,2025-06-04,CUST-0074,North,Technology,Monitor,2,16682.24,15.0,28359.81,2292.06,UPI,Delivered,6.0,4.0
+ORD-00967,2025-02-03,CUST-0152,Central,Technology,Keyboard,1,2593.39,15.0,2204.38,-90.06,UPI,Delivered,4.0,4.0
+ORD-00968,2025-03-18,CUST-0304,West,Technology,Headphones,3,1089.06,25.0,2450.38,168.73,Credit Card,Delivered,7.0,4.0
+ORD-00969,2025-09-28,CUST-0235,North,Office Supplies,Stapler,3,147.13,10.0,397.25,98.07,Credit Card,Delivered,2.0,3.0
+ORD-00970,2025-02-02,CUST-0352,South,Furniture,Desk,1,6799.79,10.0,6119.81,1280.61,UPI,Delivered,5.0,4.0
+ORD-00971,2025-11-17,CUST-0352,East,Office Supplies,Stapler,1,137.19,0.0,137.19,37.09,UPI,Delivered,4.0,3.0
+ORD-00972,2025-05-07,CUST-0029,North,Home & Kitchen,Mixer,1,2700.76,0.0,2700.76,572.89,Credit Card,Delivered,6.0,4.0
+ORD-00973,2025-11-11,CUST-0444,South,Technology,Monitor,5,20973.08,10.0,94378.86,15901.11,Credit Card,Delivered,7.0,3.0
+ORD-00974,2025-09-12,CUST-0395,West,Home & Kitchen,Water Bottle,3,1016.94,10.0,2745.74,322.21,Credit Card,Delivered,5.0,5.0
+ORD-00975,2025-11-16,CUST-0003,North,Technology,Keyboard,1,2114.93,10.0,1903.44,151.7,Credit Card,Delivered,4.0,3.0
+ORD-00976,2025-08-24,CUST-0159,North,Office Supplies,Notebook,1,147.48,20.0,117.98,25.21,Cash on Delivery,Delivered,2.0,2.0
+ORD-00977,2025-08-10,CUST-0214,Central,Home & Kitchen,Coffee Maker,1,6267.31,0.0,6267.31,1465.27,UPI,Delivered,1.0,4.0
+ORD-00978,2025-04-03,CUST-0089,South,Technology,Monitor,2,14748.59,15.0,25072.6,1212.23,Credit Card,Cancelled,3.0,2.0
+ORD-00979,2025-02-23,CUST-0060,South,Technology,Smartphone,1,32862.75,20.0,26290.2,2684.48,Cash on Delivery,Delivered,7.0,4.0
+ORD-00980,2025-06-28,CUST-0078,Central,Office Supplies,Pen Set,3,337.87,15.0,861.57,244.89,UPI,Delivered,6.0,5.0
+ORD-00981,2025-11-24,CUST-0149,South,Technology,Laptop,2,49373.78,10.0,88872.8,5733.58,UPI,Delivered,5.0,4.0
+ORD-00982,2025-06-14,CUST-0132,North,Office Supplies,Notebook,1,135.42,15.0,115.11,24.02,Debit Card,Delivered,2.0,5.0
+ORD-00983,2025-12-23,CUST-0034,West,Technology,Headphones,2,1740.95,0.0,3481.9,822.81,Credit Card,Delivered,3.0,4.0
+ORD-00984,2025-01-21,CUST-0369,east,Technology,Laptop,2,82357.05,15.0,140006.99,11264.31,Debit Card,Delivered,4.0,5.0
+ORD-00985,2025-08-26,CUST-0068,North,Technology,Smartphone,1,40873.42,15.0,34742.41,2311.19,Debit Card,Returned,2.0,1.0
+ORD-00986,2025-06-24,CUST-0152,East,Furniture,Sofa,1,36922.66,20.0,29538.13,5729.09,UPI,Delivered,5.0,2.0
+ORD-00987,2025-10-15,CUST-0372, north,Technology,Smartphone,2,33986.67,15.0,57777.34,5600.22,UPI,Delivered,1.0,5.0
+ORD-00988,2025-09-03,CUST-0003,Central,Technology,Headphones,2,3371.19,10.0,6068.14,521.91,Debit Card,Delivered,3.0,5.0
+ORD-00989,2025-05-05,CUST-0212,North,Furniture,Lamp,1,567.15,0.0,567.15,152.38,Debit Card,Delivered,8.0,5.0
+ORD-00990,2025-09-15,CUST-0127,West,Technology,Monitor,2,21320.84,20.0,34113.34,-1313.29,UPI,Delivered,8.0,1.0
+ORD-00991,2025-09-11,CUST-0361,South,Technology,Smartphone,1,54449.04,10.0,49004.14,4342.38,Debit Card,Delivered,3.0,4.0
+ORD-00992,2025-06-29,CUST-0002,South,Furniture,Sofa,3,22094.83,5.0,62970.27,7269.27,Credit Card,Delivered,5.0,3.0
+ORD-00993,2025-06-07,CUST-0411,North,Home & Kitchen,Water Bottle,2,696.43,0.0,1392.86,194.79,Debit Card,Returned,3.0,1.0
+ORD-00994,2025-10-09,CUST-0023,East,Office Supplies,Stapler,1,536.37,0.0,536.37,111.16,Cash on Delivery,Delivered,6.0,5.0
+ORD-00995,2025-06-06,CUST-0196,West,Technology,Headphones,1,5083.67,10.0,4575.3,755.35,Cash on Delivery,Delivered,4.0,3.0
+ORD-00996,2025-08-22,CUST-0195,West,Technology,Smartphone,1,53209.19,15.0,45227.81,304.77,UPI,Delivered,,4.0
+ORD-00997,2025-06-07,CUST-0375,South,Technology,Monitor,3,13631.28,10.0,36804.46,4521.68,Cash on Delivery,Delivered,1.0,5.0
+ORD-00998,2025-01-13,CUST-0299,North,Furniture,Chair,2,7201.08,15.0,12241.84,1191.14,Cash on Delivery,Delivered,,5.0
+ORD-00999,2025-02-11,CUST-0337,North,Technology,Keyboard,2,1446.79,20.0,2314.86,188.88,Credit Card,Delivered,3.0,4.0
+ORD-01000,2025-12-25,CUST-0058,West,Technology,Monitor,1,21903.85,0.0,21903.85,4686.09,UPI,Delivered,4.0,2.0
+ORD-01001,2025-07-10,CUST-0227,North,Technology,Headphones,3,6102.3,0.0,18306.9,3371.65,Cash on Delivery,Delivered,4.0,3.0
+ORD-01002,2025-01-10,CUST-0371,West,Furniture,Desk,1,6929.09,25.0,5196.82,388.83,UPI,Delivered,5.0,4.0
+ORD-01003,2025-06-27,CUST-0063,East,Technology,Laptop,3,70491.67,20.0,169180.01,1347.17,Debit Card,Delivered,3.0,4.0
+ORD-01004,2025-05-26,CUST-0158,East,Technology,Smartphone,1,47364.32,10.0,42627.89,5339.52,Debit Card,Delivered,3.0,3.0
+ORD-01005,2025-08-28,CUST-0286,North,Furniture,Bookshelf,5,7358.71,10.0,33114.2,6462.3,Debit Card,Delivered,4.0,4.0
+ORD-01006,2025-06-23,CUST-0199,West,Furniture,Sofa,2,27669.18,15.0,47037.61,7246.78,Credit Card,Delivered,1.0,5.0
+ORD-01007,2025-05-28,CUST-0304,South,Furniture,Sofa,4,43757.08,20.0,140022.66,5818.3,Debit Card,Delivered,2.0,4.0
+ORD-01008,2025-08-08,CUST-0119,North,Office Supplies,Pen Set,1,432.24,15.0,367.4,75.09,Cash on Delivery,Delivered,5.0,4.0
+ORD-01009,2025-07-03,CUST-0281,North,Technology,Keyboard,2,2581.46,0.0,5162.92,1010.55,,Delivered,5.0,2.0
+ORD-01010,2025-10-25,CUST-0140,Central,Home & Kitchen,Mixer,3,5668.52,25.0,12754.17,556.75,UPI,Delivered,3.0,4.0
+ORD-01011,2025-06-15,CUST-0004,West,Technology,Monitor,3,9714.55,20.0,23314.92,1183.36,Cash on Delivery,Delivered,1.0,5.0
+ORD-01012,2025-03-12,CUST-0322,South,Home & Kitchen,Coffee Maker,2,6359.9,25.0,9539.85,672.48,UPI,Returned,4.0,1.0
+ORD-01013,2025-11-10,CUST-0328,North,Office Supplies,Notebook,2,159.13,15.0,270.52,66.98,Debit Card,Delivered,2.0,3.0
+ORD-01014,2025-11-26,CUST-0067,North,Furniture,Bookshelf,4,2291.7,10.0,8250.12,1502.84,Credit Card,Delivered,4.0,4.0
+ORD-01015,2025-08-25,CUST-0005,North,Furniture,Sofa,1,12051.84,5.0,11449.25,2839.19,Credit Card,Delivered,3.0,4.0
+ORD-01016,2025-01-07,CUST-0285,North,Office Supplies,Stapler,1,563.72,0.0,563.72,207.36,Debit Card,Delivered,4.0,
+ORD-01017,2025-06-28,CUST-0319,South,Office Supplies,Pen Set,1,187.58,15.0,159.44,39.0,Debit Card,Delivered,3.0,5.0
+ORD-01018,2025-10-15,CUST-0380,North,Furniture,Lamp,5,1846.1,20.0,7384.4,1398.38,UPI,Delivered,6.0,4.0
+ORD-01019,2025-06-15,CUST-0282,West,Technology,Keyboard,1,3637.75,10.0,3273.97,413.98,UPI,Delivered,3.0,3.0
+ORD-01020,2025-11-18,CUST-0262,North,Technology,Laptop,2,48346.98,20.0,77355.17,2660.1,Cash on Delivery,Delivered,5.0,1.0
+ORD-01021,2025-08-20,CUST-0094,East,Home & Kitchen,Coffee Maker,2,6925.31,15.0,11773.03,1726.65,UPI,Delivered,6.0,3.0
+ORD-01022,2025-06-21,CUST-0144,North,Home & Kitchen,Mixer,1,5456.47,10.0,4910.82,635.15,Cash on Delivery,Cancelled,7.0,5.0
+ORD-01023,2025-07-31,CUST-0229,South,Furniture,Lamp,3,932.68,0.0,2798.04,519.1,Credit Card,Delivered,2.0,1.0
+ORD-01024,2025-03-08,CUST-0022,North,Home & Kitchen,Mixer,2,5763.98,15.0,9798.77,1602.05,Net Banking,Delivered,5.0,4.0
+ORD-01025,2025-10-18,CUST-0403,North,Technology,Headphones,2,1666.43,10.0,2999.57,370.0,UPI,Delivered,3.0,4.0
+ORD-01026,2025-09-14,CUST-0191,North,Home & Kitchen,Mixer,2,3678.29,5.0,6988.75,981.62,Debit Card,Delivered,1.0,4.0
+ORD-01027,2025-11-07,CUST-0444,Central,Home & Kitchen,Cookware,1,6412.53,15.0,5450.65,785.37,Debit Card,Cancelled,5.0,4.0
+ORD-01028,2025-11-20,CUST-0086,West,Office Supplies,Stapler,1,335.35,15.0,285.05,71.53,UPI,Delivered,3.0,4.0
+ORD-01029,2025-11-20,CUST-0136,East,Office Supplies,Storage Box,4,1199.01,5.0,4556.24,1075.31,UPI,Delivered,4.0,3.0
+ORD-01030,2025-10-20,CUST-0195,North,Office Supplies,Notebook,2,132.03,20.0,211.25,59.46,Debit Card,Cancelled,7.0,5.0
+ORD-01031,2025-02-16,CUST-0406,West,Office Supplies,Notebook,1,142.68,0.0,142.68,43.94,Debit Card,Delivered,2.0,2.0
+ORD-01032,2025-10-24,CUST-0349,South,Furniture,Desk,1,17171.68,5.0,16313.1,4829.83,UPI,Delivered,3.0,4.0
+ORD-01033,2025-07-08,CUST-0364,North,FURNITURE,Bedsheet,2,1266.38,0.0,2532.76,616.96,Debit Card,Delivered,1.0,5.0
+ORD-01034,2025-09-01,CUST-0164,West,Technology,Keyboard,1,3718.83,0.0,3718.83,485.8,Credit Card,Delivered,7.0,4.0
+ORD-01035,2025-12-28,CUST-0255,North,Technology,Headphones,1,2186.27,20.0,1749.02,80.34,Cash on Delivery,Cancelled,2.0,2.0
+ORD-01036,2025-04-26,CUST-0450,North,Furniture,Chair,4,8055.59,0.0,32222.36,8094.23,Debit Card,Delivered,7.0,1.0
+ORD-01037,2025-11-27,CUST-0213,South,Office Supplies,Stapler,1,406.91,0.0,406.91,126.01,Cash on Delivery,Delivered,4.0,4.0
+ORD-01038,2025-12-20,CUST-0261,West,Office Supplies,Printer Paper,1,557.86,20.0,446.29,78.3,Credit Card,Delivered,2.0,4.0
+ORD-01039,2025-09-14,CUST-0219,East,Office Supplies,Printer Paper,1,222.03,10.0,199.83,45.78,Credit Card,Delivered,3.0,5.0
+ORD-01040,2025-03-23,CUST-0316,West,Technology,Smartphone,3,23958.8,10.0,64688.76,7746.21,Debit Card,Delivered,1.0,4.0
+ORD-01041,2025-05-14,CUST-0096,North,Technology,Smartphone,2,54767.15,10.0,98580.87,16015.04,Cash on Delivery,Delivered,4.0,5.0
+ORD-01042,2025-03-03,CUST-0346,Central,Office Supplies,Pen Set,2,127.13,0.0,254.26,86.43,Credit Card,Delivered,4.0,3.0
+ORD-01043,2025-05-23,CUST-0443,South,Furniture,Desk,1,16118.27,10.0,14506.44,2962.51,Debit Card,Delivered,3.0,4.0
+ORD-01044,2025-04-14,CUST-0138,North,Office Supplies,Stapler,1,372.78,10.0,335.5,52.39,Credit Card,Delivered,5.0,4.0
+ORD-01045,2025-01-27,CUST-0392,South,Office Supplies,Stapler,1,529.45,0.0,529.45,189.72,Debit Card,Delivered,3.0,3.0
+ORD-01046,2025-01-29,CUST-0080,East,Home & Kitchen,Cookware,1,5304.46,20.0,4243.57,511.41,Cash on Delivery,Delivered,4.0,5.0
+ORD-01047,2025-08-23,CUST-0202,West,Furniture,Bookshelf,1,4594.58,0.0,4594.58,1227.95,UPI,Delivered,4.0,4.0
+ORD-01048,2025-08-23,CUST-0318,East,Home & Kitchen,Coffee Maker,1,10483.05,15.0,8910.59,608.02,,Delivered,2.0,4.0
+ORD-01049,2025-01-26,CUST-0084,North,Office Supplies,Pen Set,2,497.36,5.0,944.98,231.11,Credit Card,Delivered,4.0,
+ORD-01050,2025-01-16,CUST-0400,South,Furniture,Sofa,1,24562.23,5.0,23334.12,4114.24,Credit Card,Delivered,6.0,4.0
+ORD-01051,2025-03-05,CUST-0307,North,Technology,Smartphone,1,39086.18,0.0,39086.18,3453.1,UPI,Delivered,4.0,3.0
+ORD-01052,2025-07-24,CUST-0384,West,Office Supplies,Pen Set,3,336.41,20.0,807.38,171.2,UPI,Delivered,4.0,4.0
+ORD-01053,2025-10-18,CUST-0176,North,Technology,Monitor,2,19966.9,10.0,35940.42,2855.19,Debit Card,Delivered,3.0,5.0
+ORD-01054,2025-01-23,CUST-0326,West,Furniture,Lamp,1,1090.08,0.0,1090.08,264.71,Net Banking,Delivered,4.0,4.0
+ORD-01055,2025-01-28,CUST-0377,Central,Technology,Monitor,4,17244.59,0.0,68978.36,6418.4,Credit Card,Delivered,4.0,3.0
+ORD-01056,2025-04-29,CUST-0236,East,Home & Kitchen,Coffee Maker,2,7376.84,10.0,13278.31,2569.72,UPI,Delivered,5.0,1.0
+ORD-01057,2025-09-14,CUST-0083,North,Home & Kitchen,Bedsheet,1,3195.28,10.0,2875.75,243.31,UPI,Delivered,1.0,5.0
+ORD-01058,2025-01-20,CUST-0065,North,Technology,Smartphone,4,17102.79,5.0,64990.6,8186.09,Debit Card,Delivered,2.0,5.0
+ORD-01059,2025-08-28,CUST-0305,North,Office Supplies,Storage Box,5,1154.25,5.0,5482.69,1563.72,Net Banking,Delivered,2.0,5.0
+ORD-01060,2025-07-21,CUST-0100,West,Office Supplies,Pen Set,2,348.39,15.0,592.26,63.97,Credit Card,Delivered,2.0,3.0
+ORD-01061,2025-06-13,CUST-0250,West,Home & Kitchen,Bedsheet,1,1686.86,15.0,1433.83,226.77,Credit Card,Returned,6.0,1.0
+ORD-01062,2025-10-06,CUST-0240,West,FURNITURE,Lamp,2,3062.01,10.0,5511.62,969.08,UPI,Delivered,6.0,4.0
+ORD-01063,2025-02-22,CUST-0395,North,Office Supplies,Storage Box,2,432.43,10.0,778.37,215.83,UPI,Delivered,6.0,4.0
+ORD-01064,2025-11-11,CUST-0202,East,Office Supplies,Printer Paper,4,227.82,20.0,729.02,176.38,Net Banking,Delivered,5.0,3.0
+ORD-01065,2025-11-16,CUST-0096,East,Technology,Monitor,2,16292.67,0.0,32585.34,4399.53,Net Banking,Delivered,4.0,5.0
+ORD-01066,2025-10-16,CUST-0280,North,Office Supplies,Notebook,5,228.34,20.0,913.36,249.42,UPI,Delivered,3.0,5.0
+ORD-01067,2025-01-05,CUST-0446,North,Technology,Smartphone,1,12564.55,20.0,10051.64,597.38,Cash on Delivery,Delivered,4.0,4.0
+ORD-01068,2025-05-14,CUST-0085,South,Office Supplies,Pen Set,2,390.37,15.0,663.63,111.82,UPI,Delivered,4.0,2.0
+ORD-01069,2025-03-23,CUST-0243,South,Furniture,Chair,1,8124.08,15.0,6905.47,1227.77,Debit Card,Delivered,3.0,5.0
+ORD-01070,2025-08-13,CUST-0267,East,Technology,Smartphone,2,44931.74,20.0,71890.78,2705.92,UPI,Cancelled,5.0,
+ORD-01071,2025-03-07,CUST-0270,South,Office Supplies,Printer Paper,1,407.07,0.0,407.07,111.71,Net Banking,Delivered,4.0,5.0
+ORD-01072,2025-02-06,CUST-0051,West,Technology,Smartphone,5,41882.52,10.0,188471.34,546.77,Cash on Delivery,Delivered,4.0,4.0
+ORD-01073,2025-06-07,CUST-0226,North,Office Supplies,Printer Paper,2,256.61,15.0,436.24,77.09,Cash on Delivery,Delivered,5.0,3.0
+ORD-01074,2025-12-08,CUST-0395,East,Office Supplies,Stapler,1,341.02,15.0,289.87,64.76,UPI,Delivered,7.0,3.0
+ORD-01075,2025-10-12,CUST-0168,South,Home & Kitchen,Bedsheet,1,1440.6,0.0,1440.6,191.67,Debit Card,Delivered,1.0,1.0
+ORD-01076,2025-10-04,CUST-0435,East,Office Supplies,Stapler,2,616.08,10.0,1108.94,241.62,UPI,Delivered,6.0,4.0
+ORD-01077,2025-11-18,CUST-0261,North,Furniture,Sofa,1,20497.79,10.0,18448.01,1922.74,UPI,Returned,,2.0
+ORD-01078,2025-02-25,CUST-0110,North,Office Supplies,Pen Set,4,313.85,0.0,1255.4,363.63,UPI,Delivered,4.0,5.0
+ORD-01079,2025-04-05,CUST-0228,West,Technology,Smartphone,2,43382.58,10.0,78088.64,6792.47,Credit Card,Delivered,,4.0
+ORD-01080,2025-01-01,CUST-0069,West,Technology,Keyboard,3,545.36,10.0,1472.47,190.14,Credit Card,Delivered,3.0,4.0
+ORD-01081,2025-12-15,CUST-0188,South,Furniture,Bookshelf,2,7951.36,15.0,13517.31,2530.2,Credit Card,Delivered,2.0,4.0
+ORD-01082,2025-05-28,CUST-0037,North,Home & Kitchen,Bedsheet,1,2416.11,5.0,2295.3,444.33,UPI,Returned,4.0,1.0
+ORD-01083,2025-04-04,CUST-0445,North,Office Supplies,Printer Paper,1,530.69,20.0,424.55,68.09,Net Banking,Delivered,4.0,4.0
+ORD-01084,2025-12-13,CUST-0284,Central,Office Supplies,Printer Paper,1,465.48,5.0,442.21,110.45,UPI,Delivered,1.0,4.0
+ORD-01085,2025-08-09,CUST-0146,West,Technology,Laptop,2,51464.2,0.0,102928.4,20669.6,Cash on Delivery,Delivered,4.0,4.0
+ORD-01086,2025-10-02,CUST-0337,East,Furniture,Lamp,5,1709.29,10.0,7691.81,1471.26,UPI,Returned,7.0,1.0
+ORD-01087,2025-08-19,CUST-0050,Central,Office Supplies,Printer Paper,1,578.57,15.0,491.78,143.44,Cash on Delivery,Delivered,4.0,3.0
+ORD-01088,2025-07-08,CUST-0443,South,Furniture,Bookshelf,3,7402.06,15.0,18875.25,3437.73,UPI,Delivered,5.0,4.0
+ORD-01089,2025-09-26,CUST-0007,South,Technology,Laptop,3,82635.34,10.0,223115.42,4070.2,Credit Card,Delivered,6.0,5.0
+ORD-01090,2025-07-21,CUST-0146,East,Office Supplies,Printer Paper,1,375.19,20.0,300.15,62.13,UPI,Delivered,6.0,4.0
+ORD-01091,2025-02-07,CUST-0295,West,Office Supplies,Pen Set,1,267.76,0.0,267.76,79.2,Credit card ,Delivered,2.0,5.0
+ORD-01092,2025-09-18,CUST-0201,North,Office Supplies,Printer Paper,1,507.62,10.0,456.86,111.74,UPI,Returned,4.0,3.0
+ORD-01093,2025-02-04,CUST-0289,West,Technology,Smartphone,1,35349.46,25.0,26512.1,1449.11,Credit Card,Delivered,3.0,
+ORD-01094,2025-09-30,CUST-0289,North,Technology,Monitor,1,15627.56,20.0,12502.05,967.17,Debit Card,Delivered,4.0,5.0
+ORD-01095,2025-07-17,CUST-0110,East,Office Supplies,Storage Box,3,882.53,15.0,2250.45,505.73,Credit Card,Delivered,3.0,3.0
+ORD-01096,2025-11-15,CUST-0296,North,Office Supplies,Pen Set,2,127.08,5.0,241.45,70.06,UPI,Delivered,2.0,3.0
+ORD-01097,2025-01-10,CUST-0177,Central,Technology,Monitor,1,8873.31,20.0,7098.65,539.75,UPI,Delivered,3.0,5.0
+ORD-01098,2025-12-01,CUST-0448,West,Home & Kitchen,Mixer,1,8130.74,5.0,7724.2,1225.65,Debit Card,Delivered,4.0,3.0
+ORD-01099,2025-01-29,CUST-0041,West,Home & Kitchen,Coffee Maker,1,6181.02,5.0,5871.97,1298.29,Net Banking,Delivered,4.0,3.0
+ORD-01100,2025-07-10,CUST-0172,South,Technology,Monitor,1,19260.14,10.0,17334.13,2350.0,UPI,Delivered,3.0,3.0
+ORD-01101,2025-08-09,CUST-0125,North,Furniture,Desk,2,7774.54,15.0,13216.72,1779.42,UPI,Delivered,5.0,4.0
+ORD-01102,2025-05-23,CUST-0331,North,Office Supplies,Printer Paper,2,417.16,10.0,750.89,168.75,UPI,Delivered,5.0,5.0
+ORD-01103,2025-02-24,CUST-0239,East,Office Supplies,Stapler,1,216.15,10.0,194.53,59.15,Debit Card,Delivered,6.0,5.0
+ORD-01104,2025-01-27,CUST-0098,East,Technology,Laptop,4,81034.36,20.0,259309.95,10555.25,UPI,Delivered,6.0,1.0
+ORD-01105,2025-05-16,CUST-0198,Central,Technology,Smartphone,3,22497.53,10.0,60743.33,6061.44,Cash on Delivery,Delivered,4.0,4.0
+ORD-01106,2025-07-07,CUST-0061,West,Technology,Keyboard,1,2562.15,0.0,2562.15,430.84,UPI,Delivered,5.0,5.0
+ORD-01107,2025-12-30,CUST-0334,East,Furniture,Desk,1,17017.09,0.0,17017.09,3826.46,UPI,Delivered,4.0,5.0
+ORD-01108,2025-12-28,CUST-0066,Central,Office Supplies,Stapler,1,659.47,10.0,593.52,162.74,Credit Card,Delivered,3.0,4.0
+ORD-01109,2025-03-30,CUST-0332,North,Home & Kitchen,Coffee Maker,2,10847.75,5.0,20610.72,3716.48,UPI,Delivered,4.0,5.0
+ORD-01110,2025-05-22,CUST-0179,South,Office Supplies,Notebook,3,77.79,10.0,210.03,64.41,Cash on Delivery,Delivered,6.0,4.0
+ORD-01111,2025-11-06,CUST-0385,South,Home & Kitchen,Cookware,1,5856.8,10.0,5271.12,1208.21,Debit Card,Delivered,2.0,2.0
+ORD-01112,2025-02-21,CUST-0356,East,Technology,Smartphone,1,20146.62,15.0,17124.63,1755.42,Cash on Delivery,Delivered,6.0,5.0
+ORD-01113,2025-04-25,CUST-0227,North,Office Supplies,Pen Set,2,185.74,5.0,352.91,98.27,UPI,Delivered,6.0,5.0
+ORD-01114,2025-07-07,CUST-0081,Central,Office Supplies,Stapler,1,669.38,0.0,669.38,210.22,Credit Card,Delivered,5.0,4.0
+ORD-01115,2025-06-22,CUST-0100,West,Office Supplies,Pen Set,5,181.34,5.0,861.37,208.71,Credit Card,Delivered,4.0,5.0
+ORD-01116,2025-07-28,CUST-0214,East,Home & Kitchen,Bedsheet,1,2354.08,5.0,2236.38,359.96,Credit Card,Delivered,5.0,3.0
+ORD-01117,2025-04-20,CUST-0296,North,Home & Kitchen,Coffee Maker,1,11683.99,20.0,9347.19,922.51,Credit Card,Delivered,7.0,5.0
+ORD-01118,2025-05-10,CUST-0026,North,Office Supplies,Stapler,1,137.16,5.0,130.3,32.07,Debit Card,Delivered,9.0,2.0
+ORD-01119,2025-02-24,CUST-0085,West,Furniture,Chair,1,3242.42,15.0,2756.06,275.15,UPI,Delivered,4.0,5.0
+ORD-01120,2025-09-04,CUST-0191,South,Technology,Monitor,1,9855.34,15.0,8377.04,658.42,Credit Card,Delivered,4.0,5.0
+ORD-01121,2025-09-14,CUST-0399,West,Furniture,Chair,2,6541.49,10.0,11774.68,2551.96,Debit Card,Delivered,4.0,4.0
+ORD-01122,2025-10-02,CUST-0080,North,Technology,Keyboard,2,2296.38,5.0,4363.12,1032.07,UPI,Delivered,3.0,4.0
+ORD-01123,2025-01-25,CUST-0369,South,Technology,Monitor,2,10668.67,5.0,20270.47,2745.55,UPI,Delivered,7.0,3.0
+ORD-01124,2025-11-03,CUST-0044,East,Home & Kitchen,Bedsheet,5,3916.99,10.0,17626.45,4455.06,Debit Card,Cancelled,4.0,5.0
+ORD-01125,2025-12-23,CUST-0380,North,Office Supplies,Stapler,1,598.49,0.0,598.49,188.44,Credit Card,Delivered,3.0,1.0
+ORD-01126,2025-12-03,CUST-0424,South,Office Supplies,Printer Paper,2,631.77,5.0,1200.36,341.64,Debit Card,Delivered,4.0,2.0
+ORD-01127,2025-02-23,CUST-0184,East,Office Supplies,Storage Box,1,167.27,20.0,133.82,33.77,Credit Card,Delivered,5.0,5.0
+ORD-01128,2025-01-23,CUST-0219,East,Technology,Smartphone,3,25399.54,0.0,76198.62,20707.29,Credit Card,Delivered,4.0,5.0
+ORD-01129,2025-05-23,CUST-0067,East,Office Supplies,Printer Paper,1,262.21,15.0,222.88,49.73,cash on delivery,Delivered,6.0,4.0
+ORD-01130,2025-06-25,CUST-0154,West,Office Supplies,Pen Set,3,115.83,10.0,312.74,61.28,Cash on Delivery,Delivered,3.0,2.0
+ORD-01131,2025-12-12,CUST-0057,East,Office Supplies,Notebook,2,78.74,10.0,141.73,37.76,Debit Card,Returned,4.0,3.0
+ORD-01132,2025-06-19,CUST-0360,West,Technology,Smartphone,1,32669.38,0.0,32669.38,6038.52,Cash on Delivery,Delivered,1.0,3.0
+ORD-01133,2025-01-03,CUST-0161,North,Office Supplies,Storage Box,3,574.03,0.0,1722.09,442.75,Debit Card,Delivered,5.0,3.0
+ORD-01134,2025-04-14,CUST-0410,West,Furniture,Lamp,3,1686.18,10.0,4552.69,867.43,Cash on Delivery,Delivered,5.0,3.0
+ORD-01135,2025-04-15,CUST-0242,East,Technology,Laptop,1,50155.82,10.0,45140.24,1592.69,Credit Card,Delivered,9.0,5.0
+ORD-01136,2025-12-08,CUST-0160,East,Technology,Laptop,1,82946.96,10.0,74652.26,4623.03,UPI,Delivered,3.0,4.0
+ORD-01137,2025-02-04,CUST-0213,North,Technology,Monitor,3,11232.45,25.0,25273.01,-154.57,Cash on Delivery,Delivered,3.0,4.0
+ORD-01138,2025-12-23,CUST-0373,South,Technology,Keyboard,1,2634.56,5.0,2502.83,378.17,Credit Card,Delivered,3.0,5.0
+ORD-01139,2025-09-23,CUST-0295,South,Home & Kitchen,Cookware,2,2839.15,15.0,4826.56,821.14,Credit Card,Delivered,3.0,4.0
+ORD-01140,2025-03-25,CUST-0097,West,Office Supplies,Printer Paper,2,346.67,10.0,624.01,135.84,Credit Card,Delivered,3.0,4.0
+ORD-01141,2025-08-27,CUST-0036,West,Office Supplies,Printer Paper,1,231.88,15.0,197.1,33.33,Net Banking,Delivered,3.0,4.0
+ORD-01142,2025-03-01,CUST-0434,Central,Technology,Laptop,1,79022.63,0.0,79022.63,12333.46,Debit Card,Delivered,4.0,3.0
+ORD-01143,2025-06-19,CUST-0390,West,Technology,Headphones,1,6353.62,5.0,6035.94,945.6,Credit Card,Delivered,3.0,3.0
+ORD-01144,2025-12-27,CUST-0352,South,Furniture,Lamp,1,2330.58,20.0,1864.46,178.98,UPI,Returned,6.0,4.0
+ORD-01145,2025-04-24,CUST-0262,North,Office Supplies,Pen Set,5,165.63,25.0,621.11,117.46,Net Banking,Cancelled,3.0,4.0
+ORD-01146,2025-04-08,CUST-0088,West,Furniture,Lamp,1,1196.05,10.0,1076.44,181.67,Cash on Delivery,Delivered,4.0,4.0
+ORD-01147,2025-11-22,CUST-0269,East,Home & Kitchen,Cookware,1,6160.71,0.0,6160.71,1297.99,UPI,Delivered,5.0,5.0
+ORD-01148,2025-10-08,CUST-0145,South,Technology,Monitor,1,18405.51,0.0,18405.51,2204.42,Debit Card,Delivered,4.0,5.0
+ORD-01149,2025-11-28,CUST-0444,North,Office Supplies,Notebook,1,147.09,5.0,139.74,34.32,Credit Card,Delivered,5.0,4.0
+ORD-01150,2025-03-18,CUST-0019,West,Home & Kitchen,Cookware,1,1079.09,0.0,1079.09,278.86,Cash on Delivery,Delivered,3.0,5.0
+ORD-01151,2025-09-22,CUST-0182,West,Office Supplies,Storage Box,4,918.96,15.0,3124.46,892.01,Credit Card,Delivered,3.0,2.0
+ORD-01152,2025-01-21,CUST-0136,North,Technology,Laptop,5,53946.56,0.0,269732.8,39583.65,UPI,Delivered,3.0,4.0
+ORD-01153,2025-01-14,CUST-0285,West,Furniture,Lamp,4,3213.21,0.0,12852.84,2625.01,Credit Card,Delivered,,3.0
+ORD-01154,2025-04-07,CUST-0195,West,Technology,Headphones,1,6036.75,10.0,5433.07,313.94,UPI,Delivered,3.0,5.0
+ORD-01155,2025-12-01,CUST-0146,North,Technology,Monitor,1,16148.67,0.0,16148.67,1393.65,UPI,Delivered,3.0,4.0
+ORD-01156,2025-12-05,CUST-0362,North,Technology,Monitor,1,18055.98,5.0,17153.18,1389.28,Credit Card,Returned,3.0,1.0
+ORD-01157,2025-10-16,CUST-0373,Central,Furniture,Lamp,2,1800.42,5.0,3420.8,832.68,Net Banking,Delivered,2.0,5.0
+ORD-01158,2025-08-04,CUST-0374,West,Furniture,Bookshelf,2,4181.85,5.0,7945.52,1836.21,Credit Card,Delivered,1.0,2.0
+ORD-01159,2025-05-28,CUST-0145,South,Home & Kitchen,Cookware,4,1259.26,20.0,4029.63,554.83,Credit Card,Delivered,5.0,4.0
+ORD-01160,2025-01-26,CUST-0359,North,Office Supplies,Pen Set,2,272.05,0.0,544.1,161.62,Debit Card,Delivered,2.0,3.0
+ORD-01161,2025-03-31,CUST-0075,West,Technology,Keyboard,3,705.96,0.0,2117.88,415.56,Debit Card,Delivered,5.0,4.0
+ORD-01162,2025-10-25,CUST-0119,North,Furniture,Sofa,1,25010.11,20.0,20008.09,2366.33,UPI,Delivered,4.0,5.0
+ORD-01163,2025-10-28,CUST-0295,South,Office Supplies,Printer Paper,2,383.22,5.0,728.12,217.52,UPI,Delivered,3.0,5.0
+ORD-01164,2025-03-05,CUST-0299,North,Technology,Smartphone,1,44971.04,5.0,42722.49,7394.8,Credit Card,Delivered,2.0,5.0
+ORD-01165,2025-11-07,CUST-0376,South,Technology,Laptop,1,55800.05,10.0,50220.05,1773.76,upi,Delivered,2.0,3.0
+ORD-01166,2025-02-15,CUST-0273,North,Office Supplies,Notebook,2,204.96,0.0,409.92,142.95,Debit Card,Delivered,4.0,4.0
+ORD-01167,2025-04-06,CUST-0051,Central,Home & Kitchen,Mixer,1,8350.48,0.0,8350.48,1707.45,UPI,Delivered,6.0,5.0
+ORD-01168,2025-04-26,CUST-0355,North,Technology,Headphones,1,6796.98,20.0,5437.58,78.39,Debit Card,Cancelled,,5.0
+ORD-01169,2025-01-25,CUST-0026,West,Technology,Monitor,1,17026.48,15.0,14472.51,1269.39,UPI,Delivered,3.0,5.0
+ORD-01170,2025-05-24,CUST-0244,West,Home & Kitchen,Cookware,3,2966.96,25.0,6675.66,942.42,Debit Card,Delivered,5.0,3.0
+ORD-01171,2025-07-10,CUST-0257,Central,Office Supplies,Stapler,2,570.23,10.0,1026.41,266.61,UPI,Delivered,4.0,4.0
+ORD-01172,2025-06-10,CUST-0371,South,Furniture,Lamp,1,2327.74,10.0,2094.97,461.73,Debit Card,Delivered,3.0,3.0
+ORD-01173,2025-12-20,CUST-0181,South,Technology,Monitor,1,20799.62,10.0,18719.66,205.25,UPI,Delivered,2.0,3.0
+ORD-01174,2025-05-01,CUST-0275,West,Technology,Keyboard,2,3643.31,25.0,5464.97,-58.88,Cash on Delivery,Delivered,8.0,4.0
+ORD-01175,2025-03-02,CUST-0038,West,Furniture,Sofa,4,15283.99,15.0,51965.57,5437.04,UPI,Delivered,4.0,5.0
+ORD-01176,2025-06-13,CUST-0067,South,Office Supplies,Notebook,1,206.87,10.0,186.18,46.49,UPI,Delivered,1.0,5.0
+ORD-01177,2025-05-20,CUST-0089,South,Technology,Laptop,1,82697.25,10.0,74427.53,962.77,Net Banking,Delivered,2.0,4.0
+ORD-01178,2025-10-06,CUST-0261,South,Home & Kitchen,Water Bottle,4,993.85,15.0,3379.09,460.76,Credit Card,Delivered,3.0,3.0
+ORD-01179,2025-06-28,CUST-0445,South,Home & Kitchen,Bedsheet,2,818.95,0.0,1637.9,374.03,UPI,Delivered,4.0,4.0
+ORD-01180,2025-02-16,CUST-0142,South,Furniture,Bookshelf,1,6755.97,0.0,6755.97,1365.38,Credit Card,Delivered,7.0,3.0
+ORD-01181,2025-01-23,CUST-0243,Central,Technology,Laptop,1,39764.11,10.0,35787.7,226.37,Net Banking,Delivered,5.0,4.0
+ORD-01182,2025-05-10,CUST-0441,East,Technology,Laptop,1,67432.25,0.0,67432.25,9774.44,Credit Card,Delivered,5.0,2.0
+ORD-01183,2025-09-06,CUST-0283,West,Technology,Laptop,3,84619.77,10.0,228473.38,28373.19,Credit Card,Returned,4.0,2.0
+ORD-01184,2025-09-04,CUST-0230,West,Home & Kitchen,Bedsheet,1,3814.83,10.0,3433.35,446.53,Credit Card,Delivered,2.0,5.0
+ORD-01185,2025-11-10,CUST-0386,South,Home & Kitchen,Mixer,1,5663.59,10.0,5097.23,743.02,Cash on Delivery,Delivered,3.0,3.0
+ORD-01186,2025-01-20,CUST-0190,North,Furniture,Sofa,2,29145.79,5.0,55377.0,12673.35,Credit Card,Delivered,5.0,5.0
+ORD-01187,2025-05-09,CUST-0142,Central,Furniture,Lamp,1,2279.01,10.0,2051.11,381.16,UPI,Delivered,8.0,5.0
+ORD-01188,2025-07-07,CUST-0325,Central,Furniture,Bookshelf,1,7844.21,15.0,6667.58,1377.23,Credit Card,Delivered,7.0,4.0
+ORD-01189,2025-04-06,CUST-0159,East,Home & Kitchen,Bedsheet,1,2763.48,0.0,2763.48,577.8,Cash on Delivery,Delivered,6.0,4.0
+ORD-01190,2025-05-28,CUST-0010,East,Office Supplies,Notebook,1,104.73,10.0,94.26,29.53,Debit Card,Delivered,7.0,5.0
+ORD-01191,2025-12-19,CUST-0356,East,Furniture,Lamp,3,1213.81,15.0,3095.22,205.33,UPI,Delivered,6.0,5.0
+ORD-01192,2025-05-13,CUST-0186,West,Furniture,Lamp,1,1116.96,0.0,1116.96,251.85,Cash on Delivery,Delivered,2.0,5.0
+ORD-01193,2025-07-04,CUST-0159,East,Furniture,Chair,1,8182.35,15.0,6955.0,433.92,UPI,Delivered,7.0,5.0
+ORD-01194,2025-08-01,CUST-0220,East,Technology,Keyboard,1,1946.84,0.0,1946.84,266.35,Cash on Delivery,Delivered,6.0,4.0
+ORD-01195,2025-10-31,CUST-0178,South,Furniture,Chair,2,3993.78,0.0,7987.56,1491.45,Credit Card,Delivered,6.0,5.0
+ORD-01196,2025-05-08,CUST-0237,Central,Home & Kitchen,Water Bottle,1,382.12,5.0,363.01,62.3,Credit Card,Delivered,8.0,3.0
+ORD-01197,2025-07-03,CUST-0130,East,Furniture,Bookshelf,5,8279.24,15.0,35186.77,5866.64,UPI,Returned,6.0,2.0
+ORD-01198,2025-10-22,CUST-0176,South,Furniture,Lamp,2,1433.91,15.0,2437.65,332.7,Credit Card,Delivered,4.0,5.0
+ORD-01199,2025-06-16,CUST-0277,South,Furniture,Sofa,2,12459.28,20.0,19934.85,1268.77,Net Banking,Delivered,3.0,4.0
+ORD-01200,2025-09-02,CUST-0449,South,Furniture,Lamp,2,1993.18,5.0,3787.04,879.72,Credit Card,Delivered,6.0,5.0
+ORD-00460,2025-05-28,CUST-0162,North,Technology,Monitor,3,17425.95,15.0,44436.17,2569.91,Cash on Delivery,Delivered,5.0,2.0
+ORD-00458,2025-05-19,CUST-0192,South,Technology,Headphones,1,2885.85,10.0,2597.26,150.6,Credit Card,Delivered,4.0,5.0
+ORD-01023,2025-07-31,CUST-0229,South,Furniture,Lamp,3,932.68,0.0,2798.04,519.1,Credit Card,Delivered,2.0,1.0
+ORD-00142,2025-12-29,CUST-0329,North,Home & Kitchen,Water Bottle,3,282.01,10.0,761.43,76.92,Cash on Delivery,Delivered,3.0,3.0
